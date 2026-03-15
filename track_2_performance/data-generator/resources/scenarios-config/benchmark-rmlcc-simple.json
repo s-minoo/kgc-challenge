@@ -1,52 +1,52 @@
 {
-    "@id": "http://example.com/new-rml-benchmark/rml-cc-joins",
-    "name": "RML Collection and Containers benchmark (Joins)",
-    "description": "Scaling number of joins in a collection by adjusting duplication rate",
+    "@id": "http://example.com/new-rml-benchmark/rml-cc-simple",
+    "name": "RML Collection and Containers benchmark (Simple)",
+    "description": "Scaling number of data records with fixed-size collections length",
     "instances": [
         {
-            "@id": "http://example.com/new-rml-benchmark/rml-cc/joins#0.25duplirate",
-            "name": "1M rows, 0.25 duplication rate",
+            "@id": "http://example.com/new-rml-benchmark/rml-cc/simple#10k-record",
+            "name": "10k records with collection length 10",
             "generator": "RMLCCData",
             "parameters": {
-                "data_type": "join",
-                "count": 1000000, 
-                "duplication_rate": 0.25, 
+                "data_type": "simple",
+                "count": 10000, 
+                "list_length": 10, 
                 "data_format": "json",
                 "engine": "TODO ADD ENGINE NAME"
             }
         },
         {
-            "@id": "http://example.com/new-rml-benchmark/rml-cc/joins#0.5duplirate",
-            "name": "1M rows, 0.5 duplication rate",
+            "@id": "http://example.com/new-rml-benchmark/rml-cc/simple#100k-record",
+            "name": "100k records with collection length 10",
             "generator": "RMLCCData",
             "parameters": {
-                "data_type": "join",
-                "count": 1000000, 
-                "duplication_rate": 0.5, 
+                "data_type": "simple",
+                "count": 100000, 
+                "list_length": 10, 
                 "data_format": "json",
                 "engine": "TODO ADD ENGINE NAME"
             }
         },
         {
-            "@id": "http://example.com/new-rml-benchmark/rml-cc/joins#0.75duplirate",
-            "name": "1M rows, 0.75 duplication rate",
+            "@id": "http://example.com/new-rml-benchmark/rml-cc/simple#1M-record",
+            "name": "1M records with collection length 10",
             "generator": "RMLCCData",
             "parameters": {
-                "data_type": "join",
+                "data_type": "simple",
                 "count": 1000000, 
-                "duplication_rate": 0.75, 
+                "list_length": 10, 
                 "data_format": "json",
                 "engine": "TODO ADD ENGINE NAME"
             }
         },
         {
-            "@id": "http://example.com/new-rml-benchmark/rml-cc/joins#1.0duplirate",
-            "name": "1M rows, 1.0 duplication rate",
+            "@id": "http://example.com/new-rml-benchmark/rml-cc/simple#10M-record",
+            "name": "10M records with collection length 10",
             "generator": "RMLCCData",
             "parameters": {
-                "data_type": "join",
-                "count": 1000000, 
-                "duplication_rate": 1.0, 
+                "data_type": "simple",
+                "count": 10000000, 
+                "list_length": 10, 
                 "data_format": "json",
                 "engine": "TODO ADD ENGINE NAME"
             }
