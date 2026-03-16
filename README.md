@@ -49,3 +49,12 @@ The task consists of generating an RDF knowledge graph compliant with a subset o
 To facilitate evaluation and reproducibility, the expected output graph is also provided in Turtle format.
 
 Participants must transform the XML input data into RDF according to the ontology specification so that the generated graph matches the provided reference output.
+
+
+### Scenario 2:
+
+TBA soon
+
+### Scenario 3:
+
+TBA soon
