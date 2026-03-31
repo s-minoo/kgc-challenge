@@ -1,0 +1,2453 @@
+{
+    "NrOfResults": 8,
+    "StartIndex": 0,
+    "TotalNrOfResults": 8,
+    "Results": [
+        {
+            "Structural": {
+                "Fragments": {
+                    "Fragment": [
+                        "574679050pt238370n713a625tah66njpt583h8rxz9834b1e26nnbk4lq1a1734sk6rhq84688703552b856ga8n10i0155",
+                        "168373238ok381346z252l206ctg41hesz236d0hfg7557u9c43emlk4wn8y2944mo180ol2w51j7s76947925zr3xpd408s",
+                        "031412680bb391593x950e321ohd32qngi200l9pdi2038q5t85noio2zo7a76565m36z8cykhb61o320d257g0f1d4452wj",
+                        "104067071zr504835d618s873tmr27nfcw812s8fwj9048j6q21mvvz6nq5d06206008sf5t0ols654i60mxju47740p8t85",
+                        "920850158rc600799e066r452olo03cltb100h2oib5440v0t85bvmd8er5k20911f6018uzf9r857lz0e50gx1770vp2r7f",
+                        "109731065jg487763p773s466rkb12nozk680k8gba5048e3v36cprm0td5y1183gsf65t6r0k39992en0p01d38681f4xjf",
+                        "043853858ij277650a983u831hps58ddzi772l1vvm2499s6l21jmuq4zv6o4255885w1967111s49b90987igjnlalq6c48"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "FragmentStartTimeCode": "15:02:16.749",
+                "FragmentEndTimeCode": "03:51:10.489",
+                "FragmentDurationFrames": 30248,
+                "FragmentDurationTimeCode": "03:51:10.489",
+                "FragmentEndFrames": 30248,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 30248,
+                "VideoFormat": "Daniel Cok",
+                "EndFrames": 93547,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 15,
+                "StartFrames": 63299,
+                "Width": 61,
+                "Md5": "be430f59441197f0ab8155d701ac2659",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566440,
+                "EditRate": "74",
+                "VideoTechnical": "Ok across statement down discussion.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 16,
+                "VideoCodec": "dkni9suuvf",
+                "IndexEditRate": "74",
+                "FileSize": 9462548528,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "03:51:10.489",
+                "Height": 94,
+                "EndTimeCode": "05:10:00.166",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "16:43:26.150",
+                "ImageOrientation": "landscape",
+                "VideoFps": "74",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2018-07-26T23:11:52.351197Z",
+                "IsSynchronized": false,
+                "OrganisationName": "nbghvtnxa",
+                "Workflow": "Bamhed",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2023-01-08T02:42:15.568582Z",
+                "IngestTape": "WH1778V7",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "video",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "nbghvtnxa",
+                "UserLastModifiedDate": "2011-05-22T08:45:23.479684Z",
+                "OrganisationLongName": "nbghvtnxa",
+                "RecordType": "Record",
+                "PublicationDate": "2013-04-23T03:40:12.575915Z",
+                "ExternalId": "4r6an0s38x",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "BT-0i8mz2r",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2006-01-26T22:19:12.766575Z",
+                "OriginalFilename": "4r6an0s38x.mxf",
+                "RightsOwner": "Morning or better its.",
+                "UploadedBy": "Tiffany Moe",
+                "KeyframeStart": 0,
+                "Title": "Class along want example co.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Export": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Read": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "2e5688b2-03cb-4b5f-b2ec-eb6e97677a63",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "qc_note": "Many great own article wide.",
+                "OTC_start": "09:49:20:11",
+                "brand": "DUSM",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2016-08-22",
+                "shipment_id": "0921547536",
+                "digitization_format": "D10",
+                "created_on": "2014-08-14T11:00:43",
+                "updated_by": "Brandy Bush MD",
+                "status": "Us evening what .",
+                "qc_date": "2024-05-29",
+                "batch_id": "SWEL75Z46",
+                "player_model": "EDG-E338T",
+                "inspection_date": "2022-06-06",
+                "qc_outcome": "y",
+                "video_fps": "Charles Gregory",
+                "is_preserved_by_another": "5",
+                "dc_identifier_localid": "51-61-7901",
+                "PID": "4r6an0s38x",
+                "CP": "Morgan Ker",
+                "batch_name": "SWEL75Z46",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "52211",
+                "carrier_barcode": "TAYN_HKX_644077",
+                "preservation_problems": "Qjcq",
+                "encoder_serial_number": "3935",
+                "updated_on": "2014-08-14T11:00:43",
+                "date": "2022-05-24",
+                "lto_id": "WH1778V7",
+                "player_manufacturer": "Awyp",
+                "Batch-uuid": "Erica Elliott",
+                "digitization_date": "2014-04-22",
+                "transfer_lto_date": "2024-05-29",
+                "digitization_outcome": "y",
+                "digitization_time": "12:14",
+                "format": "Betacam SP",
+                "created_by": "Brandy Bush MD",
+                "related_documents": "5",
+                "sp_id": "BT-f62q45a",
+                "dcterms_created": "1995-08-23",
+                "encoder_manufacturer": "Eric Wright",
+                "qc_by": "eoiyld",
+                "duration": "0:49:63",
+                "sp_name": "Bamhed",
+                "file_duration": "04:13:52:03",
+                "transport_box_barcode": "MCTY-9-6986-5797",
+                "original_carrier_id": "51-61-7901",
+                "CP_id": "BT-0i8mz2r",
+                "collection_box_barcode": "BOXN_HKX_777250",
+                "NeedsPublicationDateMigration": "hkac",
+                "encoder_model": "Laura Tors"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "PathToKeyframe": "https://dxgakii-cmbrb.fdgd.qa/work/even/hgctaowk6.jpg",
+                "PathToPreview": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "however/change/hgctaowk6.jpg",
+                            "PathToKeyframeThumb": "bed/indeed/hgctaowk6.jpg",
+                            "PathToVideo": "wpqwlf.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "it3_nbghvtnxa",
+                            "FileSize": 245644996,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "k238",
+                            "Width": 85,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1624174,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1366532,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "74"
+                        },
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToVideo": "isoq-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "isoq-2",
+                            "FileSize": 66596,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "iwfdhkraf",
+                "RecordId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "IsInIngestSpace": false,
+                "OrganisationId": "326",
+                "ContainsGeoData": false,
+                "OriginalStatus": "iwfdhkraf",
+                "IsFragment": false,
+                "HasKeyframes": false,
+                "MediaObjectId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "669981799ij331968p500q157goe80yjjx261x0way9724b9f15cnen3en8s63392u55e22390l362od755uvvre203q5799",
+                "OffsetInDatabase": 7525,
+                "PathToKeyframeThumb": "https://nzhxzbg-vyytd.vlqx.hh/though/provide/hgctaowk6.jpg",
+                "DepartmentId": "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "UploadedById": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 11080,
+                "MainFragment": "669981799ij331968p500q157goe80yjjx261x0way9724b9f15cnen3en8s63392u55e22390l362od755uvvre203q5799",
+                "FragmentStartTimeCode": "21:50:16.317",
+                "FragmentEndTimeCode": "06:54:46.707",
+                "FragmentDurationFrames": 1188,
+                "FragmentDurationTimeCode": "20:29:59.986",
+                "FragmentEndFrames": 12268,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 30248,
+                "VideoFormat": "Daniel Cok",
+                "EndFrames": 93547,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 15,
+                "StartFrames": 63299,
+                "Width": 61,
+                "Md5": "be430f59441197f0ab8155d701ac2659",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566440,
+                "EditRate": "74",
+                "VideoTechnical": "Ok across statement down discussion.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 16,
+                "VideoCodec": "dkni9suuvf",
+                "IndexEditRate": "74",
+                "FileSize": 9462548528,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "03:51:10.489",
+                "Height": 94,
+                "EndTimeCode": "05:10:00.166",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "16:43:26.150",
+                "ImageOrientation": "landscape",
+                "VideoFps": "74",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2022-02-10T10:01:34.259846Z",
+                "IsSynchronized": false,
+                "OrganisationName": "nbghvtnxa",
+                "Workflow": "Bamhed",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2023-01-08T02:42:15.568582Z",
+                "IngestTape": "WH1778V7",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "videofragment",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "nbghvtnxa",
+                "UserLastModifiedDate": "2006-07-22T02:23:41.536476Z",
+                "OrganisationLongName": "nbghvtnxa",
+                "RecordType": "Record",
+                "PublicationDate": "2013-04-23T03:40:12.575915Z",
+                "ExternalId": "4r6an0s38x",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "BT-0i8mz2r",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2002-06-12T17:12:15.754528Z",
+                "Description": "Significant wear stage sure type season beat.",
+                "OriginalFilename": "4r6an0s38x.mxf",
+                "RightsOwner": "Morning or better its.",
+                "UploadedBy": "Tiffany Moe",
+                "KeyframeStart": 0,
+                "Title": "Personal end staff ready econo.",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Export": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Read": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "2e5688b2-03cb-4b5f-b2ec-eb6e97677a63",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "qc_note": "Many great own article wide.",
+                "OTC_start": "09:49:20:11",
+                "brand": "DUSM",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2016-08-22",
+                "shipment_id": "0921547536",
+                "digitization_format": "D10",
+                "created_on": "2014-08-14T11:00:43",
+                "updated_by": "Brandy Bush MD",
+                "status": "Us evening what .",
+                "qc_date": "2024-05-29",
+                "batch_id": "SWEL75Z46",
+                "player_model": "EDG-E338T",
+                "inspection_date": "2022-06-06",
+                "qc_outcome": "y",
+                "video_fps": "Charles Gregory",
+                "is_preserved_by_another": "5",
+                "dc_identifier_localid": "51-61-7901",
+                "PID": "4r6an0s38x",
+                "CP": "Morgan Ker",
+                "batch_name": "SWEL75Z46",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "52211",
+                "carrier_barcode": "TAYN_HKX_644077",
+                "preservation_problems": "Qjcq",
+                "encoder_serial_number": "3935",
+                "updated_on": "2014-08-14T11:00:43",
+                "date": "2022-05-24",
+                "lto_id": "WH1778V7",
+                "player_manufacturer": "Awyp",
+                "Batch-uuid": "Erica Elliott",
+                "digitization_date": "2014-04-22",
+                "transfer_lto_date": "2024-05-29",
+                "digitization_outcome": "y",
+                "digitization_time": "12:14",
+                "format": "Betacam SP",
+                "created_by": "Brandy Bush MD",
+                "related_documents": "5",
+                "sp_id": "BT-f62q45a",
+                "encoder_manufacturer": "Eric Wright",
+                "qc_by": "eoiyld",
+                "duration": "0:49:63",
+                "sp_name": "Bamhed",
+                "file_duration": "04:13:52:03",
+                "transport_box_barcode": "MCTY-9-6986-5797",
+                "original_carrier_id": "51-61-7901",
+                "CP_id": "BT-0i8mz2r",
+                "collection_box_barcode": "BOXN_HKX_777250",
+                "NeedsPublicationDateMigration": "hkac",
+                "encoder_model": "Laura Tors"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "PathToKeyframe": "https://gkrgqts-dwfda.axlu.vb/field/mouth/xbcautye98.jpg",
+                "PathToPreview": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "near/four/xbcautye98.jpg",
+                            "PathToKeyframeThumb": "design/thing/xbcautye98.jpg",
+                            "PathToVideo": "wpqwlf.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "it3_nbghvtnxa",
+                            "FileSize": 245644996,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "k238",
+                            "Width": 85,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1624174,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1366532,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "74"
+                        },
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "near/four/xbcautye98.jpg",
+                            "PathToKeyframeThumb": "design/thing/xbcautye98.jpg",
+                            "PathToVideo": "isoq-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "isoq-2",
+                            "FileSize": 66596,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "iwfdhkraf",
+                "RecordId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "IsInIngestSpace": false,
+                "OrganisationId": "326",
+                "ContainsGeoData": false,
+                "OriginalStatus": "iwfdhkraf",
+                "IsFragment": true,
+                "HasKeyframes": false,
+                "MediaObjectId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "104067071zr504835d618s873tmr27nfcw812s8fwj9048j6q21mvvz6nq5d06206008sf5t0ols654i60mxju47740p8t85",
+                "OffsetInDatabase": 7525,
+                "PathToKeyframeThumb": "https://vrdsgzr-sknef.hoxo.ja/along/never/xbcautye98.jpg",
+                "DepartmentId": "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "UploadedById": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 19569,
+                "MainFragment": "669981799ij331968p500q157goe80yjjx261x0way9724b9f15cnen3en8s63392u55e22390l362od755uvvre203q5799",
+                "FragmentStartTimeCode": "06:55:18.318",
+                "FragmentEndTimeCode": "22:15:49.607",
+                "FragmentDurationFrames": 2285,
+                "FragmentDurationTimeCode": "13:09:20.984",
+                "FragmentEndFrames": 21854,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 30248,
+                "VideoFormat": "Daniel Cok",
+                "EndFrames": 93547,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 15,
+                "StartFrames": 63299,
+                "Width": 61,
+                "Md5": "be430f59441197f0ab8155d701ac2659",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566440,
+                "EditRate": "74",
+                "VideoTechnical": "Ok across statement down discussion.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 16,
+                "VideoCodec": "dkni9suuvf",
+                "IndexEditRate": "74",
+                "FileSize": 9462548528,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "03:51:10.489",
+                "Height": 94,
+                "EndTimeCode": "05:10:00.166",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "16:43:26.150",
+                "ImageOrientation": "landscape",
+                "VideoFps": "74",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2010-06-19T02:26:02.569914Z",
+                "IsSynchronized": false,
+                "OrganisationName": "nbghvtnxa",
+                "Workflow": "Bamhed",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2023-01-08T02:42:15.568582Z",
+                "IngestTape": "WH1778V7",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "videofragment",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "nbghvtnxa",
+                "UserLastModifiedDate": "2008-10-14T18:26:34.909448Z",
+                "OrganisationLongName": "nbghvtnxa",
+                "RecordType": "Record",
+                "PublicationDate": "2013-04-23T03:40:12.575915Z",
+                "ExternalId": "4r6an0s38x",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "BT-0i8mz2r",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2002-06-12T17:12:15.754528Z",
+                "Description": "End team level team pass light.",
+                "OriginalFilename": "4r6an0s38x.mxf",
+                "RightsOwner": "Morning or better its.",
+                "UploadedBy": "Tiffany Moe",
+                "KeyframeStart": 0,
+                "Title": "VFVEGUBILHNG",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Export": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Read": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "2e5688b2-03cb-4b5f-b2ec-eb6e97677a63",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "qc_note": "Many great own article wide.",
+                "OTC_start": "09:49:20:11",
+                "brand": "DUSM",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2016-08-22",
+                "shipment_id": "0921547536",
+                "digitization_format": "D10",
+                "created_on": "2014-08-14T11:00:43",
+                "updated_by": "Brandy Bush MD",
+                "status": "Us evening what .",
+                "qc_date": "2024-05-29",
+                "batch_id": "SWEL75Z46",
+                "player_model": "EDG-E338T",
+                "inspection_date": "2022-06-06",
+                "qc_outcome": "y",
+                "video_fps": "Charles Gregory",
+                "is_preserved_by_another": "5",
+                "dc_identifier_localid": "51-61-7901",
+                "PID": "4r6an0s38x",
+                "CP": "Morgan Ker",
+                "batch_name": "SWEL75Z46",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "52211",
+                "carrier_barcode": "TAYN_HKX_644077",
+                "preservation_problems": "Qjcq",
+                "encoder_serial_number": "3935",
+                "updated_on": "2014-08-14T11:00:43",
+                "date": "2022-05-24",
+                "lto_id": "WH1778V7",
+                "player_manufacturer": "Awyp",
+                "Batch-uuid": "Erica Elliott",
+                "digitization_date": "2014-04-22",
+                "transfer_lto_date": "2024-05-29",
+                "digitization_outcome": "y",
+                "digitization_time": "12:14",
+                "format": "Betacam SP",
+                "created_by": "Brandy Bush MD",
+                "related_documents": "5",
+                "sp_id": "BT-f62q45a",
+                "encoder_manufacturer": "Eric Wright",
+                "qc_by": "eoiyld",
+                "duration": "0:49:63",
+                "sp_name": "Bamhed",
+                "file_duration": "04:13:52:03",
+                "transport_box_barcode": "MCTY-9-6986-5797",
+                "original_carrier_id": "51-61-7901",
+                "CP_id": "BT-0i8mz2r",
+                "collection_box_barcode": "BOXN_HKX_777250",
+                "NeedsPublicationDateMigration": "hkac",
+                "encoder_model": "Laura Tors"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "PathToKeyframe": "https://dyoqphz-twwle.fpsm.sm/over/fight/nvxhzmng96.jpg",
+                "PathToPreview": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "official/into/nvxhzmng96.jpg",
+                            "PathToKeyframeThumb": "pull/feel/nvxhzmng96.jpg",
+                            "PathToVideo": "wpqwlf.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "it3_nbghvtnxa",
+                            "FileSize": 245644996,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "k238",
+                            "Width": 85,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1624174,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1366532,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "74"
+                        },
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "official/into/nvxhzmng96.jpg",
+                            "PathToKeyframeThumb": "pull/feel/nvxhzmng96.jpg",
+                            "PathToVideo": "isoq-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "isoq-2",
+                            "FileSize": 66596,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "iwfdhkraf",
+                "RecordId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "IsInIngestSpace": false,
+                "OrganisationId": "326",
+                "ContainsGeoData": false,
+                "OriginalStatus": "iwfdhkraf",
+                "IsFragment": true,
+                "HasKeyframes": false,
+                "MediaObjectId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "043853858ij277650a983u831hps58ddzi772l1vvm2499s6l21jmuq4zv6o4255885w1967111s49b90987igjnlalq6c48",
+                "OffsetInDatabase": 7525,
+                "PathToKeyframeThumb": "https://eivrbnv-fifkl.wpqj.rt/such/lose/nvxhzmng96.jpg",
+                "DepartmentId": "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "UploadedById": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 12278,
+                "MainFragment": "669981799ij331968p500q157goe80yjjx261x0way9724b9f15cnen3en8s63392u55e22390l362od755uvvre203q5799",
+                "FragmentStartTimeCode": "23:52:59.775",
+                "FragmentEndTimeCode": "21:08:20.165",
+                "FragmentDurationFrames": 3910,
+                "FragmentDurationTimeCode": "07:51:08.370",
+                "FragmentEndFrames": 16188,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 30248,
+                "VideoFormat": "Daniel Cok",
+                "EndFrames": 93547,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 15,
+                "StartFrames": 63299,
+                "Width": 61,
+                "Md5": "be430f59441197f0ab8155d701ac2659",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566440,
+                "EditRate": "74",
+                "VideoTechnical": "Ok across statement down discussion.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 16,
+                "VideoCodec": "dkni9suuvf",
+                "IndexEditRate": "74",
+                "FileSize": 9462548528,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "03:51:10.489",
+                "Height": 94,
+                "EndTimeCode": "05:10:00.166",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "16:43:26.150",
+                "ImageOrientation": "landscape",
+                "VideoFps": "74",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2004-07-19T18:45:33.524857Z",
+                "IsSynchronized": false,
+                "OrganisationName": "nbghvtnxa",
+                "Workflow": "Bamhed",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2023-01-08T02:42:15.568582Z",
+                "IngestTape": "WH1778V7",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "videofragment",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "nbghvtnxa",
+                "UserLastModifiedDate": "2018-08-08T07:49:00.237393Z",
+                "OrganisationLongName": "nbghvtnxa",
+                "RecordType": "Record",
+                "PublicationDate": "2013-04-23T03:40:12.575915Z",
+                "ExternalId": "4r6an0s38x",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "BT-0i8mz2r",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2002-06-12T17:12:15.754528Z",
+                "Description": "Home father my tend.",
+                "OriginalFilename": "4r6an0s38x.mxf",
+                "RightsOwner": "Morning or better its.",
+                "UploadedBy": "Tiffany Moe",
+                "KeyframeStart": 0,
+                "Title": "Room ahead garden work.",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Export": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Read": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "2e5688b2-03cb-4b5f-b2ec-eb6e97677a63",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "qc_note": "Many great own article wide.",
+                "OTC_start": "09:49:20:11",
+                "brand": "DUSM",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2016-08-22",
+                "shipment_id": "0921547536",
+                "digitization_format": "D10",
+                "created_on": "2014-08-14T11:00:43",
+                "updated_by": "Brandy Bush MD",
+                "status": "Us evening what .",
+                "qc_date": "2024-05-29",
+                "batch_id": "SWEL75Z46",
+                "player_model": "EDG-E338T",
+                "inspection_date": "2022-06-06",
+                "qc_outcome": "y",
+                "video_fps": "Charles Gregory",
+                "is_preserved_by_another": "5",
+                "dc_identifier_localid": "51-61-7901",
+                "PID": "4r6an0s38x",
+                "CP": "Morgan Ker",
+                "batch_name": "SWEL75Z46",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "52211",
+                "carrier_barcode": "TAYN_HKX_644077",
+                "preservation_problems": "Qjcq",
+                "encoder_serial_number": "3935",
+                "updated_on": "2014-08-14T11:00:43",
+                "date": "2022-05-24",
+                "lto_id": "WH1778V7",
+                "player_manufacturer": "Awyp",
+                "Batch-uuid": "Erica Elliott",
+                "digitization_date": "2014-04-22",
+                "transfer_lto_date": "2024-05-29",
+                "digitization_outcome": "y",
+                "digitization_time": "12:14",
+                "format": "Betacam SP",
+                "created_by": "Brandy Bush MD",
+                "related_documents": "5",
+                "sp_id": "BT-f62q45a",
+                "encoder_manufacturer": "Eric Wright",
+                "qc_by": "eoiyld",
+                "duration": "0:49:63",
+                "sp_name": "Bamhed",
+                "file_duration": "04:13:52:03",
+                "transport_box_barcode": "MCTY-9-6986-5797",
+                "original_carrier_id": "51-61-7901",
+                "CP_id": "BT-0i8mz2r",
+                "collection_box_barcode": "BOXN_HKX_777250",
+                "NeedsPublicationDateMigration": "hkac",
+                "encoder_model": "Laura Tors"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "PathToKeyframe": "https://wjhaqzj-gsanr.zsrb.lp/subject/analysis/oegocqfa18.jpg",
+                "PathToPreview": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "sense/west/oegocqfa18.jpg",
+                            "PathToKeyframeThumb": "doctor/himself/oegocqfa18.jpg",
+                            "PathToVideo": "wpqwlf.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "it3_nbghvtnxa",
+                            "FileSize": 245644996,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "k238",
+                            "Width": 85,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1624174,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1366532,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "74"
+                        },
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "sense/west/oegocqfa18.jpg",
+                            "PathToKeyframeThumb": "doctor/himself/oegocqfa18.jpg",
+                            "PathToVideo": "isoq-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "isoq-2",
+                            "FileSize": 66596,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "iwfdhkraf",
+                "RecordId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "IsInIngestSpace": false,
+                "OrganisationId": "326",
+                "ContainsGeoData": false,
+                "OriginalStatus": "iwfdhkraf",
+                "IsFragment": true,
+                "HasKeyframes": false,
+                "MediaObjectId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "574679050pt238370n713a625tah66njpt583h8rxz9834b1e26nnbk4lq1a1734sk6rhq84688703552b856ga8n10i0155",
+                "OffsetInDatabase": 7525,
+                "PathToKeyframeThumb": "https://sbhfiet-qtdko.hsgi.he/edge/police/oegocqfa18.jpg",
+                "DepartmentId": "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "UploadedById": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 16237,
+                "MainFragment": "669981799ij331968p500q157goe80yjjx261x0way9724b9f15cnen3en8s63392u55e22390l362od755uvvre203q5799",
+                "FragmentStartTimeCode": "00:43:18.437",
+                "FragmentEndTimeCode": "11:47:56.126",
+                "FragmentDurationFrames": 3329,
+                "FragmentDurationTimeCode": "07:48:46.884",
+                "FragmentEndFrames": 19566,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 30248,
+                "VideoFormat": "Daniel Cok",
+                "EndFrames": 93547,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 15,
+                "StartFrames": 63299,
+                "Width": 61,
+                "Md5": "be430f59441197f0ab8155d701ac2659",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566440,
+                "EditRate": "74",
+                "VideoTechnical": "Ok across statement down discussion.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 16,
+                "VideoCodec": "dkni9suuvf",
+                "IndexEditRate": "74",
+                "FileSize": 9462548528,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "03:51:10.489",
+                "Height": 94,
+                "EndTimeCode": "05:10:00.166",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "16:43:26.150",
+                "ImageOrientation": "landscape",
+                "VideoFps": "74",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2012-10-15T23:11:40.852773Z",
+                "IsSynchronized": false,
+                "OrganisationName": "nbghvtnxa",
+                "Workflow": "Bamhed",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2023-01-08T02:42:15.568582Z",
+                "IngestTape": "WH1778V7",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "videofragment",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "nbghvtnxa",
+                "UserLastModifiedDate": "2007-03-29T22:20:57.949023Z",
+                "OrganisationLongName": "nbghvtnxa",
+                "RecordType": "Record",
+                "PublicationDate": "2013-04-23T03:40:12.575915Z",
+                "ExternalId": "4r6an0s38x",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "BT-0i8mz2r",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2002-06-12T17:12:15.754528Z",
+                "Description": "Capital red public parent.",
+                "OriginalFilename": "4r6an0s38x.mxf",
+                "RightsOwner": "Morning or better its.",
+                "UploadedBy": "Tiffany Moe",
+                "KeyframeStart": 0,
+                "Title": "Jenny Nen",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Export": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Read": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "2e5688b2-03cb-4b5f-b2ec-eb6e97677a63",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "qc_note": "Many great own article wide.",
+                "OTC_start": "09:49:20:11",
+                "brand": "DUSM",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2016-08-22",
+                "shipment_id": "0921547536",
+                "digitization_format": "D10",
+                "created_on": "2014-08-14T11:00:43",
+                "updated_by": "Brandy Bush MD",
+                "status": "Us evening what .",
+                "qc_date": "2024-05-29",
+                "batch_id": "SWEL75Z46",
+                "player_model": "EDG-E338T",
+                "inspection_date": "2022-06-06",
+                "qc_outcome": "y",
+                "video_fps": "Charles Gregory",
+                "is_preserved_by_another": "5",
+                "dc_identifier_localid": "51-61-7901",
+                "PID": "4r6an0s38x",
+                "CP": "Morgan Ker",
+                "batch_name": "SWEL75Z46",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "52211",
+                "carrier_barcode": "TAYN_HKX_644077",
+                "preservation_problems": "Qjcq",
+                "encoder_serial_number": "3935",
+                "updated_on": "2014-08-14T11:00:43",
+                "date": "2022-05-24",
+                "lto_id": "WH1778V7",
+                "player_manufacturer": "Awyp",
+                "Batch-uuid": "Erica Elliott",
+                "digitization_date": "2014-04-22",
+                "transfer_lto_date": "2024-05-29",
+                "digitization_outcome": "y",
+                "digitization_time": "12:14",
+                "format": "Betacam SP",
+                "created_by": "Brandy Bush MD",
+                "related_documents": "5",
+                "sp_id": "BT-f62q45a",
+                "encoder_manufacturer": "Eric Wright",
+                "qc_by": "eoiyld",
+                "duration": "0:49:63",
+                "sp_name": "Bamhed",
+                "file_duration": "04:13:52:03",
+                "transport_box_barcode": "MCTY-9-6986-5797",
+                "original_carrier_id": "51-61-7901",
+                "CP_id": "BT-0i8mz2r",
+                "collection_box_barcode": "BOXN_HKX_777250",
+                "NeedsPublicationDateMigration": "hkac",
+                "encoder_model": "Laura Tors"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "PathToKeyframe": "https://lbwusry-ffipq.jojt.rg/police/recent/huireflw52.jpg",
+                "PathToPreview": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "get/computer/huireflw52.jpg",
+                            "PathToKeyframeThumb": "couple/data/huireflw52.jpg",
+                            "PathToVideo": "wpqwlf.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "it3_nbghvtnxa",
+                            "FileSize": 245644996,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "k238",
+                            "Width": 85,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1624174,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1366532,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "74"
+                        },
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "get/computer/huireflw52.jpg",
+                            "PathToKeyframeThumb": "couple/data/huireflw52.jpg",
+                            "PathToVideo": "isoq-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "isoq-2",
+                            "FileSize": 66596,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "iwfdhkraf",
+                "RecordId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "IsInIngestSpace": false,
+                "OrganisationId": "326",
+                "ContainsGeoData": false,
+                "OriginalStatus": "iwfdhkraf",
+                "IsFragment": true,
+                "HasKeyframes": false,
+                "MediaObjectId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "920850158rc600799e066r452olo03cltb100h2oib5440v0t85bvmd8er5k20911f6018uzf9r857lz0e50gx1770vp2r7f",
+                "OffsetInDatabase": 7525,
+                "PathToKeyframeThumb": "https://couorzj-wzebx.surb.vj/market/he/huireflw52.jpg",
+                "DepartmentId": "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "UploadedById": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 5282,
+                "MainFragment": "669981799ij331968p500q157goe80yjjx261x0way9724b9f15cnen3en8s63392u55e22390l362od755uvvre203q5799",
+                "FragmentStartTimeCode": "03:47:59.745",
+                "FragmentEndTimeCode": "16:43:39.382",
+                "FragmentDurationFrames": 2821,
+                "FragmentDurationTimeCode": "14:26:31.334",
+                "FragmentEndFrames": 8103,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 30248,
+                "VideoFormat": "Daniel Cok",
+                "EndFrames": 93547,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 15,
+                "StartFrames": 63299,
+                "Width": 61,
+                "Md5": "be430f59441197f0ab8155d701ac2659",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566440,
+                "EditRate": "74",
+                "VideoTechnical": "Ok across statement down discussion.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 16,
+                "VideoCodec": "dkni9suuvf",
+                "IndexEditRate": "74",
+                "FileSize": 9462548528,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "03:51:10.489",
+                "Height": 94,
+                "EndTimeCode": "05:10:00.166",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "16:43:26.150",
+                "ImageOrientation": "landscape",
+                "VideoFps": "74",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2003-10-18T01:20:36.196819Z",
+                "IsSynchronized": false,
+                "OrganisationName": "nbghvtnxa",
+                "Workflow": "Bamhed",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2023-01-08T02:42:15.568582Z",
+                "IngestTape": "WH1778V7",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "videofragment",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "nbghvtnxa",
+                "UserLastModifiedDate": "2007-09-06T10:17:50.157316Z",
+                "OrganisationLongName": "nbghvtnxa",
+                "RecordType": "Record",
+                "PublicationDate": "2013-04-23T03:40:12.575915Z",
+                "ExternalId": "4r6an0s38x",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "BT-0i8mz2r",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2002-06-12T17:12:15.754528Z",
+                "Description": "Market system over personal.",
+                "OriginalFilename": "4r6an0s38x.mxf",
+                "RightsOwner": "Morning or better its.",
+                "UploadedBy": "Tiffany Moe",
+                "KeyframeStart": 0,
+                "Title": "Stephen Dickersn",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Export": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Read": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "2e5688b2-03cb-4b5f-b2ec-eb6e97677a63",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "qc_note": "Many great own article wide.",
+                "OTC_start": "09:49:20:11",
+                "brand": "DUSM",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2016-08-22",
+                "shipment_id": "0921547536",
+                "digitization_format": "D10",
+                "created_on": "2014-08-14T11:00:43",
+                "updated_by": "Brandy Bush MD",
+                "status": "Us evening what .",
+                "qc_date": "2024-05-29",
+                "batch_id": "SWEL75Z46",
+                "player_model": "EDG-E338T",
+                "inspection_date": "2022-06-06",
+                "qc_outcome": "y",
+                "video_fps": "Charles Gregory",
+                "is_preserved_by_another": "5",
+                "dc_identifier_localid": "51-61-7901",
+                "PID": "4r6an0s38x",
+                "CP": "Morgan Ker",
+                "batch_name": "SWEL75Z46",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "52211",
+                "carrier_barcode": "TAYN_HKX_644077",
+                "preservation_problems": "Qjcq",
+                "encoder_serial_number": "3935",
+                "updated_on": "2014-08-14T11:00:43",
+                "date": "2022-05-24",
+                "lto_id": "WH1778V7",
+                "player_manufacturer": "Awyp",
+                "Batch-uuid": "Erica Elliott",
+                "digitization_date": "2014-04-22",
+                "transfer_lto_date": "2024-05-29",
+                "digitization_outcome": "y",
+                "digitization_time": "12:14",
+                "format": "Betacam SP",
+                "created_by": "Brandy Bush MD",
+                "related_documents": "5",
+                "sp_id": "BT-f62q45a",
+                "encoder_manufacturer": "Eric Wright",
+                "qc_by": "eoiyld",
+                "duration": "0:49:63",
+                "sp_name": "Bamhed",
+                "file_duration": "04:13:52:03",
+                "transport_box_barcode": "MCTY-9-6986-5797",
+                "original_carrier_id": "51-61-7901",
+                "CP_id": "BT-0i8mz2r",
+                "collection_box_barcode": "BOXN_HKX_777250",
+                "NeedsPublicationDateMigration": "hkac",
+                "encoder_model": "Laura Tors"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "PathToKeyframe": "https://motwhyu-pvfbd.axws.rk/charge/you/hfyqslst86.jpg",
+                "PathToPreview": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "trade/themselves/hfyqslst86.jpg",
+                            "PathToKeyframeThumb": "wife/number/hfyqslst86.jpg",
+                            "PathToVideo": "wpqwlf.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "it3_nbghvtnxa",
+                            "FileSize": 245644996,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "k238",
+                            "Width": 85,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1624174,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1366532,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "74"
+                        },
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "trade/themselves/hfyqslst86.jpg",
+                            "PathToKeyframeThumb": "wife/number/hfyqslst86.jpg",
+                            "PathToVideo": "isoq-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "isoq-2",
+                            "FileSize": 66596,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "iwfdhkraf",
+                "RecordId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "IsInIngestSpace": false,
+                "OrganisationId": "326",
+                "ContainsGeoData": false,
+                "OriginalStatus": "iwfdhkraf",
+                "IsFragment": true,
+                "HasKeyframes": false,
+                "MediaObjectId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "031412680bb391593x950e321ohd32qngi200l9pdi2038q5t85noio2zo7a76565m36z8cykhb61o320d257g0f1d4452wj",
+                "OffsetInDatabase": 7525,
+                "PathToKeyframeThumb": "https://ozhrnlu-milcu.rrbo.nm/because/employee/hfyqslst86.jpg",
+                "DepartmentId": "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "UploadedById": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 8115,
+                "MainFragment": "669981799ij331968p500q157goe80yjjx261x0way9724b9f15cnen3en8s63392u55e22390l362od755uvvre203q5799",
+                "FragmentStartTimeCode": "16:45:13.633",
+                "FragmentEndTimeCode": "21:19:11.698",
+                "FragmentDurationFrames": 2954,
+                "FragmentDurationTimeCode": "21:45:18.550",
+                "FragmentEndFrames": 11069,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 30248,
+                "VideoFormat": "Daniel Cok",
+                "EndFrames": 93547,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 15,
+                "StartFrames": 63299,
+                "Width": 61,
+                "Md5": "be430f59441197f0ab8155d701ac2659",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566440,
+                "EditRate": "74",
+                "VideoTechnical": "Ok across statement down discussion.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 16,
+                "VideoCodec": "dkni9suuvf",
+                "IndexEditRate": "74",
+                "FileSize": 9462548528,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "03:51:10.489",
+                "Height": 94,
+                "EndTimeCode": "05:10:00.166",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "16:43:26.150",
+                "ImageOrientation": "landscape",
+                "VideoFps": "74",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2019-08-02T11:59:56.832540Z",
+                "IsSynchronized": false,
+                "OrganisationName": "nbghvtnxa",
+                "Workflow": "Bamhed",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2023-01-08T02:42:15.568582Z",
+                "IngestTape": "WH1778V7",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "videofragment",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "nbghvtnxa",
+                "UserLastModifiedDate": "2012-09-05T13:34:31.940302Z",
+                "OrganisationLongName": "nbghvtnxa",
+                "RecordType": "Record",
+                "PublicationDate": "2013-04-23T03:40:12.575915Z",
+                "ExternalId": "4r6an0s38x",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "BT-0i8mz2r",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2002-06-12T17:12:15.754528Z",
+                "Description": "Environment strategy hard individual after.",
+                "OriginalFilename": "4r6an0s38x.mxf",
+                "RightsOwner": "Morning or better its.",
+                "UploadedBy": "Tiffany Moe",
+                "KeyframeStart": 0,
+                "Title": "Robert Soto",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Export": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Read": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "2e5688b2-03cb-4b5f-b2ec-eb6e97677a63",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "qc_note": "Many great own article wide.",
+                "OTC_start": "09:49:20:11",
+                "brand": "DUSM",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2016-08-22",
+                "shipment_id": "0921547536",
+                "digitization_format": "D10",
+                "created_on": "2014-08-14T11:00:43",
+                "updated_by": "Brandy Bush MD",
+                "status": "Us evening what .",
+                "qc_date": "2024-05-29",
+                "batch_id": "SWEL75Z46",
+                "player_model": "EDG-E338T",
+                "inspection_date": "2022-06-06",
+                "qc_outcome": "y",
+                "video_fps": "Charles Gregory",
+                "is_preserved_by_another": "5",
+                "dc_identifier_localid": "51-61-7901",
+                "PID": "4r6an0s38x",
+                "CP": "Morgan Ker",
+                "batch_name": "SWEL75Z46",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "52211",
+                "carrier_barcode": "TAYN_HKX_644077",
+                "preservation_problems": "Qjcq",
+                "encoder_serial_number": "3935",
+                "updated_on": "2014-08-14T11:00:43",
+                "date": "2022-05-24",
+                "lto_id": "WH1778V7",
+                "player_manufacturer": "Awyp",
+                "Batch-uuid": "Erica Elliott",
+                "digitization_date": "2014-04-22",
+                "transfer_lto_date": "2024-05-29",
+                "digitization_outcome": "y",
+                "digitization_time": "12:14",
+                "format": "Betacam SP",
+                "created_by": "Brandy Bush MD",
+                "related_documents": "5",
+                "sp_id": "BT-f62q45a",
+                "encoder_manufacturer": "Eric Wright",
+                "qc_by": "eoiyld",
+                "duration": "0:49:63",
+                "sp_name": "Bamhed",
+                "file_duration": "04:13:52:03",
+                "transport_box_barcode": "MCTY-9-6986-5797",
+                "original_carrier_id": "51-61-7901",
+                "CP_id": "BT-0i8mz2r",
+                "collection_box_barcode": "BOXN_HKX_777250",
+                "NeedsPublicationDateMigration": "hkac",
+                "encoder_model": "Laura Tors"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "PathToKeyframe": "https://eqgqifw-rxorn.kdoh.lo/old/hold/orzxkfhq69.jpg",
+                "PathToPreview": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "off/condition/orzxkfhq69.jpg",
+                            "PathToKeyframeThumb": "method/participant/orzxkfhq69.jpg",
+                            "PathToVideo": "wpqwlf.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "it3_nbghvtnxa",
+                            "FileSize": 245644996,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "k238",
+                            "Width": 85,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1624174,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1366532,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "74"
+                        },
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "off/condition/orzxkfhq69.jpg",
+                            "PathToKeyframeThumb": "method/participant/orzxkfhq69.jpg",
+                            "PathToVideo": "isoq-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "isoq-2",
+                            "FileSize": 66596,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "iwfdhkraf",
+                "RecordId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "IsInIngestSpace": false,
+                "OrganisationId": "326",
+                "ContainsGeoData": false,
+                "OriginalStatus": "iwfdhkraf",
+                "IsFragment": true,
+                "HasKeyframes": false,
+                "MediaObjectId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "168373238ok381346z252l206ctg41hesz236d0hfg7557u9c43emlk4wn8y2944mo180ol2w51j7s76947925zr3xpd408s",
+                "OffsetInDatabase": 7525,
+                "PathToKeyframeThumb": "https://mbhvxlm-vyxfw.pytg.dj/speak/call/orzxkfhq69.jpg",
+                "DepartmentId": "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "UploadedById": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 2961,
+                "MainFragment": "669981799ij331968p500q157goe80yjjx261x0way9724b9f15cnen3en8s63392u55e22390l362od755uvvre203q5799",
+                "FragmentStartTimeCode": "19:03:04.448",
+                "FragmentEndTimeCode": "06:50:52.157",
+                "FragmentDurationFrames": 2313,
+                "FragmentDurationTimeCode": "11:02:50.103",
+                "FragmentEndFrames": 5274,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 30248,
+                "VideoFormat": "Daniel Cok",
+                "EndFrames": 93547,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 15,
+                "StartFrames": 63299,
+                "Width": 61,
+                "Md5": "be430f59441197f0ab8155d701ac2659",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566440,
+                "EditRate": "74",
+                "VideoTechnical": "Ok across statement down discussion.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 16,
+                "VideoCodec": "dkni9suuvf",
+                "IndexEditRate": "74",
+                "FileSize": 9462548528,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "03:51:10.489",
+                "Height": 94,
+                "EndTimeCode": "05:10:00.166",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "16:43:26.150",
+                "ImageOrientation": "landscape",
+                "VideoFps": "74",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2023-12-31T07:38:38.099458Z",
+                "IsSynchronized": false,
+                "OrganisationName": "nbghvtnxa",
+                "Workflow": "Bamhed",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2023-01-08T02:42:15.568582Z",
+                "IngestTape": "WH1778V7",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "videofragment",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "nbghvtnxa",
+                "UserLastModifiedDate": "2024-10-15T05:49:08.321715Z",
+                "OrganisationLongName": "nbghvtnxa",
+                "RecordType": "Record",
+                "PublicationDate": "2013-04-23T03:40:12.575915Z",
+                "ExternalId": "4r6an0s38x",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "BT-0i8mz2r",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2002-06-12T17:12:15.754528Z",
+                "Description": "Opportunity lead brother certain.",
+                "OriginalFilename": "4r6an0s38x.mxf",
+                "RightsOwner": "Morning or better its.",
+                "UploadedBy": "Tiffany Moe",
+                "KeyframeStart": 0,
+                "Title": "Mr. Gavin Duncan",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Export": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ],
+                    "Read": [
+                        "d3893491-37b1-42b6-9d19-ef7d384bff9d",
+                        "afe89582-df91-4dec-8680-3349aa85ed5c",
+                        "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                        "2e5688b2-03cb-4b5f-b2ec-eb6e97677a63",
+                        "502d9d8f-2a67-4c13-b7ec-0f576ef1d4f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "qc_note": "Many great own article wide.",
+                "OTC_start": "09:49:20:11",
+                "brand": "DUSM",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2016-08-22",
+                "shipment_id": "0921547536",
+                "digitization_format": "D10",
+                "created_on": "2014-08-14T11:00:43",
+                "updated_by": "Brandy Bush MD",
+                "status": "Us evening what .",
+                "qc_date": "2024-05-29",
+                "batch_id": "SWEL75Z46",
+                "player_model": "EDG-E338T",
+                "inspection_date": "2022-06-06",
+                "qc_outcome": "y",
+                "video_fps": "Charles Gregory",
+                "is_preserved_by_another": "5",
+                "dc_identifier_localid": "51-61-7901",
+                "PID": "4r6an0s38x",
+                "CP": "Morgan Ker",
+                "batch_name": "SWEL75Z46",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "52211",
+                "carrier_barcode": "TAYN_HKX_644077",
+                "preservation_problems": "Qjcq",
+                "encoder_serial_number": "3935",
+                "updated_on": "2014-08-14T11:00:43",
+                "date": "2022-05-24",
+                "lto_id": "WH1778V7",
+                "player_manufacturer": "Awyp",
+                "Batch-uuid": "Erica Elliott",
+                "digitization_date": "2014-04-22",
+                "transfer_lto_date": "2024-05-29",
+                "digitization_outcome": "y",
+                "digitization_time": "12:14",
+                "format": "Betacam SP",
+                "created_by": "Brandy Bush MD",
+                "related_documents": "5",
+                "sp_id": "BT-f62q45a",
+                "encoder_manufacturer": "Eric Wright",
+                "qc_by": "eoiyld",
+                "duration": "0:49:63",
+                "sp_name": "Bamhed",
+                "file_duration": "04:13:52:03",
+                "transport_box_barcode": "MCTY-9-6986-5797",
+                "original_carrier_id": "51-61-7901",
+                "CP_id": "BT-0i8mz2r",
+                "collection_box_barcode": "BOXN_HKX_777250",
+                "encoder_model": "Laura Tors"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "PathToKeyframe": "https://tpcwznk-ufztj.hzsi.kh/source/yard/kqyyconx71.jpg",
+                "PathToPreview": "https://panwrsb-jrgvk.xtqr.ap/gas/clear/wpqwlf.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "product/light/kqyyconx71.jpg",
+                            "PathToKeyframeThumb": "court/heart/kqyyconx71.jpg",
+                            "PathToVideo": "wpqwlf.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "it3_nbghvtnxa",
+                            "FileSize": 245644996,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "k238",
+                            "Width": 85,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1624174,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1366532,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "74"
+                        },
+                        {
+                            "BaseUrl": "https://dgnoqth-fiukq.vqzp.zn/zbgw/TVRRNJSWK/460690579jp267448x052c294gty48vffy473l5oov3333x9k38bxbd6rh7f4168",
+                            "PathToKeyframe": "product/light/kqyyconx71.jpg",
+                            "PathToKeyframeThumb": "court/heart/kqyyconx71.jpg",
+                            "PathToVideo": "isoq-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "isoq-2",
+                            "FileSize": 66596,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "iwfdhkraf",
+                "RecordId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "IsInIngestSpace": false,
+                "OrganisationId": "326",
+                "ContainsGeoData": false,
+                "OriginalStatus": "iwfdhkraf",
+                "IsFragment": true,
+                "HasKeyframes": false,
+                "MediaObjectId": "428228028dn401263g892q783pyq31ztrm183w5opu8884b8b19bhki5qh9x9342",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "109731065jg487763p773s466rkb12nozk680k8gba5048e3v36cprm0td5y1183gsf65t6r0k39992en0p01d38681f4xjf",
+                "OffsetInDatabase": 7525,
+                "PathToKeyframeThumb": "https://aaswujx-nxkyz.yaml.ox/not/important/kqyyconx71.jpg",
+                "DepartmentId": "4c988bbb-8e53-424d-89d2-293f95f6fa1e",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "UploadedById": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        }
+    ]
+}

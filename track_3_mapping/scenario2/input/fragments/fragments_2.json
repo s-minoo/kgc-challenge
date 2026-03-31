@@ -1,0 +1,550 @@
+{
+    "NrOfResults": 2,
+    "StartIndex": 0,
+    "TotalNrOfResults": 2,
+    "Results": [
+        {
+            "Descriptive": {
+                "CreationDate": "2012-09-24T10:18:35.210803Z",
+                "OriginalFilename": "o743c0ev5m.mxf",
+                "RightsOwner": "Chelse",
+                "UploadedBy": "qkajrezyls@imiq",
+                "KeyframeStart": 0,
+                "Title": "Sing present production .",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "b885f01a-298e-4861-b460-c0dca85524a1",
+                        "76058562-76cb-4772-bdcf-e9371a766660",
+                        "06a45a23-732a-47bb-a634-2f413ebed433",
+                        "dd825cd6-7ba5-4066-9a44-1eb82cdbb66d"
+                    ],
+                    "Export": [
+                        "b885f01a-298e-4861-b460-c0dca85524a1",
+                        "76058562-76cb-4772-bdcf-e9371a766660",
+                        "06a45a23-732a-47bb-a634-2f413ebed433",
+                        "dd825cd6-7ba5-4066-9a44-1eb82cdbb66d"
+                    ],
+                    "Read": [
+                        "b885f01a-298e-4861-b460-c0dca85524a1",
+                        "76058562-76cb-4772-bdcf-e9371a766660",
+                        "06a45a23-732a-47bb-a634-2f413ebed433",
+                        "2c12d6b8-4df9-44a0-81df-8bcc6d72a6d2",
+                        "dd825cd6-7ba5-4066-9a44-1eb82cdbb66d"
+                    ]
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "ImageQuality": "low",
+                "Origin": 90,
+                "OriginalExtension": "mxf",
+                "DurationFrames": 281230,
+                "VideoFormat": "EICZ9263",
+                "EndFrames": 281230,
+                "RunIn": 90,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 90,
+                "StartFrames": 0,
+                "Width": 48,
+                "Md5": "c17830f4c849eba4f2404ffaa161e0fd",
+                "VideoBitRate": 100680000,
+                "BitRate": 100680000,
+                "EditRate": "95",
+                "VideoTechnical": "Officer difference listen cover organization environmental.",
+                "AudioCodec": "pcm_s24le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 76,
+                "IndexEditRate": "95",
+                "FileSize": 141571830832,
+                "ImageSize": "720x288",
+                "DurationTimeCode": "17:33:24.545",
+                "Height": 56,
+                "EndTimeCode": "17:33:24.545",
+                "AudioBitRate": 9216000,
+                "StartTimeCode": "11:47:01.790",
+                "ImageOrientation": "panorama",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "AudioTechnical": null,
+                "Exif": {},
+                "VideoCodec": null,
+                "VideoFps": null,
+                "AudioChannels": null,
+                "AudioTracks": {}
+            },
+            "Internal": {
+                "PathToVideo": "https://wpxzvum-msrfq.hzfa.ik/decide/under/bykgku.mp4",
+                "PathToKeyframe": "https://mwiikij-cxxva.tryf.gd/message/bed/hvzfcdch95.jpg",
+                "PathToPreview": "https://wpxzvum-msrfq.hzfa.ik/decide/under/bykgku.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://moidtlf-jxuda.woqj.he/lhiy/KEAY/104f5x8348y3606p88fujc6n2me8b0l02h22r7no8s397635ewl06o0hk39707l9",
+                            "PathToKeyframe": "heavy/authority/hvzfcdch95.jpg",
+                            "PathToKeyframeThumb": "movement/happen/hvzfcdch95.jpg",
+                            "PathToVideo": "bykgku.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "bd5",
+                            "FileSize": 0
+                        }
+                    ]
+                },
+                "BrowseStatus": "arwbrubzr",
+                "RecordId": "484i6g0836o1981n78rdau5z8ee6m1d96h91k5wc0w704842gpt82q8sb96343c5",
+                "IsInIngestSpace": true,
+                "OrganisationId": "245",
+                "ContainsGeoData": true,
+                "OriginalStatus": "arwbrubzr",
+                "IsFragment": true,
+                "UploadedById": "36e7d38c-48fb-4b04-ad97-bd2c57aceb17",
+                "HasKeyframes": false,
+                "MediaObjectId": "484i6g0836o1981n78rdau5z8ee6m1d96h91k5wc0w704842gpt82q8sb96343c5",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "571k4c1341u9561a02jtov3v9se8h7l90k10u3em9z537251pkr30n2xf94587y3x00m141hm6317d05255cr8eslv2qrw01",
+                "PathToKeyframeThumb": "https://ubfwshy-eudhb.kbkp.sy/control/sort/hvzfcdch95.jpg",
+                "DepartmentId": "06a45a23-732a-47bb-a634-2f413ebed433",
+                "IngestSpaceId": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Dynamic": {
+                "qc_note": "Joshua Warren",
+                "timebase_corrector_model": "Kayla Alvarez",
+                "type_viaa": "Video",
+                "timebase_corrector_manufacturer": "NPN",
+                "brand": "Jrdnc",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2026-01-10",
+                "shipment_id": "41895155170",
+                "digitization_format": "MXF/JPEG2000",
+                "filename": "o743c0ev5m.mxf",
+                "created_on": "2019-09-30T03:47:03",
+                "updated_by": "Michael Wiggs",
+                "status": "Cause firm cultural adm.",
+                "qc_date": "2025-01-24",
+                "batch_id": "ZKTTXJLJ68",
+                "player_model": "Brandon Jones",
+                "inspection_date": "2023-05-14",
+                "digitization_note": "Low RF, noisy picture, Video tracking issue",
+                "qc_outcome": "y",
+                "video_fps": "Gun next believe.",
+                "is_preserved_by_another": "4",
+                "dc_identifier_localid": "ABDT_144306",
+                "PID": "o743c0ev5m",
+                "CP": "LNAE",
+                "batch_name": "ZKTTXJLJ68",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "83083852",
+                "carrier_barcode": "VDNT_LDY_100887",
+                "preservation_problems": "Gnnv",
+                "updated_on": "2011-06-01T04:16:49",
+                "date": "uauv-xu-xu",
+                "md5_viaa": "c17830f4c849eba4f2404ffaa161e0fd",
+                "lto_id": "E45755T6",
+                "format_version": "VHS",
+                "player_manufacturer": "NPN",
+                "digitization_date": "2017-10-03",
+                "transfer_lto_date": "2025-07-08",
+                "digitization_outcome": "y",
+                "digitization_time": "09:02:16",
+                "format": "VHS",
+                "AD_model": "James Stone",
+                "created_by": "Tammie Hernaz",
+                "AD_manufacturer": "Ylnajtlzke",
+                "related_documents": "4",
+                "sp_id": "MD-3p61c3n",
+                "dcterms_created": "uuuu-uu-uu",
+                "encoder_manufacturer": "HEA",
+                "duration_viaa": "0:00:00",
+                "cleaning_date": "2023-05-14",
+                "qc_by": "Bouwwivaqf",
+                "sp_name": "Wjrdvzmv",
+                "timebase_corrector_serial_number": "79679670",
+                "file_duration": "03:07:29.05",
+                "transport_box_barcode": "BYSI_IT_77205",
+                "AD_serial_number": "163517718",
+                "original_carrier_id": "ABDT_144306",
+                "CP_id": "MD-6g27w2i",
+                "cleaning_outcome": "v",
+                "collection_box_barcode": "BEDN_LDY_024455",
+                "NeedsPublicationDateMigration": "yhbw",
+                "encoder_model": "GNVzqrjyrwk"
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 3717,
+                "MainFragment": "597l2o8622u7121r81ohdx9c6ol5p7q27w43e2pe5t808704wgh39f0ly50474t491939npvnk758nl1e66164q862d3lc9r",
+                "FragmentStartTimeCode": "03:06:27.255",
+                "FragmentEndTimeCode": "18:33:10.732",
+                "FragmentDurationFrames": 2256,
+                "FragmentDurationTimeCode": "02:54:00.402",
+                "FragmentEndFrames": 5973,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2009-10-10T10:11:31.489500Z",
+                "IsSynchronized": true,
+                "OrganisationName": "kxgk",
+                "Workflow": "Wjrdvzmv",
+                "ArchiveDate": "2022-02-27T11:56:38.776938Z",
+                "IngestTape": "E45755T6",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "videofragment",
+                "IsOriginal": false,
+                "IsPreservation": true,
+                "DepartmentName": "kxgk",
+                "UserLastModifiedDate": "2011-07-21T04:48:57.926847Z",
+                "OrganisationLongName": "kxgk",
+                "RecordType": "Record",
+                "PublicationDate": "2001-11-14T14:04:31.565764Z",
+                "ExternalId": "o743c0ev5m",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "MD-6g27w2i",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "Profiles": []
+            }
+        },
+        {
+            "Descriptive": {
+                "CreationDate": "2012-09-24T10:18:35.210803Z",
+                "OriginalFilename": "o743c0ev5m.mxf",
+                "RightsOwner": "Chelse",
+                "UploadedBy": "qkajrezyls@imiq",
+                "KeyframeStart": 0,
+                "Title": "Sing present production .",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "b885f01a-298e-4861-b460-c0dca85524a1",
+                        "76058562-76cb-4772-bdcf-e9371a766660",
+                        "06a45a23-732a-47bb-a634-2f413ebed433",
+                        "dd825cd6-7ba5-4066-9a44-1eb82cdbb66d"
+                    ],
+                    "Export": [
+                        "b885f01a-298e-4861-b460-c0dca85524a1",
+                        "76058562-76cb-4772-bdcf-e9371a766660",
+                        "06a45a23-732a-47bb-a634-2f413ebed433",
+                        "dd825cd6-7ba5-4066-9a44-1eb82cdbb66d"
+                    ],
+                    "Read": [
+                        "b885f01a-298e-4861-b460-c0dca85524a1",
+                        "76058562-76cb-4772-bdcf-e9371a766660",
+                        "06a45a23-732a-47bb-a634-2f413ebed433",
+                        "2c12d6b8-4df9-44a0-81df-8bcc6d72a6d2",
+                        "dd825cd6-7ba5-4066-9a44-1eb82cdbb66d"
+                    ]
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "ImageQuality": "low",
+                "Origin": 90,
+                "OriginalExtension": "mxf",
+                "DurationFrames": 281230,
+                "VideoFormat": "EICZ9263",
+                "EndFrames": 281230,
+                "RunIn": 90,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 90,
+                "StartFrames": 0,
+                "Width": 48,
+                "Md5": "c17830f4c849eba4f2404ffaa161e0fd",
+                "VideoBitRate": 100680000,
+                "BitRate": 100680000,
+                "EditRate": "95",
+                "VideoTechnical": "Officer difference listen cover organization environmental.",
+                "AudioCodec": "pcm_s24le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 76,
+                "IndexEditRate": "95",
+                "FileSize": 141571830832,
+                "ImageSize": "720x288",
+                "DurationTimeCode": "17:33:24.545",
+                "Height": 56,
+                "EndTimeCode": "17:33:24.545",
+                "AudioBitRate": 9216000,
+                "StartTimeCode": "11:47:01.790",
+                "ImageOrientation": "panorama",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "AudioTechnical": null,
+                "Exif": {},
+                "VideoCodec": null,
+                "VideoFps": null,
+                "AudioChannels": null,
+                "AudioTracks": {}
+            },
+            "Internal": {
+                "PathToVideo": "https://wpxzvum-msrfq.hzfa.ik/decide/under/bykgku.mp4",
+                "PathToKeyframe": "https://blunflr-gpoac.lsja.fz/thank/two/yuszdqqt1.jpg",
+                "PathToPreview": "https://wpxzvum-msrfq.hzfa.ik/decide/under/bykgku.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://moidtlf-jxuda.woqj.he/lhiy/KEAY/104f5x8348y3606p88fujc6n2me8b0l02h22r7no8s397635ewl06o0hk39707l9",
+                            "PathToKeyframe": "station/thing/yuszdqqt1.jpg",
+                            "PathToKeyframeThumb": "them/road/yuszdqqt1.jpg",
+                            "PathToVideo": "bykgku.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "bd5",
+                            "FileSize": 0
+                        }
+                    ]
+                },
+                "BrowseStatus": "arwbrubzr",
+                "RecordId": "484i6g0836o1981n78rdau5z8ee6m1d96h91k5wc0w704842gpt82q8sb96343c5",
+                "IsInIngestSpace": true,
+                "OrganisationId": "245",
+                "ContainsGeoData": true,
+                "OriginalStatus": "arwbrubzr",
+                "IsFragment": false,
+                "UploadedById": "36e7d38c-48fb-4b04-ad97-bd2c57aceb17",
+                "HasKeyframes": false,
+                "MediaObjectId": "484i6g0836o1981n78rdau5z8ee6m1d96h91k5wc0w704842gpt82q8sb96343c5",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "597l2o8622u7121r81ohdx9c6ol5p7q27w43e2pe5t808704wgh39f0ly50474t491939npvnk758nl1e66164q862d3lc9r",
+                "PathToKeyframeThumb": "https://brosjva-rsfqf.ddrd.sy/others/floor/yuszdqqt1.jpg",
+                "DepartmentId": "06a45a23-732a-47bb-a634-2f413ebed433",
+                "IngestSpaceId": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Dynamic": {
+                "qc_note": "Joshua Warren",
+                "timebase_corrector_model": "Kayla Alvarez",
+                "type_viaa": "Video",
+                "timebase_corrector_manufacturer": "NPN",
+                "brand": "Jrdnc",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2026-01-10",
+                "shipment_id": "41895155170",
+                "digitization_format": "MXF/JPEG2000",
+                "filename": "o743c0ev5m.mxf",
+                "created_on": "2019-09-30T03:47:03",
+                "updated_by": "Michael Wiggs",
+                "status": "Cause firm cultural adm.",
+                "qc_date": "2025-01-24",
+                "batch_id": "ZKTTXJLJ68",
+                "player_model": "Brandon Jones",
+                "inspection_date": "2023-05-14",
+                "digitization_note": "Low RF, noisy picture, Video tracking issue",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "4",
+                "dc_identifier_localid": "ABDT_144306",
+                "PID": "o743c0ev5m",
+                "CP": "LNAE",
+                "batch_name": "ZKTTXJLJ68",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "83083852",
+                "carrier_barcode": "VDNT_LDY_100887",
+                "preservation_problems": "Gnnv",
+                "updated_on": "2011-06-01T04:16:49",
+                "date": "uauv-xu-xu",
+                "md5_viaa": "c17830f4c849eba4f2404ffaa161e0fd",
+                "lto_id": "E45755T6",
+                "format_version": "VHS",
+                "player_manufacturer": "NPN",
+                "digitization_date": "2017-10-03",
+                "transfer_lto_date": "2025-07-08",
+                "digitization_outcome": "y",
+                "digitization_time": "09:02:16",
+                "format": "VHS",
+                "AD_model": "James Stone",
+                "created_by": "Tammie Hernaz",
+                "AD_manufacturer": "Ylnajtlzke",
+                "related_documents": "4",
+                "sp_id": "MD-3p61c3n",
+                "dcterms_created": "uuuu-uu-uu",
+                "encoder_manufacturer": "HEA",
+                "duration_viaa": "0:00:00",
+                "cleaning_date": "2023-05-14",
+                "qc_by": "Bouwwivaqf",
+                "sp_name": "Wjrdvzmv",
+                "timebase_corrector_serial_number": "79679670",
+                "file_duration": "03:07:29.05",
+                "transport_box_barcode": "BYSI_IT_77205",
+                "AD_serial_number": "163517718",
+                "original_carrier_id": "ABDT_144306",
+                "CP_id": "MD-6g27w2i",
+                "cleaning_outcome": "v",
+                "collection_box_barcode": "BEDN_LDY_024455",
+                "NeedsPublicationDateMigration": "yhbw",
+                "encoder_model": "GNVzqrjyrwk"
+            },
+            "Structural": {
+                "Fragments": {
+                    "Fragment": [
+                        "571k4c1341u9561a02jtov3v9se8h7l90k10u3em9z537251pkr30n2xf94587y3x00m141hm6317d05255cr8eslv2qrw01"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "FragmentStartTimeCode": "11:47:01.790",
+                "FragmentEndTimeCode": "17:33:24.545",
+                "FragmentDurationFrames": 281230,
+                "FragmentDurationTimeCode": "17:33:24.545",
+                "FragmentEndFrames": 281230,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2016-04-26T07:59:53.633944Z",
+                "IsSynchronized": true,
+                "OrganisationName": "kxgk",
+                "Workflow": "Wjrdvzmv",
+                "ArchiveDate": "2022-02-27T11:56:38.776938Z",
+                "IngestTape": "E45755T6",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "video",
+                "IsOriginal": false,
+                "IsPreservation": true,
+                "DepartmentName": "kxgk",
+                "UserLastModifiedDate": "2001-04-25T18:08:54.020604Z",
+                "OrganisationLongName": "kxgk",
+                "RecordType": "Record",
+                "PublicationDate": "2001-11-14T14:04:31.565764Z",
+                "ExternalId": "o743c0ev5m",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "MD-6g27w2i",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "Profiles": []
+            }
+        }
+    ]
+}

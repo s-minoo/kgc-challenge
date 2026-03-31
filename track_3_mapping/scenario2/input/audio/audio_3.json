@@ -1,0 +1,318 @@
+{
+    "NrOfResults": 1,
+    "StartIndex": 0,
+    "TotalNrOfResults": 1,
+    "Results": [
+        {
+            "Descriptive": {
+                "CreationDate": "2016-08-12T05:44:45.367204Z",
+                "OriginalFilename": "ox7z02ql91.wav",
+                "RightsOwner": "Justin Harper",
+                "UploadedBy": "tihmfzwlxt@cxbvodhfcwsvkghf",
+                "KeyframeStart": 0,
+                "Title": "Whole early room create.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "eebda019-bbfc-4f1f-97ad-2dde8f8deb60",
+                        "c1b2d1a5-a149-4411-8c22-a2c8ba0142b2",
+                        "5ee59f84-f30b-40de-9b47-73e16b84180c",
+                        "9ac82f46-d838-4cc4-b914-c4c632980919"
+                    ],
+                    "Export": [
+                        "eebda019-bbfc-4f1f-97ad-2dde8f8deb60",
+                        "c1b2d1a5-a149-4411-8c22-a2c8ba0142b2",
+                        "5ee59f84-f30b-40de-9b47-73e16b84180c",
+                        "9ac82f46-d838-4cc4-b914-c4c632980919"
+                    ],
+                    "Read": [
+                        "eebda019-bbfc-4f1f-97ad-2dde8f8deb60",
+                        "c1b2d1a5-a149-4411-8c22-a2c8ba0142b2",
+                        "5ee59f84-f30b-40de-9b47-73e16b84180c",
+                        "b1baca17-8e68-4db7-b282-330addcb342b",
+                        "9ac82f46-d838-4cc4-b914-c4c632980919"
+                    ]
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "ImageQuality": "low",
+                "AudioTechnical": "pcm_s16le ([1][0][0][0] / 0x0001) 2ch 48000Hz 1536000bps",
+                "OriginalExtension": "wav",
+                "DurationFrames": 71002,
+                "EndFrames": 71002,
+                "MimeType": "audio/x-wav",
+                "StartFrames": 0,
+                "Width": 60,
+                "Md5": "58fa2d08f9c8b28c4dfcad0970bc6cbd",
+                "AudioChannels": 2,
+                "BitRate": 1536000,
+                "AudioCodec": "pcm_s16le ([1][0][0][0] / 0x0001)",
+                "AudioSampleRate": 48000,
+                "FileSize": 545299246,
+                "ImageSize": "320x180",
+                "DurationTimeCode": "05:23:20.502",
+                "Height": 84,
+                "EndTimeCode": "05:23:20.502",
+                "AudioBitRate": 1536000,
+                "StartTimeCode": "02:34:51.359",
+                "ImageOrientation": "landscape",
+                "PronomId": null,
+                "VideoTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioTracks": {},
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Internal": {
+                "PathToVideo": "https://zkkrpbq-rjpvp.ipbw.sr/population/life/avbxrr.mp4",
+                "PathToKeyframe": "https://dmrfsio-gfrcm.kssj.fo/but/it/zvuepcfv6.jpg",
+                "PathToPreview": "https://zkkrpbq-rjpvp.ipbw.sr/population/life/avbxrr.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://dotomld-qsrze.pjwx.pb/tkby/RVMCAAAASTFKQPXZ/462267x476353758v9g883256g1y34mr8m8460pfg1ha5h63kfv2xco5921bd143",
+                            "PathToKeyframe": "language/tough/zvuepcfv6.jpg",
+                            "PathToKeyframeThumb": "work/cut/zvuepcfv6.jpg",
+                            "PathToVideo": "avbxrr.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "vf9",
+                            "FileSize": 174538519,
+                            "Height": 20,
+                            "VideoCodec": "View point room child low.",
+                            "BitRate": 491000,
+                            "Width": 18,
+                            "AudioSampleRate": 48000,
+                            "VideoBitRate": 226000,
+                            "AudioBitRate": 258000,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac (LC) (mp4a / 0x6134706D)",
+                            "VideoFps": "30.3"
+                        },
+                        {
+                            "BaseUrl": "https://dotomld-qsrze.pjwx.pb/tkby/RVMCAAAASTFKQPXZ/462267x476353758v9g883256g1y34mr8m8460pfg1ha5h63kfv2xco5921bd143",
+                            "PathToKeyframe": "language/tough/zvuepcfv6.jpg",
+                            "PathToVideo": "avbxrr.mp3",
+                            "HasKeyframes": false,
+                            "Container": "mp3",
+                            "Label": "rb3",
+                            "FileSize": 90885165,
+                            "BitRate": 256000,
+                            "AudioSampleRate": 48000,
+                            "AudioBitRate": 256000,
+                            "AudioChannels": 2,
+                            "AudioCodec": "mp3"
+                        },
+                        {
+                            "BaseUrl": "https://dotomld-qsrze.pjwx.pb/tkby/RVMCAAAASTFKQPXZ/462267x476353758v9g883256g1y34mr8m8460pfg1ha5h63kfv2xco5921bd143",
+                            "PathToVideo": "avbxrr.m4a",
+                            "HasKeyframes": false,
+                            "Container": "m4a",
+                            "Label": "c9p",
+                            "FileSize": 92316928,
+                            "BitRate": 260000,
+                            "AudioSampleRate": 48000,
+                            "AudioBitRate": 258000,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac (LC) (mp4a / 0x6134706D)"
+                        },
+                        {
+                            "BaseUrl": "https://dotomld-qsrze.pjwx.pb/tkby/RVMCAAAASTFKQPXZ/462267x476353758v9g883256g1y34mr8m8460pfg1ha5h63kfv2xco5921bd143",
+                            "PathToVideo": "pfus.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "pfus",
+                            "FileSize": 286153,
+                            "BitRate": 10,
+                            "AudioSampleRate": 48000,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "crjkvnygs",
+                "RecordId": "104626q321158781y2b458504o3i91il9j0508wyp9fe1g73lpq9bfl0827gy208",
+                "IsInIngestSpace": false,
+                "OrganisationId": "334",
+                "ContainsGeoData": false,
+                "OriginalStatus": "crjkvnygs",
+                "IsFragment": false,
+                "UploadedById": "b739885c-2799-4d35-b1d5-e0236910f038",
+                "HasKeyframes": false,
+                "MediaObjectId": "104626q321158781y2b458504o3i91il9j0508wyp9fe1g73lpq9bfl0827gy208",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "281132q426769053k7c321381m4f92ih9o3667cvg9tn9m79tbd9ymn1953ch672j3n3631ir22u1w59706924vqel9y884r",
+                "PathToKeyframeThumb": "https://cmrjzst-tjybd.bvij.le/claim/avoid/zvuepcfv6.jpg",
+                "DepartmentId": "5ee59f84-f30b-40de-9b47-73e16b84180c",
+                "IngestSpaceId": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Dynamic": {
+                "OTC_start": "02:34:51.359",
+                "type_viaa": "Audio",
+                "brand": "Exagpal",
+                "audio_tracks": "2",
+                "original_location": "David Roo",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2018-08-25",
+                "shipment_id": "04262985317",
+                "digitization_format": "WAV 16 bits",
+                "filename": "ox7z02ql91.wav",
+                "created_on": "2023-05-05T18:18:24",
+                "updated_by": "Nicole Fowler",
+                "status": "Rfnlwsg",
+                "qc_date": "2022-03-10",
+                "batch_id": "COXU45",
+                "player_model": "Soniar",
+                "inspection_date": "2025-02-08",
+                "qc_outcome": "y",
+                "dc_identifier_localid": "KJK_PM_GL_MPP_390",
+                "PID": "ox7z02ql91",
+                "CP": "Jennifer Hernandz",
+                "batch_name": "COXU45",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "1",
+                "carrier_barcode": "UJID_MFU_861376",
+                "preservation_problems": "Heso",
+                "updated_on": "2025-04-11T18:38:16",
+                "md5_viaa": "58fa2d08f9c8b28c4dfcad0970bc6cbd",
+                "lto_id": "ZK1271D4",
+                "player_manufacturer": "SYTST",
+                "digitization_date": "2018-10-25",
+                "transfer_lto_date": "2016-05-14",
+                "digitization_outcome": "y",
+                "digitization_time": "11:09:38",
+                "format": "1/4 inch open reel audio",
+                "AD_model": "Qof961",
+                "created_by": "Nicole Fowler",
+                "AD_manufacturer": "Rkcvxku",
+                "related_documents": "7",
+                "sp_id": "PP-j287h2q",
+                "dcterms_created": "1970-04-25",
+                "duration_viaa": "1:04:00",
+                "qc_by": "POUMI",
+                "core_reel": "Zjzyg",
+                "sp_name": "POUMI",
+                "file_duration": "17:31:19.783",
+                "transport_box_barcode": "MMERQ514",
+                "audio_carrier_speed": "19 cm/s",
+                "AD_serial_number": "1",
+                "recording_speed": "19 cm/s",
+                "CP_id": "PP-l64cb0a",
+                "collection_box_barcode": "WFEF_MFU_126179",
+                "NeedsPublicationDateMigration": "mjaa"
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "FragmentStartTimeCode": "02:34:51.359",
+                "FragmentEndTimeCode": "05:23:20.502",
+                "FragmentDurationFrames": 71002,
+                "FragmentDurationTimeCode": "05:23:20.502",
+                "FragmentEndFrames": 71002,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2022-07-06T06:41:51.465798Z",
+                "IsSynchronized": false,
+                "OrganisationName": "mzrcjbuszxsvaxri",
+                "Workflow": "POUMI",
+                "ArchiveDate": "2001-04-21T12:30:55.419175Z",
+                "IngestTape": "ZK1271D4",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "audio",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "mzrcjbuszxsvaxri",
+                "UserLastModifiedDate": "2022-07-06T06:41:51.465798Z",
+                "OrganisationLongName": "mzrcjbuszxsvaxri",
+                "RecordType": "Record",
+                "PublicationDate": "2022-04-18T01:33:55.612122Z",
+                "ExternalId": "ox7z02ql91",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "PP-l64cb0a",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "Profiles": []
+            }
+        }
+    ]
+}

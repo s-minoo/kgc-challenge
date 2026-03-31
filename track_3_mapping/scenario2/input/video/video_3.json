@@ -1,0 +1,300 @@
+{
+    "NrOfResults": 1,
+    "StartIndex": 0,
+    "TotalNrOfResults": 1,
+    "Results": [
+        {
+            "Descriptive": {
+                "CreationDate": "2020-11-13T17:46:08.921533Z",
+                "OriginalFilename": "ah98y4f879.mxf",
+                "RightsOwner": "Angez",
+                "UploadedBy": "pwvmjgosjk@ixo",
+                "KeyframeStart": 0,
+                "Title": "614391",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "d0b5c73f-f39e-4bfd-b51b-d02116709414",
+                        "b908ca0b-f7a9-4ccb-8bbb-30dfe3aca081",
+                        "adb931eb-24de-4ab9-bacc-102bd62905a0",
+                        "b98bc8d4-071b-405f-b423-e991c0771fc2"
+                    ],
+                    "Export": [
+                        "d0b5c73f-f39e-4bfd-b51b-d02116709414",
+                        "b908ca0b-f7a9-4ccb-8bbb-30dfe3aca081",
+                        "adb931eb-24de-4ab9-bacc-102bd62905a0",
+                        "b98bc8d4-071b-405f-b423-e991c0771fc2"
+                    ],
+                    "Read": [
+                        "d0b5c73f-f39e-4bfd-b51b-d02116709414",
+                        "b908ca0b-f7a9-4ccb-8bbb-30dfe3aca081",
+                        "adb931eb-24de-4ab9-bacc-102bd62905a0",
+                        "69a19f5c-9de0-4cb2-ba58-b749892fea3b",
+                        "b98bc8d4-071b-405f-b423-e991c0771fc2"
+                    ]
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 84721,
+                "VideoFormat": "Benjamin s",
+                "EndFrames": 2241768,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 44,
+                "StartFrames": 2157047,
+                "Width": 50,
+                "Md5": "4909d6b93ee1082ed3146f0441f7d328",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566414,
+                "EditRate": "38",
+                "VideoTechnical": "Up push need allow box.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 19,
+                "VideoCodec": "gfrt2xgysr",
+                "IndexEditRate": "38",
+                "FileSize": 26503446064,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "11:05:19.488",
+                "Height": 64,
+                "EndTimeCode": "12:48:02.469",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "11:32:33.200",
+                "ImageOrientation": "landscape",
+                "VideoFps": "38",
+                "FramesPerEditUnit": 1,
+                "PronomId": null,
+                "Exif": {},
+                "Origin": null,
+                "RunIn": null
+            },
+            "Internal": {
+                "PathToVideo": "https://nlazylj-jbqyv.rpyc.pa/cup/hope/dpnqci.mp4",
+                "PathToKeyframe": "https://icfmahv-srlbc.nyin.fe/politics/great/fnktnnzy4.jpg",
+                "PathToPreview": "https://nlazylj-jbqyv.rpyc.pa/cup/hope/dpnqci.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://gvvjfnf-mmzll.wonj.bi/pfxu/ESP/4xl4f98v41u641n55s039d9r817106575d26d2rz765p1985v905am350m23733s",
+                            "PathToKeyframe": "now/speech/fnktnnzy4.jpg",
+                            "PathToKeyframeThumb": "law/owner/fnktnnzy4.jpg",
+                            "PathToVideo": "dpnqci.mp4",
+                            "HasKeyframes": true,
+                            "Container": "mp4",
+                            "Label": "ae0_hxl",
+                            "FileSize": 715958647,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 16,
+                            "VideoCodec": "v657",
+                            "Width": 99,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1690144,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1421291,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "38"
+                        },
+                        {
+                            "BaseUrl": "https://gvvjfnf-mmzll.wonj.bi/pfxu/ESP/4xl4f98v41u641n55s039d9r817106575d26d2rz765p1985v905am350m23733s",
+                            "PathToVideo": "uqec-0.json",
+                            "HasKeyframes": true,
+                            "Container": "peak",
+                            "Label": "uqec-2",
+                            "FileSize": 206174,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "rygmpdbov",
+                "RecordId": "2zg3g89u33c454z93d461u9w819325909h89z1lw931x5468e862gj835v91513y",
+                "IsInIngestSpace": true,
+                "OrganisationId": "658",
+                "ContainsGeoData": true,
+                "OriginalStatus": "rygmpdbov",
+                "IsFragment": false,
+                "UploadedById": "6a9d5677-c3b1-4e98-86b7-198ae046b382",
+                "HasKeyframes": true,
+                "MediaObjectId": "2zg3g89u33c454z93d461u9w819325909h89z1lw931x5468e862gj835v91513y",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "7gw3v50v83n002p41k191g3c894156596y91j7nw000y7117f171ys049s62106hp961u55443f744ysn5841164rc8llpt3",
+                "PathToKeyframeThumb": "https://jwbokzr-kstef.sgsl.gi/fine/feel/fnktnnzy4.jpg",
+                "DepartmentId": "adb931eb-24de-4ab9-bacc-102bd62905a0",
+                "IngestSpaceId": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Dynamic": {
+                "OTC_start": "18:49:38:17",
+                "type_viaa": "Video",
+                "brand": "Oevfus",
+                "batch_pickup_date": "2019-12-30",
+                "shipment_id": "67880178638",
+                "digitization_format": "D10",
+                "filename": "ah98y4f879.mxf",
+                "created_on": "2018-03-12T21:33:55",
+                "updated_by": "Christine n",
+                "status": "Bgsjhbj",
+                "qc_date": "2017-06-18",
+                "batch_id": "FSFY59G29V",
+                "player_model": "IZZ-G60C",
+                "qc_outcome": "y",
+                "video_fps": "Bradley Herman",
+                "is_preserved_by_another": "8",
+                "PID": "ah98y4f879",
+                "CP": "CMH",
+                "batch_name": "FSFY59G29V",
+                "Digibetacam": "5/7",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "80962",
+                "carrier_barcode": "FIJZ_ZVR_356967",
+                "preservation_problems": "Tzpc",
+                "encoder_serial_number": "6651",
+                "updated_on": "2018-03-12T21:33:55",
+                "date": "2018-01-06",
+                "md5_viaa": "7fe287b32cd2cc8e7f4c78fe286a1ae3",
+                "lto_id": "RD3677S2",
+                "player_manufacturer": "PWED",
+                "digitization_date": "2017-09-28",
+                "transfer_lto_date": "2024-09-14",
+                "digitization_outcome": "y",
+                "digitization_time": "20:20",
+                "format": "Betacam SP",
+                "created_by": "Christine n",
+                "related_documents": "8",
+                "sp_id": "FO-i18w29w",
+                "dcterms_created": "1999-04-10",
+                "encoder_manufacturer": "Christophez",
+                "duration_viaa": "1:00:00",
+                "qc_by": "khgqgpewikuof",
+                "sp_name": "Gacnto",
+                "file_duration": "16:50:40:19",
+                "transport_box_barcode": "ZKIG-6-VP51-4597",
+                "CP_id": "FO-zd80j9f",
+                "collection_box_barcode": "SIYT_ZVR_219723",
+                "NeedsPublicationDateMigration": "tplf",
+                "encoder_model": "Julian Smh"
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "FragmentStartTimeCode": "08:30:50.494",
+                "FragmentEndTimeCode": "11:05:19.488",
+                "FragmentDurationFrames": 84721,
+                "FragmentDurationTimeCode": "11:05:19.488",
+                "FragmentEndFrames": 84721,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2018-04-01T18:02:44.829568Z",
+                "IsSynchronized": true,
+                "OrganisationName": "cso",
+                "Workflow": "Gacnto",
+                "ArchiveDate": "2009-12-11T18:36:12.171535Z",
+                "IngestTape": "RD3677S2",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "video",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "DepartmentName": "cso",
+                "UserLastModifiedDate": "2025-03-24T09:49:02.378595Z",
+                "OrganisationLongName": "cso",
+                "RecordType": "Record",
+                "PublicationDate": "2018-12-29T04:32:30.467153Z",
+                "ExternalId": "ah98y4f879",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "FO-zd80j9f",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "Profiles": []
+            }
+        }
+    ]
+}

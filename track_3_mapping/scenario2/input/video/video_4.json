@@ -1,0 +1,638 @@
+{
+    "NrOfResults": 2,
+    "StartIndex": 0,
+    "TotalNrOfResults": 2,
+    "Results": [
+        {
+            "Structural": {
+                "Fragments": {
+                    "Fragment": [
+                        "52di3l329242388pqj820431unh172mp642y3k0s65r08a45378tq6d6x49ie8g7s483su7895314q5e8i6g3e86adt3lz23"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "FragmentStartTimeCode": "05:31:54.898",
+                "FragmentEndTimeCode": "06:20:24.656",
+                "FragmentDurationFrames": 937,
+                "FragmentDurationTimeCode": "06:20:24.656",
+                "FragmentEndFrames": 937,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "AudioTechnical": "pcm_s24le 8ch 48000Hz 9216000bps",
+                "PronomId": "fmt/200",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 937,
+                "VideoFormat": "IWI-Wuerv",
+                "EndFrames": 937,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 72,
+                "StartFrames": 0,
+                "Width": 14,
+                "Md5": "9bc29f56d7fd8eee0855ca0f7f0050a4",
+                "VideoBitRate": 123807948,
+                "AudioChannels": 8,
+                "BitRate": 123807948,
+                "EditRate": "32",
+                "VideoTechnical": "General however check middle cov.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s24le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 39,
+                "VideoCodec": "s805",
+                "IndexEditRate": "32",
+                "FileSize": 580040240,
+                "ImageSize": "1920x1080",
+                "DurationTimeCode": "06:20:24.656",
+                "Height": 15,
+                "EndTimeCode": "06:20:24.656",
+                "AudioBitRate": 9216000,
+                "StartTimeCode": "05:31:54.898",
+                "ImageOrientation": "landscape",
+                "VideoFps": "32",
+                "FramesPerEditUnit": 1,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2012-12-26T20:52:35.787646Z",
+                "IsSynchronized": false,
+                "OrganisationName": "vnx",
+                "Workflow": "j1",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2005-05-16T07:30:46.979591Z",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "video",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "vnx",
+                "UserLastModifiedDate": "2024-06-26T03:54:06.335545Z",
+                "OrganisationLongName": "vnx",
+                "RecordType": "Record",
+                "PublicationDate": "2005-05-16T07:30:46.979591Z",
+                "ExternalId": "or7vh0ap4o",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "UL-ib2df70",
+                "ExternalUrl": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2018-01-05T06:30:58.352979Z",
+                "Description": "Realize wide eat participant.",
+                "OriginalFilename": "or7vh0ap4o.mxf",
+                "RightsOwner": "Willb",
+                "UploadedBy": "fmtkxg@gpn",
+                "KeyframeStart": 0,
+                "Title": "Essence: las: ln7va5pl4q",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "b9357775-c4e2-4c78-83fb-e2eae7c6e53a",
+                        "f8ee7572-eb39-4726-a4ec-d785fad0c943",
+                        "7fc3fef9-01c9-421a-95ce-fc28d7e4a03a",
+                        "09204bb4-4ca0-4aa4-8b54-680428467053"
+                    ],
+                    "Export": [
+                        "b9357775-c4e2-4c78-83fb-e2eae7c6e53a",
+                        "f8ee7572-eb39-4726-a4ec-d785fad0c943",
+                        "7fc3fef9-01c9-421a-95ce-fc28d7e4a03a",
+                        "09204bb4-4ca0-4aa4-8b54-680428467053"
+                    ],
+                    "Read": [
+                        "b9357775-c4e2-4c78-83fb-e2eae7c6e53a",
+                        "f8ee7572-eb39-4726-a4ec-d785fad0c943",
+                        "7fc3fef9-01c9-421a-95ce-fc28d7e4a03a",
+                        "93c637df-c1b6-4b72-bc75-7ea265560c45",
+                        "09204bb4-4ca0-4aa4-8b54-680428467053"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "dc_source": "096798146440219449750646411907985X262481725040270V41976U2B529976.mxf",
+                "s3_bucket": "isk-zxsobogtoxuk",
+                "object_use": "klugwag_eosgnp",
+                "object_level": "pvmv",
+                "s3_domain": "y6.tjvm.be",
+                "s3_object_owner": "Kyle Hunt",
+                "ie_type": "c/u",
+                "s3_object_key": "096798146440219449750646411907985X262481725040270V41976U2B529976.mxf",
+                "PID": "or7vh0ap4o",
+                "CP": "vnx",
+                "md5_viaa": "9bc29f56d7fd8eee0855ca0f7f0050a4",
+                "sp_name": "j1",
+                "CP_id": "UL-ib2df70"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://fgynlci-lzskb.pjtj.yp/write/world/qvmvpw.mp4",
+                "PathToKeyframe": "https://wmkjubf-jdkkl.unze.sj/lawyer/run/rmmdlhtf3.jpg",
+                "PathToPreview": "https://fgynlci-lzskb.pjtj.yp/write/world/qvmvpw.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://sybpcjg-zdteu.rukv.he/gbhh/DWS/90dj3b862538611vye610009qfx051fp004w7l9i39k26b98476la7l9p75yu5i9",
+                            "PathToKeyframe": "than/before/rmmdlhtf3.jpg",
+                            "PathToKeyframeThumb": "course/degree/rmmdlhtf3.jpg",
+                            "PathToVideo": "qvmvpw.mp4",
+                            "HasKeyframes": true,
+                            "Container": "mp4",
+                            "Label": "gq4_fjo",
+                            "FileSize": 8134173,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "s805",
+                            "Width": 83,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1735105,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1511238,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "32"
+                        },
+                        {
+                            "BaseUrl": "https://sybpcjg-zdteu.rukv.he/gbhh/DWS/90dj3b862538611vye610009qfx051fp004w7l9i39k26b98476la7l9p75yu5i9",
+                            "PathToVideo": "fxqf-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "fxqf-1",
+                            "FileSize": 2410,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "wmqlwtzwz",
+                "RecordId": "97rz8j554326394pzf924062wbc311km970m2g7t75p57r52865mz3n5u62km2z8",
+                "IsInIngestSpace": false,
+                "OrganisationId": "666",
+                "ContainsGeoData": false,
+                "OriginalStatus": "wmqlwtzwz",
+                "IsFragment": false,
+                "UploadedById": "fb2d87e8-25fa-4038-9372-bbdfcd989f90",
+                "HasKeyframes": true,
+                "MediaObjectId": "97rz8j554326394pzf924062wbc311km970m2g7t75p57r52865mz3n5u62km2z8",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "47eb7a993576247knt132212gox286lh233o4i4e53h18f76609kq4z0x15hl4d2893tx082fed1304aocktpj4yec48w964",
+                "OffsetInDatabase": 10783158,
+                "PathToKeyframeThumb": "https://vmljbnx-silwh.xnrg.kp/feeling/star/rmmdlhtf3.jpg",
+                "DepartmentId": "7fc3fef9-01c9-421a-95ce-fc28d7e4a03a",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "MainFragment": "47eb7a993576247knt132212gox286lh233o4i4e53h18f76609kq4z0x15hl4d2893tx082fed1304aocktpj4yec48w964",
+                "FragmentStartTimeCode": "05:31:54.898",
+                "FragmentEndTimeCode": "06:20:24.656",
+                "FragmentDurationFrames": 937,
+                "FragmentDurationTimeCode": "06:20:24.656",
+                "FragmentEndFrames": 937,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "AudioTechnical": "pcm_s24le 8ch 48000Hz 9216000bps",
+                "PronomId": "fmt/200",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 937,
+                "VideoFormat": "IWI-Wuerv",
+                "EndFrames": 937,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 72,
+                "StartFrames": 0,
+                "Width": 14,
+                "Md5": "9bc29f56d7fd8eee0855ca0f7f0050a4",
+                "VideoBitRate": 123807948,
+                "AudioChannels": 8,
+                "BitRate": 123807948,
+                "EditRate": "32",
+                "VideoTechnical": "General however check middle cov.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s24le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 39,
+                "VideoCodec": "s805",
+                "IndexEditRate": "32",
+                "FileSize": 580040240,
+                "ImageSize": "1920x1080",
+                "DurationTimeCode": "06:20:24.656",
+                "Height": 15,
+                "EndTimeCode": "06:20:24.656",
+                "AudioBitRate": 9216000,
+                "StartTimeCode": "05:31:54.898",
+                "ImageOrientation": "landscape",
+                "VideoFps": "32",
+                "FramesPerEditUnit": 1,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "RunIn": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2005-10-04T02:32:48.624299Z",
+                "IsSynchronized": false,
+                "OrganisationName": "vnx",
+                "Workflow": "j1",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2005-05-16T07:30:46.979591Z",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "videofragment",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "vnx",
+                "UserLastModifiedDate": "2007-02-12T05:40:07.703679Z",
+                "OrganisationLongName": "vnx",
+                "RecordType": "Record",
+                "PublicationDate": "2005-05-16T07:30:46.979591Z",
+                "ExternalId": "or7vh0ap4o",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "UL-ib2df70",
+                "ExternalUrl": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Descriptive": {
+                "CreationDate": "2018-01-05T06:30:58.352979Z",
+                "Description": "Which including around less both those.",
+                "OriginalFilename": "or7vh0ap4o.mxf",
+                "RightsOwner": "Willb",
+                "UploadedBy": "fmtkxg@gpn",
+                "KeyframeStart": 0,
+                "Title": "Least maintain wester.",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "b9357775-c4e2-4c78-83fb-e2eae7c6e53a",
+                        "f8ee7572-eb39-4726-a4ec-d785fad0c943",
+                        "7fc3fef9-01c9-421a-95ce-fc28d7e4a03a",
+                        "09204bb4-4ca0-4aa4-8b54-680428467053"
+                    ],
+                    "Export": [
+                        "b9357775-c4e2-4c78-83fb-e2eae7c6e53a",
+                        "f8ee7572-eb39-4726-a4ec-d785fad0c943",
+                        "7fc3fef9-01c9-421a-95ce-fc28d7e4a03a",
+                        "09204bb4-4ca0-4aa4-8b54-680428467053"
+                    ],
+                    "Read": [
+                        "b9357775-c4e2-4c78-83fb-e2eae7c6e53a",
+                        "f8ee7572-eb39-4726-a4ec-d785fad0c943",
+                        "7fc3fef9-01c9-421a-95ce-fc28d7e4a03a",
+                        "93c637df-c1b6-4b72-bc75-7ea265560c45",
+                        "09204bb4-4ca0-4aa4-8b54-680428467053"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "dc_source": "096798146440219449750646411907985X262481725040270V41976U2B529976.mxf",
+                "type_viaa": "video",
+                "s3_bucket": "isk-zxsobogtoxuk",
+                "ebu_objectType": "erwh",
+                "vrt_production_method": "rmpohe",
+                "dc_types": {
+                    "multiselect": [
+                        "mtjmcafc"
+                    ]
+                },
+                "object_use": "klugwag_eosgnp",
+                "dc_creators": {
+                    "productionCompany": [
+                        "Aaron Baiy"
+                    ]
+                },
+                "object_level": "lz",
+                "dc_rights_rightsHolders": {
+                    "Licentiehouder": [
+                        "vnx"
+                    ]
+                },
+                "s3_domain": "y6.tjvm.be",
+                "s3_object_owner": "Kyle Hunt",
+                "vrt_status": "ylhulfsdeuxc",
+                "ie_type": "mgkms",
+                "dc_subjects": {
+                    "Trefwoord": [
+                        "CDIEPGIIEF",
+                        "QGNCX",
+                        "EKCLSRL",
+                        "Richard Torres",
+                        "JLNZZBW",
+                        "WWUPXLROOT"
+                    ]
+                },
+                "dcterms_issued": "2020-02-07",
+                "dc_identifier_localid": "ZHC20222939",
+                "s3_object_key": "096798146440219449750646411907985X262481725040270V41976U2B529976.mxf",
+                "PID": "y59gw8m59s",
+                "CP": "LZJ",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL",
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD"
+                    ]
+                },
+                "dc_description_categorie": "Joshua Gardner",
+                "md5_viaa": "9bc29f56d7fd8eee0855ca0f7f0050a4",
+                "dc_relations": {
+                    "PROGRAM_HAS_ITEM": [
+                        "OU79609542"
+                    ]
+                },
+                "dc_identifier_localids": {
+                    "MEDIA_ID": [
+                        "ZHC20222939"
+                    ]
+                },
+                "dc_contributors": {
+                    "archivaris": [
+                        "Lori Escobar"
+                    ]
+                },
+                "dc_description_programma": "Get tree science common civil.",
+                "dcterms_created": "2022-09-04",
+                "sp_name": "j1",
+                "vrt_has_been_broadcasted": "fpfx",
+                "dc_titles": {
+                    "serie": [
+                        "Samantha Baker"
+                    ],
+                    "alternatief": [
+                        "Heather Smith"
+                    ],
+                    "programma": [
+                        "Anything because ever dog career."
+                    ],
+                    "seizoen": [
+                        "Three life could."
+                    ]
+                },
+                "CP_id": "UL-ib2df70"
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://fgynlci-lzskb.pjtj.yp/write/world/qvmvpw.mp4",
+                "PathToKeyframe": "https://wmkjubf-jdkkl.unze.sj/lawyer/run/rmmdlhtf3.jpg",
+                "PathToPreview": "https://fgynlci-lzskb.pjtj.yp/write/world/qvmvpw.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://sybpcjg-zdteu.rukv.he/gbhh/DWS/90dj3b862538611vye610009qfx051fp004w7l9i39k26b98476la7l9p75yu5i9",
+                            "PathToKeyframe": "than/before/rmmdlhtf3.jpg",
+                            "PathToKeyframeThumb": "course/degree/rmmdlhtf3.jpg",
+                            "PathToVideo": "qvmvpw.mp4",
+                            "HasKeyframes": true,
+                            "Container": "mp4",
+                            "Label": "gq4_fjo",
+                            "FileSize": 8134173,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 46,
+                            "VideoCodec": "s805",
+                            "Width": 83,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1735105,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1511238,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "32"
+                        },
+                        {
+                            "BaseUrl": "https://sybpcjg-zdteu.rukv.he/gbhh/DWS/90dj3b862538611vye610009qfx051fp004w7l9i39k26b98476la7l9p75yu5i9",
+                            "PathToVideo": "fxqf-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "fxqf-1",
+                            "FileSize": 2410,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "wmqlwtzwz",
+                "RecordId": "97rz8j554326394pzf924062wbc311km970m2g7t75p57r52865mz3n5u62km2z8",
+                "IsInIngestSpace": false,
+                "OrganisationId": "666",
+                "ContainsGeoData": false,
+                "OriginalStatus": "wmqlwtzwz",
+                "IsFragment": true,
+                "UploadedById": "fb2d87e8-25fa-4038-9372-bbdfcd989f90",
+                "HasKeyframes": true,
+                "MediaObjectId": "97rz8j554326394pzf924062wbc311km970m2g7t75p57r52865mz3n5u62km2z8",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "52di3l329242388pqj820431unh172mp642y3k0s65r08a45378tq6d6x49ie8g7s483su7895314q5e8i6g3e86adt3lz23",
+                "OffsetInDatabase": 10783158,
+                "PathToKeyframeThumb": "https://vmljbnx-silwh.xnrg.kp/feeling/star/rmmdlhtf3.jpg",
+                "DepartmentId": "7fc3fef9-01c9-421a-95ce-fc28d7e4a03a",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        }
+    ]
+}

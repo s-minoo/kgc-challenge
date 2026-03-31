@@ -75,7 +75,12 @@ Participants must transform the XML input data into RDF according to the ontolog
 
 ### Scenario 2:
 
-TBA soon
+The second scenario is provided by Meemo. Participants must transform the provided JSON files into the expected RDF graphs provided.
+
+Relevant RDFS and SHACL documentation can be found in
+- https://developer.meemoo.be/docs/metadata/knowledge-graph/1.1.0/description/en/
+- https://developer.meemoo.be/docs/metadata/knowledge-graph/1.0.0/objects/en/
+- https://developer.meemoo.be/docs/metadata/knowledge-graph/1.0.0/events/en/
 
 ### Scenario 3:
 

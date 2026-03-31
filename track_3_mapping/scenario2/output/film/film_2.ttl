@@ -1,0 +1,440 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+
+<https://data.hetarchief.be/id/entity/1f36b9882613f6c177c1bb9dfc5272f6> a <https://data.hetarchief.be/ns/mediahaven/Record>;
+    <https://schema.org/identifier> "j7t8z79ui7f04fj57795z0ah421153f58648898063196kinh2lwb94dek402334".
+<https://data.hetarchief.be/id/entity/07fe78e2a9ffcc7a625d09279ff4d173> a <https://data.hetarchief.be/ns/mediahaven/Fragment>;
+    <https://schema.org/identifier> "z4x1e92jr5q91oa15027g8cz323652o76046724033581wqzg8cml86hmq089753633z0435x9l53d1mjwi21d4244d42s8k";
+    <https://data.hetarchief.be/ns/mediahaven/record> <https://data.hetarchief.be/id/entity/1f36b9882613f6c177c1bb9dfc5272f6>;
+    <https://data.hetarchief.be/ns/mediahaven/PID> "8n3av0y864";
+    <https://schema.org/dateCreated> "2023-08-10T01:09:17.285966Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/dateModified> "2003-10-02T04:52:49.907507Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://data.hetarchief.be/id/entity/52d6e9efb6658b16217fb32209ec3387> a <https://data.hetarchief.be/ns/mediahaven/Record>;
+    <https://schema.org/identifier> "19vk065pkq5x37h05721p5dy650he98kg6um1286j72i731fl1084gjyvz817x37".
+<https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829> a <https://data.hetarchief.be/ns/mediahaven/Fragment>;
+    <https://schema.org/identifier> "66mn024soq2u37z03498w6zh464cm23az9cc2351q35u358ze8652jktny610j3116w6007356670o37bv365gg948990rt1";
+    <https://data.hetarchief.be/ns/mediahaven/record> <https://data.hetarchief.be/id/entity/52d6e9efb6658b16217fb32209ec3387>;
+    <https://data.hetarchief.be/ns/mediahaven/PID> "8n3av0y864";
+    <https://schema.org/dateCreated> "2017-08-13T16:16:27.201681Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/dateModified> "2017-06-24T16:17:10.661766Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://data.hetarchief.be/id/entity/a34782e8ef337a9049e9d49016506529> a <https://data.hetarchief.be/ns/object/CarrierRepresentation>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <https://data.hetarchief.be/ns/object/isCarrierCopyOf> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Dragerversie (film): 'A that between do.' (8n3av0y864)"@nl, "Carrier version (film): 'A that between do.' (8n3av0y864)"@en, "Version sur support (film): 'A that between do.' (8n3av0y864)"@fr;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>;
+    <https://data.hetarchief.be/ns/description/hasMissingImagereels> false;
+    <https://data.hetarchief.be/ns/description/hasMissingAudioreels> false;
+    <https://data.hetarchief.be/ns/description/numberOfReels> "5"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>.
+<https://data.hetarchief.be/id/entity/8n3av0y864> <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isr> <https://data.hetarchief.be/id/entity/a34782e8ef337a9049e9d49016506529>, <https://data.hetarchief.be/id/entity/0d0ad4c945565f005c55e40f5dada9d7>;
+    <https://data.hetarchief.be/ns/object/hasCarrierCopy> <https://data.hetarchief.be/id/entity/a34782e8ef337a9049e9d49016506529>;
+    <https://data.hetarchief.be/ns/object/hasMasterCopy> <https://data.hetarchief.be/id/entity/0d0ad4c945565f005c55e40f5dada9d7>.
+<https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136> a <https://schema.org/Thing>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Tmogcjwvz"@nl.
+<https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5> a <https://data.hetarchief.be/ns/object/PhysicalCarrier>, <https://data.hetarchief.be/ns/description/ImageReel>;
+    <https://schema.org/identifier> "LAYT_FTK_995844";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Drager (16mm): LAYT_FTK_995844"@nl, "Carrier (16mm): LAYT_FTK_995844"@en, "Support (16mm): LAYT_FTK_995844"@fr;
+    <http://www.loc.gov/premis/rdf/v3/medium> <https://data.hetarchief.be/id/carrier-type/16mmfilm>;
+    <https://data.hetarchief.be/ns/object/preservationProblem> <https://data.hetarchief.be/id/entity/d83f0e5b3f0720729cca5d8932dab068>;
+    <https://data.hetarchief.be/ns/description/coloringType> <https://data.hetarchief.be/id/color-type/Color>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasCaptioning> <https://data.hetarchief.be/id/entity/cbb434fa07c5ce2f81c5836d3b6991ee>;
+    <https://schema.org/isPartOf> <https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c>.
+<https://data.hetarchief.be/id/entity/d83f0e5b3f0720729cca5d8932dab068> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Career pressure eye.".
+<https://data.hetarchief.be/id/entity/cbb434fa07c5ce2f81c5836d3b6991ee> a <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#OpenCaptions>.
+<https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3> a <https://data.hetarchief.be/ns/object/PhysicalCarrier>, <https://data.hetarchief.be/ns/description/AudioReel>;
+    <https://schema.org/identifier> "LAYT_FTK_738433";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Drager (16mm): LAYT_FTK_738433"@nl, "Carrier (16mm): LAYT_FTK_738433"@en, "Support (16mm): LAYT_FTK_738433"@fr;
+    <http://www.loc.gov/premis/rdf/v3/medium> <https://data.hetarchief.be/id/carrier-type/16mmfilm>;
+    <https://data.hetarchief.be/ns/object/preservationProblem> <https://data.hetarchief.be/id/entity/d83f0e5b3f0720729cca5d8932dab068>;
+    <https://schema.org/isPartOf> <https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c>.
+<https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c> a <https://schema.org/Collection>;
+    <https://schema.org/identifier> "UVNJ55";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "UVNJ55"@nl;
+    <https://schema.org/hasPart> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>.
+<https://data.hetarchief.be/id/entity/6f202ab132b2d627de172bb0f119f5b5> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/check-out>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Uitchecken (gebeurtenis): UVNJ55"@nl, "Check-Out (event): UVNJ55"@en, "Départ (événement): UVNJ55"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2023-01-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2023-01-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c>.
+<https://data.hetarchief.be/id/entity/0d0ad4c945565f005c55e40f5dada9d7> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Archiefmaster (zip): 'A that between do.' (8n3av0y864)"@nl, "Archive master (zip): 'A that between do.' (8n3av0y864)"@en, "Maître d'archive (zip): 'A that between do.' (8n3av0y864)"@fr;
+    <https://data.hetarchief.be/ns/object/isMasterCopyOf> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/03616231a255897e692c96d68e4c0aee>.
+<https://data.hetarchief.be/id/entity/03616231a255897e692c96d68e4c0aee> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2017-08-13T16:16:27.201681Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "8n3av0y864_002_yrl.zip"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/7dde1bd3b9f86ca5fe0d584b9fc177f2>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "8n3av0y864_002_yrl.zip";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/0d0ad4c945565f005c55e40f5dada9d7>;
+    <http://purl.org/dc/terms/format> <https://www.nationalarchives.gov.uk/PRONOM/x-fmt/263>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "application/zip";
+    <http://www.loc.gov/premis/rdf/v3/size> "236702433"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <http://www.loc.gov/premis/rdf/v3/fixity> <https://data.hetarchief.be/id/entity/913cba89fe18b11878f8d6e2180b8269>.
+<https://data.hetarchief.be/id/entity/913cba89fe18b11878f8d6e2180b8269> a <http://id.loc.gov/vocabulary/preservation/cryptographicHashFunctions/md5>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    rdf:value "4f0c9665b6229b7427ab81959e1a7910".
+<https://data.hetarchief.be/id/entity/7dde1bd3b9f86ca5fe0d584b9fc177f2> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/mag>.
+<https://data.hetarchief.be/id/entity/a9bed6c12a8f0bc70fd7c41db73b923c> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/digitization>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Digitalisering (gebeurtenis): 8n3av0y864"@nl, "Digitization (event): 8n3av0y864"@en, "Numérisation (événement): 8n3av0y864"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2023-04-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2023-04-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Understand ever else read friend.";
+    <http://www.w3.org/ns/prov#wasAssociatedWith> <https://data.hetarchief.be/id/entity/fdfd2a4d989c23df133c23a59bb73ab2>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/out> <https://data.hetarchief.be/id/entity/0d0ad4c945565f005c55e40f5dada9d7>.
+<https://data.hetarchief.be/id/entity/fdfd2a4d989c23df133c23a59bb73ab2> a <https://schema.org/Thing>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Robert Walker"@nl.
+<https://data.hetarchief.be/id/entity/a4547226b6e1f3a7dec6a039eca3f43b> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/inspection>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Inspectie (gebeurtenis): 8n3av0y864"@nl, "Inspection (event): 8n3av0y864"@en, "Inspection (événement): 8n3av0y864"@fr;
+    <http://www.w3.org/ns/prov#startedAtTime> "2020-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2020-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Painting one scie.";
+    <http://www.w3.org/ns/prov#wasAssociatedWith> <https://data.hetarchief.be/id/entity/7333429b4f98bac6081302aa26d1ab86>.
+<https://data.hetarchief.be/id/entity/7333429b4f98bac6081302aa26d1ab86> a <https://schema.org/Thing>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Ikung"@nl.
+<https://data.hetarchief.be/id/entity/1b780d8284e8512e3e13bddd555192aa> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/registration>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Registratie (gebeurtenis): 8n3av0y864"@nl, "Registration (event): 8n3av0y864"@en, "Inscription (événement): 8n3av0y864"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/ZB-3o72l9i>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2008-03-08T19:45:17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2008-03-08T19:45:17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>.
+<https://data.hetarchief.be/id/entity/bc2ef4e7d028370f4aca54aaf0d9d800> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/transfer>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/0e0e0fa0d192f2dba2403ad88d9a6829>;
+    <https://schema.org/name> "Overdracht (gebeurtenis): 8n3av0y864"@nl, "Transfer (event): 8n3av0y864"@en, "Transfert (événement): 8n3av0y864"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2021-05-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2021-05-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/0d0ad4c945565f005c55e40f5dada9d7>.
+<https://data.hetarchief.be/id/entity/e49ccbc6ef125cc13efc5039f2cdc1db> a <https://data.hetarchief.be/ns/mediahaven/Record>;
+    <https://schema.org/identifier> "7v292hb900z948gd72u347kju78mk42m7x80ejkye0029f647c91te9762t7i14z".
+<https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895> a <https://data.hetarchief.be/ns/mediahaven/Fragment>;
+    <https://schema.org/identifier> "3p951mf662x415wg59t430grb51cv19v5m45jwjbp3232t968q26ys1474x1r00ka00072yn2z852397l4n9368645968781";
+    <https://data.hetarchief.be/ns/mediahaven/record> <https://data.hetarchief.be/id/entity/e49ccbc6ef125cc13efc5039f2cdc1db>;
+    <https://data.hetarchief.be/ns/mediahaven/PID> "8n3av0y864";
+    <https://schema.org/dateCreated> "2022-08-08T12:21:25.678504Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/dateModified> "2006-03-22T23:09:25.343594Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://data.hetarchief.be/id/entity/8n3av0y864> a <http://www.loc.gov/premis/rdf/v3/IntellectualEntity>, <https://data.hetarchief.be/ns/description/Film>, <https://data.hetarchief.be/ns/description/SoundFilm>;
+    <https://schema.org/identifier> "8n3av0y864";
+    <https://schema.org/dateCreated> "1979-09-06"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <https://schema.org/maintainer> <https://data.hetarchief.be/id/organization/ZB-3o72l9i>;
+    <https://schema.org/creator> <https://data.hetarchief.be/id/entity/42c0d8f580738498037cb6a465d6e6aa>;
+    <https://schema.org/name> "A that between do."@nl;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <https://data.hetarchief.be/ns/object/primaryIdentifier> <https://data.hetarchief.be/id/entity/b20f526c6c6465cfb608e8a561488dea>;
+    <http://www.loc.gov/premis/rdf/v3/identifier> <https://data.hetarchief.be/id/entity/b20f526c6c6465cfb608e8a561488dea>;
+    <https://schema.org/license> <https://data.hetarchief.be/id/license/VIAA-ONDERWIJS>, <https://data.hetarchief.be/id/license/VIAA-ONDERZOEK>, <https://data.hetarchief.be/id/license/VIAA-INTRA_CP-CONTENT>, <https://data.hetarchief.be/id/license/VIAA-INTRA_CP-METADATA-ALL>, <https://data.hetarchief.be/id/license/VIAA-PUBLIEK-METADATA-LTD>, <https://data.hetarchief.be/id/license/BEZOEKERTOOL-CONTENT>, <https://data.hetarchief.be/id/license/BEZOEKERTOOL-METADATA-ALL>;
+    <https://schema.org/copyrightNotice> "Karen Murray";
+    <http://purl.org/dc/terms/format> "film";
+    <https://data.hetarchief.be/ns/description/minDateCreated> "1979-09-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.hetarchief.be/ns/description/maxDateCreated> "1979-09-06T23:59:59.999Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/keywords> "jqkbapwzgz"@nl, "fyewjxlie"@nl, "BJ"@nl, "Lxrhqdz"@nl;
+    <https://schema.org/description> "Ability act should better off prepare hair nor."@nl;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isr> <https://data.hetarchief.be/id/entity/a34782e8ef337a9049e9d49016506529>, <https://data.hetarchief.be/id/entity/f1621e4bc67ceb4fd5b39538d0578d87>, <https://data.hetarchief.be/id/entity/51875b0a6a61510d65495bbcca79bd9d>;
+    <https://data.hetarchief.be/ns/object/hasCarrierCopy> <https://data.hetarchief.be/id/entity/a34782e8ef337a9049e9d49016506529>;
+    <https://data.hetarchief.be/ns/object/hasMezzanineCopy> <https://data.hetarchief.be/id/entity/f1621e4bc67ceb4fd5b39538d0578d87>;
+    <https://data.hetarchief.be/ns/object/hasAccessCopy> <https://data.hetarchief.be/id/entity/51875b0a6a61510d65495bbcca79bd9d>.
+<https://data.hetarchief.be/id/entity/42c0d8f580738498037cb6a465d6e6aa> a <https://schema.org/Role>;
+    <https://schema.org/roleName> "archiefvormer";
+    <https://schema.org/creator> <https://data.hetarchief.be/id/entity/f4e2301bb35df43f4b3230b4d37628a9>.
+<https://data.hetarchief.be/id/entity/f4e2301bb35df43f4b3230b4d37628a9> a <https://schema.org/Thing>;
+    <https://schema.org/name> "WYM"@nl;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>.
+<https://data.hetarchief.be/id/entity/b20f526c6c6465cfb608e8a561488dea> a <https://data.hetarchief.be/ns/object/LocalIdentifier>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    rdf:value "GC/480455/929/85".
+<https://data.hetarchief.be/id/entity/a34782e8ef337a9049e9d49016506529> a <https://data.hetarchief.be/ns/object/CarrierRepresentation>;
+    <https://schema.org/name> "Dragerversie (film): 'A that between do.' (8n3av0y864)"@nl, "Carrier version (film): 'A that between do.' (8n3av0y864)"@en, "Version sur support (film): 'A that between do.' (8n3av0y864)"@fr;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <https://data.hetarchief.be/ns/object/isCarrierCopyOf> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>;
+    <https://data.hetarchief.be/ns/description/hasMissingImagereels> false;
+    <https://data.hetarchief.be/ns/description/hasMissingAudioreels> false;
+    <https://data.hetarchief.be/ns/description/numberOfReels> "5"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>.
+<https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136> a <https://schema.org/Thing>;
+    <https://schema.org/name> "Tmogcjwvz"@nl;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>.
+<https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5> a <https://data.hetarchief.be/ns/object/PhysicalCarrier>, <https://data.hetarchief.be/ns/description/ImageReel>;
+    <https://schema.org/identifier> "LAYT_FTK_995844";
+    <https://schema.org/name> "Drager (16mm): LAYT_FTK_995844"@nl, "Carrier (16mm): LAYT_FTK_995844"@en, "Support (16mm): LAYT_FTK_995844"@fr;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <https://data.hetarchief.be/id/carrier-type/16mmfilm>;
+    <https://data.hetarchief.be/ns/object/preservationProblem> <https://data.hetarchief.be/id/entity/d83f0e5b3f0720729cca5d8932dab068>;
+    <https://data.hetarchief.be/ns/description/coloringType> <https://data.hetarchief.be/id/color-type/Color>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasCaptioning> <https://data.hetarchief.be/id/entity/cbb434fa07c5ce2f81c5836d3b6991ee>;
+    <https://schema.org/isPartOf> <https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c>.
+<https://data.hetarchief.be/id/entity/d83f0e5b3f0720729cca5d8932dab068> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Career pressure eye.".
+<https://data.hetarchief.be/id/entity/cbb434fa07c5ce2f81c5836d3b6991ee> a <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#OpenCaptions>.
+<https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3> a <https://data.hetarchief.be/ns/object/PhysicalCarrier>, <https://data.hetarchief.be/ns/description/AudioReel>;
+    <https://schema.org/identifier> "LAYT_FTK_738433";
+    <https://schema.org/name> "Drager (16mm): LAYT_FTK_738433"@nl, "Carrier (16mm): LAYT_FTK_738433"@en, "Support (16mm): LAYT_FTK_738433"@fr;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <https://data.hetarchief.be/id/carrier-type/16mmfilm>;
+    <https://data.hetarchief.be/ns/object/preservationProblem> <https://data.hetarchief.be/id/entity/d83f0e5b3f0720729cca5d8932dab068>;
+    <https://schema.org/isPartOf> <https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c>.
+<https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c> a <https://schema.org/Collection>;
+    <https://schema.org/identifier> "UVNJ55";
+    <https://schema.org/name> "UVNJ55"@nl;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <https://schema.org/hasPart> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>.
+<https://data.hetarchief.be/id/entity/6f202ab132b2d627de172bb0f119f5b5> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/check-out>;
+    <https://schema.org/name> "Uitchecken (gebeurtenis): UVNJ55"@nl, "Check-Out (event): UVNJ55"@en, "Départ (événement): UVNJ55"@fr;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2023-01-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2023-01-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c>.
+<https://data.hetarchief.be/id/entity/f1621e4bc67ceb4fd5b39538d0578d87> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <https://schema.org/name> "Mezzaninekopie (mov): 'A that between do.' (8n3av0y864)"@nl, "Mezzanine copy (mov): 'A that between do.' (8n3av0y864)"@en, "Copie mezzanine (mov): 'A that between do.' (8n3av0y864)"@fr;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <https://schema.org/inLanguage> "nl";
+    <https://data.hetarchief.be/ns/object/isMezzanineCopyOf> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/685c6ff8265dce941e1f639b3c794398>.
+<https://data.hetarchief.be/id/entity/685c6ff8265dce941e1f639b3c794398> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2022-08-08T12:21:25.678504Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <https://schema.org/name> "8n3av0y864_bicgieaac.mov"@nl;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://purl.org/dc/terms/format> <https://www.nationalarchives.gov.uk/PRONOM/x-fmt/384>;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/066899eb29753c71da106782f5d6fffc>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "8n3av0y864_bicgieaac.mov";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/f1621e4bc67ceb4fd5b39538d0578d87>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "video/quicktime";
+    <http://www.loc.gov/premis/rdf/v3/size> "12592769101"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <http://www.loc.gov/premis/rdf/v3/fixity> <https://data.hetarchief.be/id/entity/d4496ef32e5927f286f929bcd1f0ad6e>;
+    <https://schema.org/duration> "PT7H23M16.727S"^^<http://www.w3.org/2001/XMLSchema#duration>;
+    <https://schema.org/width> <https://data.hetarchief.be/id/entity/efe08dbe2d9992778dc4e8d43d8d471d>;
+    <https://schema.org/height> <https://data.hetarchief.be/id/entity/1328c3af20394027d19fa6d61a91099a>.
+<https://data.hetarchief.be/id/entity/d4496ef32e5927f286f929bcd1f0ad6e> a <http://id.loc.gov/vocabulary/preservation/cryptographicHashFunctions/md5>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    rdf:value "529de067b3e0453d40538d0de687a54a".
+<https://data.hetarchief.be/id/entity/efe08dbe2d9992778dc4e8d43d8d471d> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 64;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/1328c3af20394027d19fa6d61a91099a> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 59;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/066899eb29753c71da106782f5d6fffc> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/mag>.
+<https://data.hetarchief.be/id/entity/a4547226b6e1f3a7dec6a039eca3f43b> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/inspection>;
+    <https://schema.org/name> "Inspectie (gebeurtenis): 8n3av0y864"@nl, "Inspection (event): 8n3av0y864"@en, "Inspection (événement): 8n3av0y864"@fr;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2021-02-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2021-02-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Benefit now young.";
+    <http://www.w3.org/ns/prov#wasAssociatedWith> <https://data.hetarchief.be/id/entity/7333429b4f98bac6081302aa26d1ab86>.
+<https://data.hetarchief.be/id/entity/7333429b4f98bac6081302aa26d1ab86> a <https://schema.org/Thing>;
+    <https://schema.org/name> "Ikung"@nl;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>.
+<https://data.hetarchief.be/id/entity/6932ab3cfe6c1156847555e74b013649> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/editing>;
+    <https://schema.org/name> "Bewerken (gebeurtenis): 8n3av0y864"@nl, "Editing (event): 8n3av0y864"@en, "Édition (événement): 8n3av0y864"@fr;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2020-07-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2020-07-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>;
+    <http://www.loc.gov/premis/rdf/v3/note> "What evening through already wind book.";
+    <http://www.w3.org/ns/prov#wasAssociatedWith> <https://data.hetarchief.be/id/entity/67364f351f9e08fb77a06f49954f1886>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/out> <https://data.hetarchief.be/id/entity/f1621e4bc67ceb4fd5b39538d0578d87>.
+<https://data.hetarchief.be/id/entity/67364f351f9e08fb77a06f49954f1886> a <https://schema.org/Thing>;
+    <https://schema.org/name> "Warren Johnson"@nl;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>.
+<https://data.hetarchief.be/id/entity/ad1e71962467555394eb629cf5930208> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2022-08-08T12:21:25.678504Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <https://schema.org/name> "qwgb-0.json"@nl;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/d075a63f299715d750da0e111501dc42>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "qwgb-0.json";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/51875b0a6a61510d65495bbcca79bd9d>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "application/json";
+    <http://www.loc.gov/premis/rdf/v3/size> "40293"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>.
+<https://data.hetarchief.be/id/entity/d075a63f299715d750da0e111501dc42> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    rdf:value <https://netvoyb-txhke.mgrw.ce/kwcz/XXHPCAAVETGED/9i799wv571r500uq81y561vcp76ss13i1w72ywkce4188c898p31uu7949i1j70c/qwgb-0.json>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/4f50c5da706b8153a6bc47e6e7f8a22e> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2022-08-08T12:21:25.678504Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <https://schema.org/name> "spsjik.mp4"@nl;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/4d513f91c3c7bcc4ebea9a1bbe36d283>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "spsjik.mp4";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/51875b0a6a61510d65495bbcca79bd9d>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "video/mp4";
+    <http://www.loc.gov/premis/rdf/v3/size> "177418913"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <https://schema.org/duration> "PT7H23M16.727S"^^<http://www.w3.org/2001/XMLSchema#duration>;
+    <https://schema.org/width> <https://data.hetarchief.be/id/entity/f903e338c7a7cacf8234170849f7348b>;
+    <https://schema.org/height> <https://data.hetarchief.be/id/entity/1dd4b48220a02d9362da44cb65bd1a01>;
+    <https://schema.org/thumbnailUrl> <https://netvoyb-txhke.mgrw.ce/kwcz/XXHPCAAVETGED/9i799wv571r500uq81y561vcp76ss13i1w72ywkce4188c898p31uu7949i1j70c/difference/lay/uwhotbkg7.jpg>.
+<https://data.hetarchief.be/id/entity/f903e338c7a7cacf8234170849f7348b> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 23;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/1dd4b48220a02d9362da44cb65bd1a01> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 43;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/4d513f91c3c7bcc4ebea9a1bbe36d283> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    rdf:value <https://netvoyb-txhke.mgrw.ce/kwcz/XXHPCAAVETGED/9i799wv571r500uq81y561vcp76ss13i1w72ywkce4188c898p31uu7949i1j70c/spsjik.mp4>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/51875b0a6a61510d65495bbcca79bd9d> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <https://schema.org/name> "Lageresolutiekopie (mp4): 'A that between do.' (8n3av0y864)"@nl, "Low-resolution copy (mp4): 'A that between do.' (8n3av0y864)"@en, "Copie en basse résolution (mp4): 'A that between do.' (8n3av0y864)"@fr;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/30b99d165d8644b26c136622cbccf895>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <https://schema.org/inLanguage> "nl";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/ad1e71962467555394eb629cf5930208>, <https://data.hetarchief.be/id/entity/4f50c5da706b8153a6bc47e6e7f8a22e>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hsr> <https://data.hetarchief.be/id/entity/4f50c5da706b8153a6bc47e6e7f8a22e>;
+    <https://data.hetarchief.be/ns/object/isAccessCopyOf> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hss> <https://data.hetarchief.be/id/entity/f1621e4bc67ceb4fd5b39538d0578d87>.
+<https://data.hetarchief.be/id/entity/2cf95d7578154f428fe98294b2fc4984> a <https://data.hetarchief.be/ns/mediahaven/Record>;
+    <https://schema.org/identifier> "4uw22n732ey65z6a31h2j0v6923g37v9eb3m5yurst0n87194619s1qls259b8z9".
+<https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5> a <https://data.hetarchief.be/ns/mediahaven/Fragment>;
+    <https://schema.org/identifier> "3jq55h111xh10b2n07f0x5q8319o57o2cv0f6ywqgw3p59340836m6nxn474x5n11uo47i87530218155634j3y4ubo42266";
+    <https://data.hetarchief.be/ns/mediahaven/record> <https://data.hetarchief.be/id/entity/2cf95d7578154f428fe98294b2fc4984>;
+    <https://data.hetarchief.be/ns/mediahaven/PID> "8n3av0y864";
+    <https://schema.org/dateCreated> "2000-10-25T08:15:54.368603Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/dateModified> "2003-07-01T01:36:54.582761Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://data.hetarchief.be/id/entity/a34782e8ef337a9049e9d49016506529> a <https://data.hetarchief.be/ns/object/CarrierRepresentation>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <https://data.hetarchief.be/ns/object/isCarrierCopyOf> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Dragerversie (film): 'A that between do.' (8n3av0y864)"@nl, "Carrier version (film): 'A that between do.' (8n3av0y864)"@en, "Version sur support (film): 'A that between do.' (8n3av0y864)"@fr;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>;
+    <https://data.hetarchief.be/ns/description/hasMissingImagereels> false;
+    <https://data.hetarchief.be/ns/description/hasMissingAudioreels> false;
+    <https://data.hetarchief.be/ns/description/numberOfReels> "5"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>.
+<https://data.hetarchief.be/id/entity/8n3av0y864> <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isr> <https://data.hetarchief.be/id/entity/a34782e8ef337a9049e9d49016506529>, <https://data.hetarchief.be/id/entity/1eb12da05b52e30bdb837828d73dc9fd>;
+    <https://data.hetarchief.be/ns/object/hasCarrierCopy> <https://data.hetarchief.be/id/entity/a34782e8ef337a9049e9d49016506529>;
+    <https://data.hetarchief.be/ns/object/hasMasterCopy> <https://data.hetarchief.be/id/entity/1eb12da05b52e30bdb837828d73dc9fd>.
+<https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136> a <https://schema.org/Thing>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Tmogcjwvz"@nl.
+<https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5> a <https://data.hetarchief.be/ns/object/PhysicalCarrier>, <https://data.hetarchief.be/ns/description/ImageReel>;
+    <https://schema.org/identifier> "LAYT_FTK_995844";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Drager (16mm): LAYT_FTK_995844"@nl, "Carrier (16mm): LAYT_FTK_995844"@en, "Support (16mm): LAYT_FTK_995844"@fr;
+    <http://www.loc.gov/premis/rdf/v3/medium> <https://data.hetarchief.be/id/carrier-type/16mmfilm>;
+    <https://data.hetarchief.be/ns/object/preservationProblem> <https://data.hetarchief.be/id/entity/d83f0e5b3f0720729cca5d8932dab068>;
+    <https://data.hetarchief.be/ns/description/coloringType> <https://data.hetarchief.be/id/color-type/Color>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasCaptioning> <https://data.hetarchief.be/id/entity/cbb434fa07c5ce2f81c5836d3b6991ee>;
+    <https://schema.org/isPartOf> <https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c>.
+<https://data.hetarchief.be/id/entity/d83f0e5b3f0720729cca5d8932dab068> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Career pressure eye.".
+<https://data.hetarchief.be/id/entity/cbb434fa07c5ce2f81c5836d3b6991ee> a <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#OpenCaptions>.
+<https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3> a <https://data.hetarchief.be/ns/object/PhysicalCarrier>, <https://data.hetarchief.be/ns/description/AudioReel>;
+    <https://schema.org/identifier> "LAYT_FTK_738433";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Drager (16mm): LAYT_FTK_738433"@nl, "Carrier (16mm): LAYT_FTK_738433"@en, "Support (16mm): LAYT_FTK_738433"@fr;
+    <http://www.loc.gov/premis/rdf/v3/medium> <https://data.hetarchief.be/id/carrier-type/16mmfilm>;
+    <https://data.hetarchief.be/ns/object/preservationProblem> <https://data.hetarchief.be/id/entity/d83f0e5b3f0720729cca5d8932dab068>;
+    <https://schema.org/isPartOf> <https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c>.
+<https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c> a <https://schema.org/Collection>;
+    <https://schema.org/identifier> "UVNJ55";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "UVNJ55"@nl;
+    <https://schema.org/hasPart> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>.
+<https://data.hetarchief.be/id/entity/6f202ab132b2d627de172bb0f119f5b5> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/check-out>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Uitchecken (gebeurtenis): UVNJ55"@nl, "Check-Out (event): UVNJ55"@en, "Départ (événement): UVNJ55"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2023-01-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2023-01-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a87aed1984d5186ae7450295b0a5853c>.
+<https://data.hetarchief.be/id/entity/1eb12da05b52e30bdb837828d73dc9fd> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Archiefmaster (zip): 'A that between do.' (8n3av0y864)"@nl, "Archive master (zip): 'A that between do.' (8n3av0y864)"@en, "Maître d'archive (zip): 'A that between do.' (8n3av0y864)"@fr;
+    <https://data.hetarchief.be/ns/object/isMasterCopyOf> <https://data.hetarchief.be/id/entity/8n3av0y864>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/f56e6ae84c52e2b26cb5100a4101d4f4>.
+<https://data.hetarchief.be/id/entity/f56e6ae84c52e2b26cb5100a4101d4f4> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2000-10-25T08:15:54.368603Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "8n3av0y864_001_bsh.zip"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/0d5edb7081547d4308476be40ace0b34>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "8n3av0y864_001_bsh.zip";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/1eb12da05b52e30bdb837828d73dc9fd>;
+    <http://purl.org/dc/terms/format> <https://www.nationalarchives.gov.uk/PRONOM/x-fmt/263>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "application/zip";
+    <http://www.loc.gov/premis/rdf/v3/size> "259229331163"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <http://www.loc.gov/premis/rdf/v3/fixity> <https://data.hetarchief.be/id/entity/a092f7992d914ead0177e990e1b20a12>.
+<https://data.hetarchief.be/id/entity/a092f7992d914ead0177e990e1b20a12> a <http://id.loc.gov/vocabulary/preservation/cryptographicHashFunctions/md5>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    rdf:value "c6c36d54c67dcc01b16f87a8398c3434".
+<https://data.hetarchief.be/id/entity/0d5edb7081547d4308476be40ace0b34> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/mag>.
+<https://data.hetarchief.be/id/entity/a9bed6c12a8f0bc70fd7c41db73b923c> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/digitization>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Digitalisering (gebeurtenis): 8n3av0y864"@nl, "Digitization (event): 8n3av0y864"@en, "Numérisation (événement): 8n3av0y864"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2023-04-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2023-04-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Understand ever else read friend.";
+    <http://www.w3.org/ns/prov#wasAssociatedWith> <https://data.hetarchief.be/id/entity/fdfd2a4d989c23df133c23a59bb73ab2>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/out> <https://data.hetarchief.be/id/entity/1eb12da05b52e30bdb837828d73dc9fd>.
+<https://data.hetarchief.be/id/entity/fdfd2a4d989c23df133c23a59bb73ab2> a <https://schema.org/Thing>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Robert Walker"@nl.
+<https://data.hetarchief.be/id/entity/a4547226b6e1f3a7dec6a039eca3f43b> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/inspection>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Inspectie (gebeurtenis): 8n3av0y864"@nl, "Inspection (event): 8n3av0y864"@en, "Inspection (événement): 8n3av0y864"@fr;
+    <http://www.w3.org/ns/prov#startedAtTime> "2020-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2020-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Painting one scie.";
+    <http://www.w3.org/ns/prov#wasAssociatedWith> <https://data.hetarchief.be/id/entity/7333429b4f98bac6081302aa26d1ab86>.
+<https://data.hetarchief.be/id/entity/7333429b4f98bac6081302aa26d1ab86> a <https://schema.org/Thing>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Ikung"@nl.
+<https://data.hetarchief.be/id/entity/1b780d8284e8512e3e13bddd555192aa> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/registration>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Registratie (gebeurtenis): 8n3av0y864"@nl, "Registration (event): 8n3av0y864"@en, "Inscription (événement): 8n3av0y864"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/ZB-3o72l9i>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2008-03-08T19:45:17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2008-03-08T19:45:17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/a9b48757a177c7bdcea1d4fe6f289fe5>, <https://data.hetarchief.be/id/entity/b6ced78c0a53d45048a8027e2ffda7b3>.
+<https://data.hetarchief.be/id/entity/bc2ef4e7d028370f4aca54aaf0d9d800> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/transfer>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/dd520a1f14fb76306daf537017f86cf5>;
+    <https://schema.org/name> "Overdracht (gebeurtenis): 8n3av0y864"@nl, "Transfer (event): 8n3av0y864"@en, "Transfert (événement): 8n3av0y864"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/entity/315f5be6084d4a065bc2e5aec12d1136>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2021-05-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2021-05-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/1eb12da05b52e30bdb837828d73dc9fd>.

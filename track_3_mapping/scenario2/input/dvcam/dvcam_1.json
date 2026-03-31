@@ -1,0 +1,2139 @@
+{
+    "NrOfResults": 8,
+    "StartIndex": 0,
+    "TotalNrOfResults": 8,
+    "Results": [
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "qdln45n2j4412s634i584i2e99y4qzy9km7u37d6o9071798qw74m109i55f1vz5_3600151331"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "PathToPreview": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "BrowseStatus": "yp_lcxtec",
+                "RecordId": "34bxy0d052913k2fmf71126hn1776yo8z762a6e71lf6269463897485h9i41r59",
+                "IsInIngestSpace": true,
+                "OrganisationId": "567",
+                "ContainsGeoData": true,
+                "OriginalStatus": "tmmdrlfhn",
+                "IsFragment": false,
+                "UploadedById": "399805e1-fceb-4277-b591-34573d9d3f0c",
+                "HasKeyframes": true,
+                "MediaObjectId": "34bxy0d052913k2fmf71126hn1776yo8z762a6e71lf6269463897485h9i41r59",
+                "ArchiveStatus": "on_disk",
+                "FragmentId": "24efs6r752919v3zyb35778so4142pe7d814z4s99wi8491172299686m0r06x35p5z1gm2076vm00r2h4b402nkrtj1p309",
+                "OffsetInDatabase": 8499360,
+                "PathToKeyframeThumb": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2023-12-07T20:08:59.392810Z",
+                "OriginalFilename": "3w6cu6jk27_ng_001_nqgkzsdvyp.xml",
+                "RightsOwner": "Jason Ramos",
+                "UploadedBy": "owluirhktk@mjbrvjbbtkt",
+                "KeyframeStart": 0,
+                "Title": "Too even perhaps majority seat receive final.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Export": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Read": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "3fb11195-38ab-4277-afb2-ad36b5e68214",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "OTC_start": "05:02:16:06",
+                "type_viaa": "Video",
+                "brand": "Ucyp",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2024-04-22",
+                "shipment_id": "382983877253",
+                "digitization_format": "DV",
+                "created_on": "2001-08-23T04:29:03",
+                "updated_by": "Cynthia Rodrz",
+                "status": "Crxrqfh",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:viaa=\"http://viaa.be\" xmlns:mets=\"http://www.loc.gov/METS/\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>82faf6fb-ed94-48e0-b5cd-08c128d1b76e</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>VALIDATION</premis:eventType><premis:eventDateTime>2018-10-20</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>kb-12-77</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_aeaazmbtq_vuublkrtyy.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>qqevaxm</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_ng_001_nqgkzsdvyp.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>qqevaxm</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2023-03-21",
+                "batch_id": "LNOG64",
+                "player_model": "VKO-5104CC",
+                "inspection_date": "2023-08-16",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "6",
+                "dc_identifier_localid": "02",
+                "PID": "3w6cu6jk27",
+                "CP": "Anna Miller",
+                "batch_name": "LNOG64",
+                "player_serial_number": "665997",
+                "carrier_barcode": "JRYN_KVL_985763",
+                "preservation_problems": "Ykxb",
+                "updated_on": "2001-08-23T04:29:03",
+                "encoder_serial_number": "56",
+                "lto_id": "WH3615K3",
+                "player_manufacturer": "Ucyp",
+                "digitization_date": "2020-10-19",
+                "transfer_lto_date": "2024-07-11",
+                "digitization_outcome": "y",
+                "digitization_time": "15:10:00",
+                "format": "DV",
+                "created_by": "Cynthia Rodrz",
+                "related_documents": "6",
+                "sp_id": "OW-s63f20s",
+                "dcterms_created": "1996-uu-uu",
+                "encoder_manufacturer": "Qxevkn",
+                "duration_viaa": "1:00:00",
+                "qc_by": "Scott Jons",
+                "sp_name": "Qxevkn",
+                "file_duration": "01:44:78",
+                "transport_box_barcode": "SPZM-6-PF61-5842",
+                "CP_id": "OW-729bj60",
+                "collection_box_barcode": "IZAJ_KVL_575200",
+                "encoder_model": "SFH"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2021-06-18T22:41:14.403904Z",
+                "IsSynchronized": true,
+                "OrganisationName": "uptwzvvqnvx",
+                "Workflow": "Qxevkn",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2006-12-25T07:07:38.323343Z",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "document",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2000-06-23T18:23:56.129855Z",
+                "OrganisationLongName": "uptwzvvqnvx",
+                "RecordType": "Record",
+                "PublicationDate": "2018-03-22T01:02:52.465318Z",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OW-729bj60",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "MimeType": "application/xml",
+                "Md5": "0c6bf31a076f1016d3383be2cd044517",
+                "FileSize": 5930951,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "PathToPreview": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "BrowseStatus": "tmmdrlfhn",
+                "RecordId": "qdln45n2j4412s634i584i2e99y4qzy9km7u37d6o9071798qw74m109i55f1vz5",
+                "IsInIngestSpace": true,
+                "OrganisationId": "567",
+                "ContainsGeoData": true,
+                "OriginalStatus": "tmmdrlfhn",
+                "IsFragment": false,
+                "UploadedById": "1d774593-3f17-48ba-8d8f-fa9ddd8f4b86",
+                "HasKeyframes": true,
+                "MediaObjectId": "qdln45n2j4412s634i584i2e99y4qzy9km7u37d6o9071798qw74m109i55f1vz5",
+                "ArchiveStatus": "completed",
+                "FragmentId": "rptw42b9h0515r807v397d5l69v3wlk8du1v68f4v6444356bz12g318t42w3fo4h603wnra23ra129up81732npauxd8321",
+                "OffsetInDatabase": 8484345,
+                "PathToKeyframeThumb": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "DepartmentId": "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2023-12-07T20:08:59.392810Z",
+                "OriginalFilename": "4q2jo4qu48.nzpwdio",
+                "RightsOwner": "Jason Ramos",
+                "UploadedBy": "Joel Smith",
+                "KeyframeStart": 0,
+                "Title": "Too even perhaps majority seat receive final.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Export": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Read": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "3fb11195-38ab-4277-afb2-ad36b5e68214",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "OTC_start": "05:02:16:06",
+                "type_viaa": "Video",
+                "brand": "Ucyp",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2024-04-22",
+                "shipment_id": "382983877253",
+                "digitization_format": "DV",
+                "created_on": "2001-08-23T04:29:03",
+                "updated_by": "Cynthia Rodrz",
+                "status": "Crxrqfh",
+                "qc_date": "2023-03-21",
+                "batch_id": "LNOG64",
+                "player_model": "VKO-5104CC",
+                "inspection_date": "2023-08-16",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "6",
+                "dc_identifier_localid": "02",
+                "PID": "3w6cu6jk27",
+                "CP": "Anna Miller",
+                "batch_name": "LNOG64",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "665997",
+                "carrier_barcode": "JRYN_KVL_985763",
+                "preservation_problems": "Ykxb",
+                "updated_on": "2001-08-23T04:29:03",
+                "encoder_serial_number": "56",
+                "lto_id": "WH3615K3",
+                "player_manufacturer": "Ucyp",
+                "digitization_date": "2020-10-19",
+                "transfer_lto_date": "2024-07-11",
+                "digitization_outcome": "y",
+                "digitization_time": "15:10:00",
+                "format": "DV",
+                "created_by": "Cynthia Rodrz",
+                "related_documents": "6",
+                "sp_id": "OW-s63f20s",
+                "dcterms_created": "1996-uu-uu",
+                "encoder_manufacturer": "Qxevkn",
+                "duration_viaa": "1:00:00",
+                "qc_by": "Scott Jons",
+                "sp_name": "Qxevkn",
+                "file_duration": "01:44:78",
+                "transport_box_barcode": "SPZM-6-PF61-5842",
+                "CP_id": "OW-729bj60",
+                "collection_box_barcode": "IZAJ_KVL_575200",
+                "encoder_model": "SFH"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2000-10-25T02:44:17.368410Z",
+                "IsSynchronized": true,
+                "OrganisationName": "uptwzvvqnvx",
+                "Workflow": "Qxevkn",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2009-04-09T20:37:41.755853Z",
+                "IngestTape": "WH3615K3",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "set",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "DepartmentName": "uptwzvvqnvx",
+                "UserLastModifiedDate": "2011-11-26T11:17:19.977219Z",
+                "OrganisationLongName": "uptwzvvqnvx",
+                "RecordType": "Record",
+                "PublicationDate": "2008-02-18T15:44:09.733431Z",
+                "ExternalId": "3w6cu6jk27",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OW-729bj60",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "OriginalExtension": "complex",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "qdln45n2j4412s634i584i2e99y4qzy9km7u37d6o9071798qw74m109i55f1vz5_1176580753"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "PathToPreview": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "BrowseStatus": "yp_lcxtec",
+                "RecordId": "4f119745777y4c0zque61d2bjlv199hb318ckh04z03246saby740679tdo91o3l",
+                "IsInIngestSpace": true,
+                "OrganisationId": "567",
+                "ContainsGeoData": true,
+                "OriginalStatus": "tmmdrlfhn",
+                "IsFragment": false,
+                "UploadedById": "399805e1-fceb-4277-b591-34573d9d3f0c",
+                "HasKeyframes": true,
+                "MediaObjectId": "4f119745777y4c0zque61d2bjlv199hb318ckh04z03246saby740679tdo91o3l",
+                "ArchiveStatus": "on_disk",
+                "FragmentId": "2h116955181k5n6ywdd66k1ieoz456sx047qjo11c54511tdzf992566gch00c0j937b4b3446ua7b83n71o989w54701e2s",
+                "OffsetInDatabase": 8499358,
+                "PathToKeyframeThumb": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2023-12-07T20:08:59.392810Z",
+                "OriginalFilename": "3w6cu6jk27_aeaazmbtq_ywmvgtfcf.xml",
+                "RightsOwner": "Jason Ramos",
+                "UploadedBy": "owluirhktk@mjbrvjbbtkt",
+                "KeyframeStart": 0,
+                "Title": "Too even perhaps majority seat receive final.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Export": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Read": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "3fb11195-38ab-4277-afb2-ad36b5e68214",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "OTC_start": "05:02:16:06",
+                "type_viaa": "Video",
+                "brand": "Ucyp",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2024-04-22",
+                "shipment_id": "382983877253",
+                "digitization_format": "DV",
+                "created_on": "2001-08-23T04:29:03",
+                "updated_by": "Cynthia Rodrz",
+                "status": "Crxrqfh",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:viaa=\"http://viaa.be\" xmlns:mets=\"http://www.loc.gov/METS/\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>67b202da-9d27-4517-8463-0fc4bb86b88d</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>IDENTIFICATION</premis:eventType><premis:eventDateTime>2021-03-01</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>kb-12-77</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_ng_001_ywmvgtfcf.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>qqevaxm</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_aeaazmbtq_ywmvgtfcf.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>qqevaxm</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2023-03-21",
+                "batch_id": "LNOG64",
+                "player_model": "VKO-5104CC",
+                "inspection_date": "2023-08-16",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "6",
+                "dc_identifier_localid": "02",
+                "PID": "3w6cu6jk27",
+                "CP": "Anna Miller",
+                "batch_name": "LNOG64",
+                "player_serial_number": "665997",
+                "carrier_barcode": "JRYN_KVL_985763",
+                "preservation_problems": "Ykxb",
+                "updated_on": "2001-08-23T04:29:03",
+                "encoder_serial_number": "56",
+                "lto_id": "WH3615K3",
+                "player_manufacturer": "Ucyp",
+                "digitization_date": "2020-10-19",
+                "transfer_lto_date": "2024-07-11",
+                "digitization_outcome": "y",
+                "digitization_time": "15:10:00",
+                "format": "DV",
+                "created_by": "Cynthia Rodrz",
+                "related_documents": "6",
+                "sp_id": "OW-s63f20s",
+                "dcterms_created": "1996-uu-uu",
+                "encoder_manufacturer": "Qxevkn",
+                "duration_viaa": "1:00:00",
+                "qc_by": "Scott Jons",
+                "sp_name": "Qxevkn",
+                "file_duration": "01:44:78",
+                "transport_box_barcode": "SPZM-6-PF61-5842",
+                "CP_id": "OW-729bj60",
+                "collection_box_barcode": "IZAJ_KVL_575200",
+                "encoder_model": "SFH"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2018-01-09T04:05:40.516356Z",
+                "IsSynchronized": true,
+                "OrganisationName": "uptwzvvqnvx",
+                "Workflow": "Qxevkn",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2015-10-11T17:41:56.218516Z",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "document",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2023-11-27T12:58:11.194263Z",
+                "OrganisationLongName": "uptwzvvqnvx",
+                "RecordType": "Record",
+                "PublicationDate": "2013-03-08T22:08:29.054493Z",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OW-729bj60",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "MimeType": "application/xml",
+                "Md5": "a6b2b770f269de55148c5ff807c19c67",
+                "FileSize": 4942,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "qdln45n2j4412s634i584i2e99y4qzy9km7u37d6o9071798qw74m109i55f1vz5_3007450232"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "PathToPreview": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "BrowseStatus": "yp_lcxtec",
+                "RecordId": "465b196k400945q6kl0f9b0i12t1phu2h4781o2bk2794xx496r31z93x6o6315q",
+                "IsInIngestSpace": true,
+                "OrganisationId": "567",
+                "ContainsGeoData": true,
+                "OriginalStatus": "tmmdrlfhn",
+                "IsFragment": false,
+                "UploadedById": "399805e1-fceb-4277-b591-34573d9d3f0c",
+                "HasKeyframes": true,
+                "MediaObjectId": "465b196k400945q6kl0f9b0i12t1phu2h4781o2bk2794xx496r31z93x6o6315q",
+                "ArchiveStatus": "on_disk",
+                "FragmentId": "672q424s106309q9bx0q0v4k13d9onu1c8821f3om7233gs480t67s76s2q3387g40a84k843l8182b4j0dhp707170h728z",
+                "OffsetInDatabase": 8499357,
+                "PathToKeyframeThumb": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2023-12-07T20:08:59.392810Z",
+                "OriginalFilename": "3w6cu6jk27_ng_001_ywmvgtfcf.xml",
+                "RightsOwner": "Jason Ramos",
+                "UploadedBy": "owluirhktk@mjbrvjbbtkt",
+                "KeyframeStart": 0,
+                "Title": "Too even perhaps majority seat receive final.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Export": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Read": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "3fb11195-38ab-4277-afb2-ad36b5e68214",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "OTC_start": "05:02:16:06",
+                "type_viaa": "Video",
+                "brand": "Ucyp",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2024-04-22",
+                "shipment_id": "382983877253",
+                "digitization_format": "DV",
+                "created_on": "2001-08-23T04:29:03",
+                "updated_by": "Cynthia Rodrz",
+                "status": "Crxrqfh",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:viaa=\"http://viaa.be\" xmlns:mets=\"http://www.loc.gov/METS/\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>67b202da-9d27-4517-8463-0fc4bb86b88d</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>IDENTIFICATION</premis:eventType><premis:eventDateTime>2021-03-01</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>kb-12-77</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_ng_001_ywmvgtfcf.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>qqevaxm</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_aeaazmbtq_ywmvgtfcf.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>qqevaxm</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2023-03-21",
+                "batch_id": "LNOG64",
+                "player_model": "VKO-5104CC",
+                "inspection_date": "2023-08-16",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "6",
+                "dc_identifier_localid": "02",
+                "PID": "3w6cu6jk27",
+                "CP": "Anna Miller",
+                "batch_name": "LNOG64",
+                "player_serial_number": "665997",
+                "carrier_barcode": "JRYN_KVL_985763",
+                "preservation_problems": "Ykxb",
+                "updated_on": "2001-08-23T04:29:03",
+                "encoder_serial_number": "56",
+                "lto_id": "WH3615K3",
+                "player_manufacturer": "Ucyp",
+                "digitization_date": "2020-10-19",
+                "transfer_lto_date": "2024-07-11",
+                "digitization_outcome": "y",
+                "digitization_time": "15:10:00",
+                "format": "DV",
+                "created_by": "Cynthia Rodrz",
+                "related_documents": "6",
+                "sp_id": "OW-s63f20s",
+                "dcterms_created": "1996-uu-uu",
+                "encoder_manufacturer": "Qxevkn",
+                "duration_viaa": "1:00:00",
+                "qc_by": "Scott Jons",
+                "sp_name": "Qxevkn",
+                "file_duration": "01:44:78",
+                "transport_box_barcode": "SPZM-6-PF61-5842",
+                "CP_id": "OW-729bj60",
+                "collection_box_barcode": "IZAJ_KVL_575200",
+                "encoder_model": "SFH"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2009-01-06T05:10:03.921837Z",
+                "IsSynchronized": true,
+                "OrganisationName": "uptwzvvqnvx",
+                "Workflow": "Qxevkn",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2012-12-29T00:35:05.405664Z",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "document",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2017-10-04T16:00:44.849988Z",
+                "OrganisationLongName": "uptwzvvqnvx",
+                "RecordType": "Record",
+                "PublicationDate": "2018-04-01T07:20:44.562049Z",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OW-729bj60",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "MimeType": "application/xml",
+                "Md5": "2975717a7c4447da203be173d5b38e7e",
+                "FileSize": 2987,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "qdln45n2j4412s634i584i2e99y4qzy9km7u37d6o9071798qw74m109i55f1vz5_4472901461"
+                    ]
+                },
+                "FragmentStartTimeCode": "06:37:10.466",
+                "FragmentEndTimeCode": "15:05:04.428",
+                "FragmentDurationFrames": 93429,
+                "FragmentDurationTimeCode": "15:05:04.428",
+                "FragmentEndFrames": 93429,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://yeakoxz-uiyzm.bbut.vy/later/pass/lcxtec.mp4",
+                "PathToKeyframe": "https://suoochu-kqkjg.hntv.xe/chance/feeling/nybrshpn9.jpg",
+                "PathToPreview": "https://yeakoxz-uiyzm.bbut.vy/later/pass/lcxtec.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://vawvjsa-wixnz.kfdz.ca/thzn/HBWQOFADXHQ/9ktv9yj005n87e08to9nl6501og41667b5q45sv51626085867109a3707qup55o",
+                            "PathToKeyframe": "knowledge/level/nybrshpn9.jpg",
+                            "PathToKeyframeThumb": "concern/theory/nybrshpn9.jpg",
+                            "PathToVideo": "lcxtec.mp4",
+                            "HasKeyframes": true,
+                            "Container": "mp4",
+                            "Label": "uptwzvvqnvx_kt5",
+                            "FileSize": 826368979,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    },
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 62,
+                            "VideoCodec": "m313",
+                            "Width": 28,
+                            "AudioChannels": 4,
+                            "AudioCodec": "aac",
+                            "BitRate": 1768977,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1502527,
+                            "AudioBitRate": 1411200,
+                            "VideoFps": "58"
+                        },
+                        {
+                            "BaseUrl": "https://vawvjsa-wixnz.kfdz.ca/thzn/HBWQOFADXHQ/9ktv9yj005n87e08to9nl6501og41667b5q45sv51626085867109a3707qup55o",
+                            "PathToVideo": "awsi-0.json",
+                            "HasKeyframes": true,
+                            "Container": "peak",
+                            "Label": "awsi-2",
+                            "FileSize": 214090,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        },
+                        {
+                            "BaseUrl": "https://vawvjsa-wixnz.kfdz.ca/thzn/HBWQOFADXHQ/9ktv9yj005n87e08to9nl6501og41667b5q45sv51626085867109a3707qup55o",
+                            "PathToVideo": "awsi-1.json",
+                            "HasKeyframes": true,
+                            "Container": "peak",
+                            "Label": "awsi-6",
+                            "FileSize": 149569,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "tmmdrlfhn",
+                "RecordId": "6qxr0yg339g02o59tq3ip0727mo91654z6c31bn15022088009689x2504qel92x",
+                "IsInIngestSpace": true,
+                "OrganisationId": "567",
+                "ContainsGeoData": true,
+                "OriginalStatus": "tmmdrlfhn",
+                "IsFragment": false,
+                "UploadedById": "399805e1-fceb-4277-b591-34573d9d3f0c",
+                "HasKeyframes": true,
+                "MediaObjectId": "6qxr0yg339g02o59tq3ip0727mo91654z6c31bn15022088009689x2504qel92x",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "0xal7sx684b55o02tu4rk2814zg62627h2b23ee54606350118892q8244nxa72r2s42s814lz9c5fug8090ich8e35xj2jb",
+                "OffsetInDatabase": 8499356,
+                "PathToKeyframeThumb": "https://olftgrv-drlhd.gzhg.no/huge/full/nybrshpn9.jpg",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2023-12-07T20:08:59.392810Z",
+                "OriginalFilename": "3w6cu6jk27_ng_001.dv",
+                "RightsOwner": "Jason Ramos",
+                "UploadedBy": "Joel Smith",
+                "KeyframeStart": 0,
+                "Title": "Too even perhaps majority seat receive final.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Export": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Read": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "3fb11195-38ab-4277-afb2-ad36b5e68214",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "OTC_start": "05:02:16:06",
+                "type_viaa": "Video",
+                "brand": "Ucyp",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2024-04-22",
+                "shipment_id": "382983877253",
+                "digitization_format": "DV",
+                "created_on": "2001-08-23T04:29:03",
+                "updated_by": "Cynthia Rodrz",
+                "status": "Crxrqfh",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:viaa=\"http://viaa.be\" xmlns:mets=\"http://www.loc.gov/METS/\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>ed9785d6-4667-433d-9a53-6acf6faba425</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>MIGRATION</premis:eventType><premis:eventDateTime>2020-06-18</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>EPL-33;XLGLW-027</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_aeaazmbtq.mkv</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>imgsfr</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_ng_001.dv</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>imgsfr</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2023-03-21",
+                "batch_id": "LNOG64",
+                "player_model": "VKO-5104CC",
+                "inspection_date": "2023-08-16",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "6",
+                "dc_identifier_localid": "02",
+                "PID": "3w6cu6jk27",
+                "CP": "Anna Miller",
+                "batch_name": "LNOG64",
+                "player_serial_number": "665997",
+                "carrier_barcode": "JRYN_KVL_985763",
+                "preservation_problems": "Ykxb",
+                "encoder_serial_number": "56",
+                "updated_on": "2001-08-23T04:29:03",
+                "lto_id": "WH3615K3",
+                "player_manufacturer": "Ucyp",
+                "digitization_date": "2020-10-19",
+                "transfer_lto_date": "2024-07-11",
+                "digitization_outcome": "y",
+                "digitization_time": "15:10:00",
+                "format": "DV",
+                "created_by": "Cynthia Rodrz",
+                "related_documents": "6",
+                "sp_id": "OW-s63f20s",
+                "dcterms_created": "1996-uu-uu",
+                "encoder_manufacturer": "Qxevkn",
+                "duration_viaa": "1:00:00",
+                "qc_by": "Scott Jons",
+                "sp_name": "Qxevkn",
+                "file_duration": "01:44:78",
+                "transport_box_barcode": "SPZM-6-PF61-5842",
+                "CP_id": "OW-729bj60",
+                "collection_box_barcode": "IZAJ_KVL_575200",
+                "encoder_model": "SFH"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2017-08-28T00:49:53.280449Z",
+                "IsSynchronized": true,
+                "OrganisationName": "uptwzvvqnvx",
+                "Workflow": "Qxevkn",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2020-06-25T10:03:23.525333Z",
+                "IngestTape": "WH3615K3",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "video",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2024-06-13T02:02:25.683761Z",
+                "OrganisationLongName": "uptwzvvqnvx",
+                "RecordType": "Record",
+                "PublicationDate": "2023-12-19T11:20:15.543528Z",
+                "ExternalId": "3w6cu6jk27_ng_021",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OW-729bj60",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 4ch 32000Hz 1024000bps",
+                "PronomId": "x-fmt/152",
+                "OriginalExtension": "dv",
+                "DurationFrames": 93429,
+                "EndFrames": 93450,
+                "MimeType": "video/x-dv",
+                "StartFrames": 21,
+                "Width": 51,
+                "Md5": "29b18f80bba31b564a6dabcb39fb85a4",
+                "VideoBitRate": 25000000,
+                "AudioChannels": 4,
+                "BitRate": 28800000,
+                "VideoTechnical": "Write statement set low Democrat.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 2
+                        },
+                        {
+                            "Channels": 2
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 32000,
+                "VideoCodec": "upyvswz",
+                "FileSize": 13453776000,
+                "ImageSize": "720x576",
+                "DurationTimeCode": "15:05:04.428",
+                "Height": 52,
+                "EndTimeCode": "02:58:45.951",
+                "AudioBitRate": 1024000,
+                "StartTimeCode": "02:39:19.786",
+                "ImageOrientation": "landscape",
+                "VideoFps": "58",
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "qdln45n2j4412s634i584i2e99y4qzy9km7u37d6o9071798qw74m109i55f1vz5_3879212854"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "PathToPreview": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "BrowseStatus": "yp_lcxtec",
+                "RecordId": "u5g98qno62gw15bq581li7n4qr6i09351og93435q768150e2691e6x37j1r3998",
+                "IsInIngestSpace": true,
+                "OrganisationId": "567",
+                "ContainsGeoData": true,
+                "OriginalStatus": "tmmdrlfhn",
+                "IsFragment": false,
+                "UploadedById": "399805e1-fceb-4277-b591-34573d9d3f0c",
+                "HasKeyframes": true,
+                "MediaObjectId": "u5g98qno62gw15bq581li7n4qr6i09351og93435q768150e2691e6x37j1r3998",
+                "ArchiveStatus": "on_disk",
+                "FragmentId": "e6c82mev03ek80uz488ju2z1sq6n35575kb40371f137794i2054b8q29p4b9126705cq42c3k1p54cf5e639z7385nq45y3",
+                "OffsetInDatabase": 8499354,
+                "PathToKeyframeThumb": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2023-12-07T20:08:59.392810Z",
+                "OriginalFilename": "3w6cu6jk27_dwem.xml",
+                "RightsOwner": "Jason Ramos",
+                "UploadedBy": "owluirhktk@mjbrvjbbtkt",
+                "KeyframeStart": 0,
+                "Title": "Too even perhaps majority seat receive final.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Export": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Read": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "3fb11195-38ab-4277-afb2-ad36b5e68214",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "OTC_start": "05:02:16:06",
+                "type_viaa": "Video",
+                "brand": "Ucyp",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2024-04-22",
+                "shipment_id": "382983877253",
+                "digitization_format": "DV",
+                "created_on": "2001-08-23T04:29:03",
+                "updated_by": "Cynthia Rodrz",
+                "status": "Crxrqfh",
+                "qc_date": "2023-03-21",
+                "batch_id": "LNOG64",
+                "player_model": "VKO-5104CC",
+                "inspection_date": "2023-08-16",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "6",
+                "dc_identifier_localid": "02",
+                "PID": "3w6cu6jk27",
+                "CP": "Anna Miller",
+                "batch_name": "LNOG64",
+                "player_serial_number": "665997",
+                "carrier_barcode": "JRYN_KVL_985763",
+                "preservation_problems": "Ykxb",
+                "updated_on": "2001-08-23T04:29:03",
+                "encoder_serial_number": "56",
+                "lto_id": "WH3615K3",
+                "player_manufacturer": "Ucyp",
+                "digitization_date": "2020-10-19",
+                "transfer_lto_date": "2024-07-11",
+                "digitization_outcome": "y",
+                "digitization_time": "15:10:00",
+                "format": "DV",
+                "created_by": "Cynthia Rodrz",
+                "related_documents": "6",
+                "sp_id": "OW-s63f20s",
+                "dcterms_created": "1996-uu-uu",
+                "encoder_manufacturer": "Qxevkn",
+                "duration_viaa": "1:00:00",
+                "qc_by": "Scott Jons",
+                "sp_name": "Qxevkn",
+                "file_duration": "01:44:78",
+                "transport_box_barcode": "SPZM-6-PF61-5842",
+                "CP_id": "OW-729bj60",
+                "collection_box_barcode": "IZAJ_KVL_575200",
+                "encoder_model": "SFH"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2025-11-26T02:25:46.641910Z",
+                "IsSynchronized": true,
+                "OrganisationName": "uptwzvvqnvx",
+                "Workflow": "Qxevkn",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2018-09-20T03:13:09.054209Z",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "document",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2000-11-10T07:05:43.424467Z",
+                "OrganisationLongName": "uptwzvvqnvx",
+                "RecordType": "Record",
+                "PublicationDate": "2019-09-02T19:53:35.107754Z",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OW-729bj60",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "MimeType": "application/xml",
+                "Md5": "05eb41be64d00f87b1406ab8252cbcf0",
+                "FileSize": 18031,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "qdln45n2j4412s634i584i2e99y4qzy9km7u37d6o9071798qw74m109i55f1vz5_1636572913"
+                    ]
+                },
+                "FragmentStartTimeCode": "06:37:10.466",
+                "FragmentEndTimeCode": "12:51:27.437",
+                "FragmentDurationFrames": 93761,
+                "FragmentDurationTimeCode": "12:51:27.437",
+                "FragmentEndFrames": 93761,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://juwuujf-uclpl.dbvi.cj/according/science/lcxtec.mp4",
+                "PathToKeyframe": "https://gtnzgza-yizzs.wcnf.vn/everyone/back/nybrshpn9.jpg",
+                "PathToPreview": "https://juwuujf-uclpl.dbvi.cj/according/science/lcxtec.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://jtlqbwg-wdyuo.fseb.ok/yqwt/YDJOAXELAVW/u77a68q5n4b122k5y87ij149573903760dc58189l0w96318ye784hx14jv370w1",
+                            "PathToKeyframe": "knowledge/level/nybrshpn9.jpg",
+                            "PathToKeyframeThumb": "concern/theory/nybrshpn9.jpg",
+                            "PathToVideo": "lcxtec.mp4",
+                            "HasKeyframes": true,
+                            "Container": "mp4",
+                            "Label": "uptwzvvqnvx_kt5",
+                            "FileSize": 915352559,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    },
+                                    {
+                                        "Channels": 2
+                                    },
+                                    {
+                                        "Channels": 2
+                                    },
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 62,
+                            "VideoCodec": "m313",
+                            "Width": 28,
+                            "AudioChannels": 8,
+                            "AudioCodec": "aac",
+                            "BitRate": 1952510,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1497301,
+                            "AudioBitRate": 2822400,
+                            "VideoFps": "58"
+                        },
+                        {
+                            "BaseUrl": "https://jtlqbwg-wdyuo.fseb.ok/yqwt/YDJOAXELAVW/u77a68q5n4b122k5y87ij149573903760dc58189l0w96318ye784hx14jv370w1",
+                            "PathToVideo": "awsi-0.json",
+                            "HasKeyframes": true,
+                            "Container": "peak",
+                            "Label": "awsi-2",
+                            "FileSize": 190234,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        },
+                        {
+                            "BaseUrl": "https://jtlqbwg-wdyuo.fseb.ok/yqwt/YDJOAXELAVW/u77a68q5n4b122k5y87ij149573903760dc58189l0w96318ye784hx14jv370w1",
+                            "PathToVideo": "awsi-1.json",
+                            "HasKeyframes": true,
+                            "Container": "peak",
+                            "Label": "awsi-6",
+                            "FileSize": 192131,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        },
+                        {
+                            "BaseUrl": "https://jtlqbwg-wdyuo.fseb.ok/yqwt/YDJOAXELAVW/u77a68q5n4b122k5y87ij149573903760dc58189l0w96318ye784hx14jv370w1",
+                            "PathToVideo": "awsi-2.json",
+                            "HasKeyframes": true,
+                            "Container": "peak",
+                            "Label": "awsi-9",
+                            "FileSize": 150125,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        },
+                        {
+                            "BaseUrl": "https://jtlqbwg-wdyuo.fseb.ok/yqwt/YDJOAXELAVW/u77a68q5n4b122k5y87ij149573903760dc58189l0w96318ye784hx14jv370w1",
+                            "PathToVideo": "awsi-3.json",
+                            "HasKeyframes": true,
+                            "Container": "peak",
+                            "Label": "awsi-7",
+                            "FileSize": 150125,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "tmmdrlfhn",
+                "RecordId": "v59r54y2r1q639u9h16os826499315454uq80710o3f07378ta029eh10gb615l9",
+                "IsInIngestSpace": true,
+                "OrganisationId": "567",
+                "ContainsGeoData": true,
+                "OriginalStatus": "tmmdrlfhn",
+                "IsFragment": false,
+                "UploadedById": "399805e1-fceb-4277-b591-34573d9d3f0c",
+                "HasKeyframes": true,
+                "MediaObjectId": "v59r54y2r1q639u9h16os826499315454uq80710o3f07378ta029eh10gb615l9",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "o65e75m4k9u429f9k01xo443298527933rw49044m7i41859eo138qk89wd772l90454mj40t7r061qk92279z0p3690vi4z",
+                "OffsetInDatabase": 8499355,
+                "PathToKeyframeThumb": "https://etgrecp-oyosh.acds.jc/billion/discussion/nybrshpn9.jpg",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2023-12-07T20:08:59.392810Z",
+                "OriginalFilename": "3w6cu6jk27_aeaazmbtq.mkv",
+                "RightsOwner": "Jason Ramos",
+                "UploadedBy": "owluirhktk@mjbrvjbbtkt",
+                "KeyframeStart": 0,
+                "Title": "Too even perhaps majority seat receive final.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Export": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Read": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "3fb11195-38ab-4277-afb2-ad36b5e68214",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "OTC_start": "05:02:16:06",
+                "type_viaa": "Video",
+                "brand": "Ucyp",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2024-04-22",
+                "shipment_id": "382983877253",
+                "digitization_format": "DV",
+                "created_on": "2001-08-23T04:29:03",
+                "updated_by": "Cynthia Rodrz",
+                "status": "Crxrqfh",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:viaa=\"http://viaa.be\" xmlns:mets=\"http://www.loc.gov/METS/\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>ed9785d6-4667-433d-9a53-6acf6faba425</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>MIGRATION</premis:eventType><premis:eventDateTime>2020-06-18</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>EPL-33;XLGLW-027</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_aeaazmbtq.mkv</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>imgsfr</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_ng_001.dv</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>imgsfr</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2023-03-21",
+                "batch_id": "LNOG64",
+                "player_model": "VKO-5104CC",
+                "inspection_date": "2023-08-16",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "6",
+                "dc_identifier_localid": "02",
+                "PID": "3w6cu6jk27",
+                "CP": "Anna Miller",
+                "batch_name": "LNOG64",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "665997",
+                "carrier_barcode": "JRYN_KVL_985763",
+                "preservation_problems": "Ykxb",
+                "encoder_serial_number": "56",
+                "updated_on": "2001-08-23T04:29:03",
+                "lto_id": "WH3615K3",
+                "player_manufacturer": "Ucyp",
+                "digitization_date": "2020-10-19",
+                "transfer_lto_date": "2024-07-11",
+                "digitization_outcome": "y",
+                "digitization_time": "15:10:00",
+                "format": "DV",
+                "created_by": "Cynthia Rodrz",
+                "related_documents": "6",
+                "sp_id": "OW-s63f20s",
+                "dcterms_created": "1996-uu-uu",
+                "encoder_manufacturer": "Qxevkn",
+                "duration_viaa": "1:00:00",
+                "qc_by": "Scott Jons",
+                "sp_name": "Qxevkn",
+                "file_duration": "01:44:78",
+                "transport_box_barcode": "SPZM-6-PF61-5842",
+                "CP_id": "OW-729bj60",
+                "collection_box_barcode": "IZAJ_KVL_575200",
+                "encoder_model": "SFH"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2016-05-23T10:11:16.243698Z",
+                "IsSynchronized": true,
+                "OrganisationName": "uptwzvvqnvx",
+                "Workflow": "Qxevkn",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2016-02-03T12:27:40.789386Z",
+                "IngestTape": "WH3615K3",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "video",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2005-12-09T01:52:35.798729Z",
+                "OrganisationLongName": "uptwzvvqnvx",
+                "RecordType": "Record",
+                "PublicationDate": "2011-09-07T13:20:07.923518Z",
+                "ExternalId": "3w6cu6jk27_aeaazmbtq",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OW-729bj60",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s24le 4ch 48000Hz 4608000bps",
+                "PronomId": "fmt/569",
+                "OriginalExtension": "mkv",
+                "DurationFrames": 93761,
+                "EndFrames": 93761,
+                "MimeType": "video/x-matroska",
+                "StartFrames": 0,
+                "Width": 51,
+                "Md5": "9ad0c02329438702164509b55b321772",
+                "VideoBitRate": 66592220,
+                "AudioChannels": 4,
+                "BitRate": 66592220,
+                "VideoTechnical": "Make too memory teacher membe.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s24le",
+                "AudioSampleRate": 48000,
+                "VideoCodec": "omq0",
+                "FileSize": 31218766109,
+                "ImageSize": "720x576",
+                "DurationTimeCode": "12:51:27.437",
+                "Height": 52,
+                "EndTimeCode": "12:51:27.437",
+                "AudioBitRate": 4608000,
+                "StartTimeCode": "06:37:10.466",
+                "ImageOrientation": "landscape",
+                "VideoFps": "58",
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "qdln45n2j4412s634i584i2e99y4qzy9km7u37d6o9071798qw74m109i55f1vz5_3104666170"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "PathToPreview": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "BrowseStatus": "yp_lcxtec",
+                "RecordId": "t24t4h8357352010l3h00dn2av832z5t01415w273d1d7d01i23omxl73436p192",
+                "IsInIngestSpace": true,
+                "OrganisationId": "567",
+                "ContainsGeoData": true,
+                "OriginalStatus": "tmmdrlfhn",
+                "IsFragment": false,
+                "UploadedById": "399805e1-fceb-4277-b591-34573d9d3f0c",
+                "HasKeyframes": true,
+                "MediaObjectId": "t24t4h8357352010l3h00dn2av832z5t01415w273d1d7d01i23omxl73436p192",
+                "ArchiveStatus": "on_disk",
+                "FragmentId": "r51h5y1051509636e4s32rk3dr602e8i50759w063r6f0y02q87rsnh83544y8832f076e43911v25r4cl5df6i46z28gz5i",
+                "OffsetInDatabase": 8499359,
+                "PathToKeyframeThumb": "https://mhqwoypmbdr.goei.edxe.ldlpzmx.bwk/picture/full/yp-urnxkph.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2023-12-07T20:08:59.392810Z",
+                "OriginalFilename": "3w6cu6jk27_aeaazmbtq_vuublkrtyy.xml",
+                "RightsOwner": "Jason Ramos",
+                "UploadedBy": "owluirhktk@mjbrvjbbtkt",
+                "KeyframeStart": 0,
+                "Title": "Too even perhaps majority seat receive final.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Export": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ],
+                    "Read": [
+                        "9559955e-417b-444d-9701-5c90857464bd",
+                        "983edad5-8448-4ed3-bef6-983d6ec95bf4",
+                        "6ae12471-c086-4ac6-8d36-531e767d66c8",
+                        "3fb11195-38ab-4277-afb2-ad36b5e68214",
+                        "41095a64-4594-4afa-ad72-fc83bc7532f1"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "OTC_start": "05:02:16:06",
+                "type_viaa": "Video",
+                "brand": "Ucyp",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2024-04-22",
+                "shipment_id": "382983877253",
+                "digitization_format": "DV",
+                "created_on": "2001-08-23T04:29:03",
+                "updated_by": "Cynthia Rodrz",
+                "status": "Crxrqfh",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:viaa=\"http://viaa.be\" xmlns:mets=\"http://www.loc.gov/METS/\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>82faf6fb-ed94-48e0-b5cd-08c128d1b76e</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>VALIDATION</premis:eventType><premis:eventDateTime>2018-10-20</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>kb-12-77</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_aeaazmbtq_vuublkrtyy.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>qqevaxm</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>3w6cu6jk27_ng_001_nqgkzsdvyp.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>qqevaxm</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2023-03-21",
+                "batch_id": "LNOG64",
+                "player_model": "VKO-5104CC",
+                "inspection_date": "2023-08-16",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "6",
+                "dc_identifier_localid": "02",
+                "PID": "3w6cu6jk27",
+                "CP": "Anna Miller",
+                "batch_name": "LNOG64",
+                "player_serial_number": "665997",
+                "carrier_barcode": "JRYN_KVL_985763",
+                "preservation_problems": "Ykxb",
+                "updated_on": "2001-08-23T04:29:03",
+                "encoder_serial_number": "56",
+                "lto_id": "WH3615K3",
+                "player_manufacturer": "Ucyp",
+                "digitization_date": "2020-10-19",
+                "transfer_lto_date": "2024-07-11",
+                "digitization_outcome": "y",
+                "digitization_time": "15:10:00",
+                "format": "DV",
+                "created_by": "Cynthia Rodrz",
+                "related_documents": "6",
+                "sp_id": "OW-s63f20s",
+                "dcterms_created": "1996-uu-uu",
+                "encoder_manufacturer": "Qxevkn",
+                "duration_viaa": "1:00:00",
+                "qc_by": "Scott Jons",
+                "sp_name": "Qxevkn",
+                "file_duration": "01:44:78",
+                "transport_box_barcode": "SPZM-6-PF61-5842",
+                "CP_id": "OW-729bj60",
+                "collection_box_barcode": "IZAJ_KVL_575200",
+                "encoder_model": "SFH"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2017-03-12T18:03:57.211513Z",
+                "IsSynchronized": true,
+                "OrganisationName": "uptwzvvqnvx",
+                "Workflow": "Qxevkn",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2011-03-25T05:48:13.836394Z",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "document",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2003-06-23T21:35:30.127929Z",
+                "OrganisationLongName": "uptwzvvqnvx",
+                "RecordType": "Record",
+                "PublicationDate": "2010-05-27T07:14:45.313871Z",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OW-729bj60",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "MimeType": "application/xml",
+                "Md5": "f8732d599be7868b2700525843c92221",
+                "FileSize": 179642,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        }
+    ]
+}

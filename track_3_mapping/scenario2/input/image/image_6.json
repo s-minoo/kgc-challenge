@@ -1,0 +1,266 @@
+{
+    "NrOfResults": 1,
+    "StartIndex": 0,
+    "TotalNrOfResults": 1,
+    "Results": [
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "ivtszhbkw",
+                "PathToKeyframe": "https://ffbssen-qaurd.ndkr.xd/concern/draw/glldxb.jpg",
+                "IsFragment": false,
+                "PathToPreview": "https://ffbssen-qaurd.ndkr.xd/concern/draw/glldxb.jpg",
+                "UploadedById": "4d93fcd3-276d-46fa-b11d-a62cbaff3bbd",
+                "HasKeyframes": true,
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://gsgwhiq-eujdw.bwjf.wp/xfqq/h8b71p5x0q6653bs931u2g33j9z414169a4d2969r75j6i87710237kg9x7ux07w",
+                            "PathToKeyframe": "glldxb.jpg",
+                            "PathToKeyframeThumb": "glldxb-vprew.jpg",
+                            "HasKeyframes": true,
+                            "Container": "jpg",
+                            "Label": "olvnh_azk",
+                            "FileSize": 344712,
+                            "Height": 84,
+                            "Width": 27
+                        }
+                    ]
+                },
+                "MediaObjectId": "p4v39z9x5q0152hu845p8n62m4u920231o1l1521v42c3g44043463mp8s3sn55a",
+                "ArchiveStatus": "on_tape",
+                "BrowseStatus": "ivtszhbkw",
+                "RecordId": "p4v39z9x5q0152hu845p8n62m4u920231o1l1521v42c3g44043463mp8s3sn55a",
+                "IsInIngestSpace": true,
+                "OrganisationId": "120",
+                "FragmentId": "l7p91o9u6f3416tp679z0s51f4s563558v3l3027g85p0i17131681gr3h8bn52l2a22nwmyvl401152u96h5u9c7pf12n80",
+                "OffsetInDatabase": 8134559,
+                "PathToKeyframeThumb": "https://abpndid-nevcs.pgfv.te/information/realize/glldxb-vprew.jpg",
+                "ContainsGeoData": true,
+                "DepartmentId": "3b124e26-54a0-4a2a-92a5-4a12c07ca4cb",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2024-01-02T09:42:38.512230Z",
+                "UploadedBy": "xccvgamqfa@dhpbzonleedhbqliytumkkhjlnvo",
+                "KeyframeStart": 0,
+                "Description": "Newspaper key thought say approach.",
+                "OriginalFilename": "z32v03up9w.tif",
+                "Title": "6040-YB-RQ-HXT-39507",
+                "RightsOwner": "Lisa Walker MD",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "82236fd3-1873-4387-89ab-6f19f383ac00",
+                        "d3e65796-5997-4b0a-9c90-d1c3a724c9c6",
+                        "3b124e26-54a0-4a2a-92a5-4a12c07ca4cb",
+                        "e396dadb-1177-4bb0-a0fd-f781bd95bd96"
+                    ],
+                    "Export": [
+                        "82236fd3-1873-4387-89ab-6f19f383ac00",
+                        "d3e65796-5997-4b0a-9c90-d1c3a724c9c6",
+                        "3b124e26-54a0-4a2a-92a5-4a12c07ca4cb",
+                        "e396dadb-1177-4bb0-a0fd-f781bd95bd96"
+                    ],
+                    "Read": [
+                        "82236fd3-1873-4387-89ab-6f19f383ac00",
+                        "d3e65796-5997-4b0a-9c90-d1c3a724c9c6",
+                        "3b124e26-54a0-4a2a-92a5-4a12c07ca4cb",
+                        "1b728ecb-d5d4-403b-82f8-ca92f38162a2",
+                        "e396dadb-1177-4bb0-a0fd-f781bd95bd96"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "md5_viaa": "777fc8e9da9379583505caf12fe02bce",
+                "dc_source": "615c514tg71z9o117a3003648bd9qq2q52go6r46u5608fmknc570931180m3p94y316m6c595667m696o9j46573w37j8s5.tif",
+                "dc_identifier_localids": {
+                    "Bestandsnaam": [
+                        "kzz691.tif"
+                    ]
+                },
+                "dc_title": "6040-YB-RQ-HXT-39507",
+                "dcterms_created": "1997-08-17",
+                "dc_subjects": {
+                    "Trefwoord": [
+                        "Bsdsqab",
+                        "Ejjdsg",
+                        "Agkqsq",
+                        "Ldeowym"
+                    ]
+                },
+                "batch_id": "CIE-YP-YV-175tz1y-9042-61-26-26-83-61-537",
+                "dc_rights_rightsOwners": {
+                    "Auteursrechthouder": [
+                        "Rebecca Palmer"
+                    ]
+                },
+                "dc_description": "Newspaper key thought say approach.",
+                "sp_name": "nwytmncbkpi",
+                "dc_coverages": {
+                    "ruimte": [
+                        "Phzl-Nauvlozhrs",
+                        "Bsdsqab",
+                        "Eqzekr",
+                        "Courtney Tucr"
+                    ]
+                },
+                "dc_identifier_localid": "615c514tg71z9o117a3003648bd9qq2q52go6r46u5608fmknc570931180m3p94y316m6c595667m696o9j46573w37j8s5",
+                "PID": "z32v03up9w",
+                "CP": "Relationship sing economy.",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-ONDERWIJS",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "CP_id": "YV-175tz1y",
+                "NeedsPublicationDateMigration": "pszs"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2018-11-08T04:08:34.349566Z",
+                "IsSynchronized": true,
+                "IsOriginal": false,
+                "OrganisationName": "muqkubbudmdngjoaftrggdlomfie",
+                "Workflow": "nwytmncbkpi",
+                "HasFailedJobs": true,
+                "IsPreservation": true,
+                "DepartmentName": "muqkubbudmdngjoaftrggdlomfie",
+                "UserLastModifiedDate": "2019-03-26T07:53:47.385333Z",
+                "ArchiveDate": "2016-12-14T00:36:55.981067Z",
+                "OrganisationLongName": "muqkubbudmdngjoaftrggdlomfie",
+                "RecordType": "Record",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2017-08-13T02:42:59.492938Z",
+                "ExternalId": "z32v03up9w",
+                "DeleteStatus": "NotDeleted",
+                "Type": "image",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "YV-175tz1y",
+                "ExternalUrl": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "PronomId": "fmt/353",
+                "OriginalExtension": "tif",
+                "FileSize": 6103060,
+                "ImageSize": "1740x1169",
+                "MimeType": "image/tiff",
+                "Height": 32,
+                "Width": 25,
+                "Md5": "777fc8e9da9379583505caf12fe02bce",
+                "ImageOrientation": "landscape",
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        }
+    ]
+}

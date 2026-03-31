@@ -1,0 +1,544 @@
+{
+    "NrOfResults": 2,
+    "StartIndex": 0,
+    "TotalNrOfResults": 2,
+    "Results": [
+        {
+            "Descriptive": {
+                "CreationDate": "2022-01-01T07:29:48.554365Z",
+                "OriginalFilename": "z09zf2gf66_fxr.mxf",
+                "RightsOwner": "Mary Morals",
+                "UploadedBy": "amwaxqenim@taqfohtiq",
+                "KeyframeStart": 0,
+                "Title": "Stuff discover final togeth.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "a55e80a8-8c02-4ef0-a1bd-c1b26600f558",
+                        "e7ee06ff-2d31-4d04-8acd-c2d993f8e643",
+                        "1ad1c7cf-7776-4752-9aeb-e321501c06ee",
+                        "455815e4-2970-4b09-a396-482a316400bd"
+                    ],
+                    "Export": [
+                        "a55e80a8-8c02-4ef0-a1bd-c1b26600f558",
+                        "e7ee06ff-2d31-4d04-8acd-c2d993f8e643",
+                        "1ad1c7cf-7776-4752-9aeb-e321501c06ee",
+                        "455815e4-2970-4b09-a396-482a316400bd"
+                    ],
+                    "Read": [
+                        "a55e80a8-8c02-4ef0-a1bd-c1b26600f558",
+                        "e7ee06ff-2d31-4d04-8acd-c2d993f8e643",
+                        "1ad1c7cf-7776-4752-9aeb-e321501c06ee",
+                        "e63aba18-9f60-4a09-83be-2a05a8876039",
+                        "455815e4-2970-4b09-a396-482a316400bd"
+                    ]
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 8ch 48000Hz 768000bps",
+                "PronomId": "fmt/200",
+                "OriginalExtension": "mxf",
+                "DurationFrames": 54146,
+                "VideoFormat": "Susan Bron",
+                "EndFrames": 54157,
+                "MimeType": "application/mxf",
+                "EditUnitByteSize": 93,
+                "StartFrames": 11,
+                "Width": 47,
+                "Md5": "ed31ccfc9c703164ac383c9ce1bcca93",
+                "VideoBitRate": 50000000,
+                "AudioChannels": 8,
+                "BitRate": 62566424,
+                "EditRate": "87",
+                "VideoTechnical": "Help research least more few choice.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 8
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "EssenceOffset": 65,
+                "VideoCodec": "umsy2ienqh",
+                "IndexEditRate": "87",
+                "FileSize": 16938608176,
+                "ImageSize": "720x608",
+                "DurationTimeCode": "20:56:10.323",
+                "Height": 38,
+                "EndTimeCode": "14:03:17.167",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "17:59:02.739",
+                "ImageOrientation": "landscape",
+                "VideoFps": "87",
+                "FramesPerEditUnit": 1,
+                "Exif": {},
+                "Origin": null,
+                "RunIn": null
+            },
+            "Internal": {
+                "PathToVideo": "https://fvuvlko-tnzbf.sfea.vk/key/place/sbyccx.mp4",
+                "PathToKeyframe": "https://vfprzdm-xjbot.rvax.rn/place/on/rknjthqw5.jpg",
+                "PathToPreview": "https://fvuvlko-tnzbf.sfea.vk/key/place/sbyccx.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://fofsnzv-alxgt.buhh.gc/bzxz/YDWGQMMEN/7d4508930r805onwb035da52htq9993k343z26x8lv2k14i99q0krd6j7k776s0m",
+                            "PathToKeyframe": "light/traditional/rknjthqw5.jpg",
+                            "PathToKeyframeThumb": "relate/recently/rknjthqw5.jpg",
+                            "PathToVideo": "sbyccx.mp4",
+                            "HasKeyframes": true,
+                            "Container": "mp4",
+                            "Label": "dq9_xqowumfie",
+                            "FileSize": 266802781,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 78,
+                            "VideoCodec": "e745",
+                            "Width": 57,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 985483,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 853057,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "87"
+                        },
+                        {
+                            "BaseUrl": "https://fofsnzv-alxgt.buhh.gc/bzxz/YDWGQMMEN/7d4508930r805onwb035da52htq9993k343z26x8lv2k14i99q0krd6j7k776s0m",
+                            "PathToVideo": "bmmq-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "bmmq-2",
+                            "FileSize": 110402,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "neliaitzn",
+                "RecordId": "7c8134517p759wiip290li03ece9961y299m18w6sm6q25f29y7sbb2l7f658l0i",
+                "IsInIngestSpace": false,
+                "OrganisationId": "264",
+                "ContainsGeoData": false,
+                "OriginalStatus": "neliaitzn",
+                "IsFragment": false,
+                "UploadedById": "ac633e4d-a2a4-4924-84e2-3d220e1ac0aa",
+                "HasKeyframes": true,
+                "MediaObjectId": "7c8134517p759wiip290li03ece9961y299m18w6sm6q25f29y7sbb2l7f658l0i",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "0x6070260i079flbg436er59mgk8995x264j53u8nz2e20u89w0wus5q3q723d1e459he1ik1603795r7r63459dg0tjpn14",
+                "PathToKeyframeThumb": "https://lyyxxmn-dypjm.ithw.ay/he/fly/rknjthqw5.jpg",
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Dynamic": {
+                "OTC_start": "19:58:13:07",
+                "type_viaa": "Video",
+                "brand": "Xbzb",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2025-03-26",
+                "shipment_id": "58440334530",
+                "digitization_format": "D10",
+                "created_on": "2022-02-27T13:36:14",
+                "updated_by": "Richard Brown",
+                "status": "Vsqgfmj",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:mets=\"http://www.loc.gov/METS/\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>b6f80ee1-61e3-4602-a8f6-da255340ac5e</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>MIGRATION</premis:eventType><premis:eventDateTime>2023-02-19</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>EDQ-77;WPFBJ-874</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>z09zf2gf66_fxr.mxf</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>rjyvhl</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2025-04-18",
+                "batch_id": "USIN48E99",
+                "player_model": "IEN-2880FD",
+                "inspection_date": "2022-08-10",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "1",
+                "dc_identifier_localid": "2016-07-03",
+                "PID": "z09zf2gf66",
+                "CP": "Eric Trujo",
+                "batch_name": "USIN48E99",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "078712",
+                "carrier_barcode": "FYHW_UPU_847311",
+                "preservation_problems": "Gjkq",
+                "encoder_serial_number": "76",
+                "updated_on": "2022-02-27T13:36:14",
+                "lto_id": "YF7428G2",
+                "player_manufacturer": "Xbzb",
+                "digitization_date": "2021-12-13",
+                "transfer_lto_date": "2025-03-21",
+                "digitization_outcome": "y",
+                "digitization_time": "14:42:00",
+                "format": "DVCAM",
+                "created_by": "Richard Brown",
+                "related_documents": "1",
+                "sp_id": "OI-x71m61i",
+                "dcterms_created": "2008-08-31",
+                "encoder_manufacturer": "Qwkhdv",
+                "duration_viaa": "0:34:00",
+                "qc_by": "Mr. Jeremya",
+                "sp_name": "Qwkhdv",
+                "file_duration": "00:19:95",
+                "transport_box_barcode": "YTWR-0-VE08-6603",
+                "CP_id": "OI-0g3cp9k",
+                "collection_box_barcode": "PVQW_UPU_729132",
+                "encoder_model": "RLR"
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "qvff0282s2k903bt85a7802b16j58l5y6ba8u6175825826g7lh560f8455w860t_9619407682"
+                    ]
+                },
+                "FragmentStartTimeCode": "07:54:10.894",
+                "FragmentEndTimeCode": "20:56:10.323",
+                "FragmentDurationFrames": 54146,
+                "FragmentDurationTimeCode": "20:56:10.323",
+                "FragmentEndFrames": 54146,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2026-02-03T14:22:45.938839Z",
+                "IsSynchronized": false,
+                "OrganisationName": "xqowumfie",
+                "Workflow": "Qwkhdv",
+                "ArchiveDate": "2023-02-13T13:15:56.107587Z",
+                "IngestTape": "YF7428G2",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "video",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2026-02-03T14:22:45.938839Z",
+                "OrganisationLongName": "xqowumfie",
+                "RecordType": "Record",
+                "PublicationDate": "2008-04-29T20:22:36.332103Z",
+                "ExternalId": "z09zf2gf66_fxr",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OI-0g3cp9k",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "Profiles": []
+            }
+        },
+        {
+            "Descriptive": {
+                "CreationDate": "2022-01-01T07:29:48.554365Z",
+                "UploadedBy": "David Smith",
+                "KeyframeStart": 0,
+                "OriginalFilename": "c18bb9uc38.namkkmb",
+                "Title": "Stuff discover final togeth.",
+                "RightsOwner": "Mary Morals",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "a55e80a8-8c02-4ef0-a1bd-c1b26600f558",
+                        "e7ee06ff-2d31-4d04-8acd-c2d993f8e643",
+                        "1ad1c7cf-7776-4752-9aeb-e321501c06ee",
+                        "455815e4-2970-4b09-a396-482a316400bd"
+                    ],
+                    "Export": [
+                        "a55e80a8-8c02-4ef0-a1bd-c1b26600f558",
+                        "e7ee06ff-2d31-4d04-8acd-c2d993f8e643",
+                        "1ad1c7cf-7776-4752-9aeb-e321501c06ee",
+                        "455815e4-2970-4b09-a396-482a316400bd"
+                    ],
+                    "Read": [
+                        "a55e80a8-8c02-4ef0-a1bd-c1b26600f558",
+                        "e7ee06ff-2d31-4d04-8acd-c2d993f8e643",
+                        "1ad1c7cf-7776-4752-9aeb-e321501c06ee",
+                        "e63aba18-9f60-4a09-83be-2a05a8876039",
+                        "455815e4-2970-4b09-a396-482a316400bd"
+                    ]
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "OriginalExtension": "complex",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Internal": {
+                "OriginalStatus": "neliaitzn",
+                "PathToKeyframe": "https://gjlttidtdmn.mzrm.cuyr.ukoozqn.rkj/across/college/rp-txqxqvw.png",
+                "IsFragment": false,
+                "PathToPreview": "https://gjlttidtdmn.mzrm.cuyr.ukoozqn.rkj/across/college/rp-txqxqvw.png",
+                "UploadedById": "8f75efb3-92b7-4c16-ae10-3e5dc456f884",
+                "HasKeyframes": false,
+                "MediaObjectId": "qvff0282s2k903bt85a7802b16j58l5y6ba8u6175825826g7lh560f8455w860t",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "neliaitzn",
+                "RecordId": "qvff0282s2k903bt85a7802b16j58l5y6ba8u6175825826g7lh560f8455w860t",
+                "IsInIngestSpace": false,
+                "OrganisationId": "264",
+                "FragmentId": "whzr5785a0f654wq67o8232v23x23f3o4mn6h5267975516n6rm310d9298l798p5192992g10059324408p52kdu0993t26",
+                "PathToKeyframeThumb": "https://gjlttidtdmn.mzrm.cuyr.ukoozqn.rkj/across/college/rp-txqxqvw.png",
+                "ContainsGeoData": false,
+                "DepartmentId": "1ad1c7cf-7776-4752-9aeb-e321501c06ee",
+                "IngestSpaceId": null,
+                "PathToVideo": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Dynamic": {
+                "updated_on": "2022-02-27T13:36:14",
+                "encoder_serial_number": "76",
+                "OTC_start": "19:58:13:07",
+                "type_viaa": "Video",
+                "lto_id": "YF7428G2",
+                "player_manufacturer": "Xbzb",
+                "brand": "Xbzb",
+                "digitization_date": "2021-12-13",
+                "transfer_lto_date": "2025-03-21",
+                "digitization_outcome": "y",
+                "digitization_time": "14:42:00",
+                "format": "DVCAM",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2025-03-26",
+                "shipment_id": "58440334530",
+                "digitization_format": "D10",
+                "created_by": "Richard Brown",
+                "related_documents": "1",
+                "created_on": "2022-02-27T13:36:14",
+                "sp_id": "OI-x71m61i",
+                "updated_by": "Richard Brown",
+                "dcterms_created": "2008-08-31",
+                "encoder_manufacturer": "Qwkhdv",
+                "duration_viaa": "0:34:00",
+                "status": "Vsqgfmj",
+                "qc_by": "Mr. Jeremya",
+                "qc_date": "2025-04-18",
+                "batch_id": "USIN48E99",
+                "player_model": "IEN-2880FD",
+                "inspection_date": "2022-08-10",
+                "sp_name": "Qwkhdv",
+                "qc_outcome": "y",
+                "file_duration": "00:19:95",
+                "transport_box_barcode": "YTWR-0-VE08-6603",
+                "is_preserved_by_another": "1",
+                "dc_identifier_localid": "2016-07-03",
+                "PID": "z09zf2gf66",
+                "CP": "Eric Trujo",
+                "batch_name": "USIN48E99",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "CP_id": "OI-0g3cp9k",
+                "player_serial_number": "078712",
+                "collection_box_barcode": "PVQW_UPU_729132",
+                "NeedsPublicationDateMigration": "getc",
+                "carrier_barcode": "FYHW_UPU_847311",
+                "encoder_model": "RLR",
+                "preservation_problems": "Gjkq"
+            },
+            "Structural": {
+                "HasChildren": false,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2019-10-01T08:05:35.417000Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "xqowumfie",
+                "Workflow": "Qwkhdv",
+                "IsPreservation": false,
+                "DepartmentName": "xqowumfie",
+                "UserLastModifiedDate": "2019-10-01T08:05:35.417000Z",
+                "ArchiveDate": "2000-01-22T22:28:43.817729Z",
+                "IngestTape": "YF7428G2",
+                "OrganisationLongName": "xqowumfie",
+                "RecordType": "Record",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2012-05-16T11:36:04.022317Z",
+                "ExternalId": "z09zf2gf66",
+                "DeleteStatus": "NotDeleted",
+                "Type": "set",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "OI-0g3cp9k",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "Profiles": []
+            }
+        }
+    ]
+}

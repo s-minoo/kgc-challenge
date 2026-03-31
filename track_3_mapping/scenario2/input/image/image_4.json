@@ -1,0 +1,250 @@
+{
+    "NrOfResults": 1,
+    "StartIndex": 0,
+    "TotalNrOfResults": 1,
+    "Results": [
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fgiutnhyp",
+                "PathToKeyframe": "https://qyqluhh-esuno.xluv.rv/clearly/scientist/qfjvwb.jpg",
+                "IsFragment": false,
+                "PathToPreview": "https://qyqluhh-esuno.xluv.rv/clearly/scientist/qfjvwb.jpg",
+                "UploadedById": "8e94b557-bd48-4375-ab85-f0cc79e472de",
+                "HasKeyframes": true,
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://kpyiqyn-aeqye.vsii.lm/lixe/INEHBJWMNGZYHOFN/351f21u316cw38n92d4816749418lv613317n06284h09m004c9x523377125874",
+                            "PathToKeyframe": "qfjvwb.jpg",
+                            "PathToKeyframeThumb": "qfjvwb-bguym.jpg",
+                            "HasKeyframes": true,
+                            "Container": "jpg",
+                            "Label": "cmibl_rvs",
+                            "FileSize": 458252,
+                            "Height": 40,
+                            "Width": 69
+                        }
+                    ]
+                },
+                "MediaObjectId": "127k79f832fy56b90o0571253046cm959349o54013s59x360m5k235001454583",
+                "ArchiveStatus": "on_tape",
+                "BrowseStatus": "fgiutnhyp",
+                "RecordId": "127k79f832fy56b90o0571253046cm959349o54013s59x360m5k235001454583",
+                "IsInIngestSpace": true,
+                "OrganisationId": "733",
+                "FragmentId": "258x47x248zk33t52d7481016459jh068401g93753p46t751n8b9457292200633d234w6r1k0550geow758pq542kb9yu3",
+                "OffsetInDatabase": 12079169,
+                "PathToKeyframeThumb": "https://ecqwfli-erarg.dmqi.py/forget/market/qfjvwb-bguym.jpg",
+                "ContainsGeoData": true,
+                "DepartmentId": "3496edbc-026c-426e-b744-9d5454c9f90f",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2022-07-28T18:55:12.012218Z",
+                "UploadedBy": "qtyyon@zylpyzqtbehzawzc",
+                "KeyframeStart": 0,
+                "Description": "Easy if talk plan.",
+                "OriginalFilename": "zn9o90lx23.tif",
+                "Title": "Terry Scott",
+                "RightsOwner": "Thomas James",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "2873886c-ab8c-4c65-87b8-184132ac5e71",
+                        "37a70630-f517-4634-bdbf-593e12e2fcd5",
+                        "3496edbc-026c-426e-b744-9d5454c9f90f",
+                        "d4c94c25-7944-4e26-8571-cb9a8b6a7542"
+                    ],
+                    "Export": [
+                        "2873886c-ab8c-4c65-87b8-184132ac5e71",
+                        "37a70630-f517-4634-bdbf-593e12e2fcd5",
+                        "3496edbc-026c-426e-b744-9d5454c9f90f",
+                        "d4c94c25-7944-4e26-8571-cb9a8b6a7542"
+                    ],
+                    "Read": [
+                        "2873886c-ab8c-4c65-87b8-184132ac5e71",
+                        "37a70630-f517-4634-bdbf-593e12e2fcd5",
+                        "3496edbc-026c-426e-b744-9d5454c9f90f",
+                        "42d58f93-8eb7-4775-a8e8-6eae6c892312",
+                        "d4c94c25-7944-4e26-8571-cb9a8b6a7542"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "md5_viaa": "0a0a7586db7948e1dddabb088fb01745",
+                "dc_publishers": {
+                    "Publisher": [
+                        "Mark Duffy"
+                    ]
+                },
+                "dc_identifier_localids": {
+                    "Bestandsnaam": [
+                        "Vtsauimx_X_PLEU_22M_000765.tif"
+                    ]
+                },
+                "ingest_workflow": "ooslm",
+                "dc_title": "Terry Scott",
+                "dcterms_created": "1900/1950",
+                "batch_id": "MTR-EH-PG-q724273-7926-26-23-997",
+                "dc_description": "Easy if talk plan.",
+                "sp_name": "ooslm",
+                "dc_identifier_localid": "Vtsauimx_X_PLEU_22M_207443",
+                "PID": "zn9o90lx23",
+                "CP": "Donna Cortez",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL",
+                        "ONDERWIJS-FRAGMENT"
+                    ]
+                },
+                "CP_id": "PG-q724273"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2007-08-06T08:24:12.643352Z",
+                "IsSynchronized": true,
+                "IsOriginal": true,
+                "OrganisationName": "svygtyntyltftngd",
+                "Workflow": "ooslm",
+                "HasFailedJobs": true,
+                "IsPreservation": true,
+                "DepartmentName": "svygtyntyltftngd",
+                "UserLastModifiedDate": "2000-02-18T13:01:14.751618Z",
+                "ArchiveDate": "2015-08-06T11:18:41.366791Z",
+                "OrganisationLongName": "svygtyntyltftngd",
+                "RecordType": "Record",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2015-08-06T11:18:41.366791Z",
+                "ExternalId": "zn9o90lx23",
+                "DeleteStatus": "NotDeleted",
+                "Type": "image",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "PG-q724273",
+                "ExternalUrl": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "PronomId": "fmt/353",
+                "OriginalExtension": "tif",
+                "FileSize": 12306758,
+                "ImageSize": "2055x1995",
+                "MimeType": "image/tiff",
+                "Height": 14,
+                "Width": 73,
+                "Md5": "0a0a7586db7948e1dddabb088fb01745",
+                "ImageOrientation": "square",
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        }
+    ]
+}

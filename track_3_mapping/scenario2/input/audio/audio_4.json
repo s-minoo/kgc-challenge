@@ -1,0 +1,893 @@
+{
+    "NrOfResults": 3,
+    "StartIndex": 0,
+    "TotalNrOfResults": 3,
+    "Results": [
+        {
+            "Descriptive": {
+                "CreationDate": "2008-05-12T08:15:38.856138Z",
+                "OriginalFilename": "rv49u2404u_yaxxd.wav",
+                "RightsOwner": "David Heath",
+                "UploadedBy": "nxdcpxsbsh@kotgsqskbmzv",
+                "KeyframeStart": 0,
+                "Title": "Occur election raise second business officer though according.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "50cd0572-9784-408c-b254-ca51997015fe",
+                        "06ea5d3d-9670-40da-ace3-0f61ef988d44",
+                        "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                        "fc35393f-d31c-4d44-9518-c02d9e070756"
+                    ],
+                    "Export": [
+                        "50cd0572-9784-408c-b254-ca51997015fe",
+                        "06ea5d3d-9670-40da-ace3-0f61ef988d44",
+                        "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                        "fc35393f-d31c-4d44-9518-c02d9e070756"
+                    ],
+                    "Read": [
+                        "50cd0572-9784-408c-b254-ca51997015fe",
+                        "06ea5d3d-9670-40da-ace3-0f61ef988d44",
+                        "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                        "10a97745-fa3d-46b3-8045-7bf0c4874ae6",
+                        "fc35393f-d31c-4d44-9518-c02d9e070756"
+                    ]
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "ImageQuality": "low",
+                "AudioTechnical": "pcm_s24le ([1][0][0][0] / 0x0001) 2ch 96000Hz 4608000bps",
+                "OriginalExtension": "wav",
+                "DurationFrames": 3547,
+                "EndFrames": 3547,
+                "MimeType": "audio/x-wav",
+                "StartFrames": 0,
+                "Width": 56,
+                "Md5": "a0d7dda5b487a6ba4305edfeb79102e3",
+                "AudioChannels": 2,
+                "BitRate": 4608000,
+                "AudioCodec": "pcm_s24le ([1][0][0][0] / 0x0001)",
+                "AudioSampleRate": 96000,
+                "FileSize": 81726586,
+                "ImageSize": "320x180",
+                "DurationTimeCode": "10:36:42.666",
+                "Height": 57,
+                "EndTimeCode": "10:36:42.666",
+                "AudioBitRate": 4608000,
+                "StartTimeCode": "06:07:49.883",
+                "ImageOrientation": "landscape",
+                "PronomId": null,
+                "VideoTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioTracks": {},
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Internal": {
+                "PathToVideo": "https://xqxkqlw-ivtzm.dclo.wd/example/enough/ewxzmu.mp4",
+                "PathToKeyframe": "https://xqeusjz-qpbfc.ergc.vf/field/idea/froevhyl6.jpg",
+                "PathToPreview": "https://xqxkqlw-ivtzm.dclo.wd/example/enough/ewxzmu.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://rxbobgz-quqig.atrs.vw/vimp/XBJQNELUYMRL/m9b1a498po0403z2l3r208698280f67e22v16awm5i5834r509xxdd094b169ll2",
+                            "PathToKeyframe": "sure/action/froevhyl6.jpg",
+                            "PathToKeyframeThumb": "attorney/visit/froevhyl6.jpg",
+                            "PathToVideo": "ewxzmu.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "ml8",
+                            "FileSize": 8922519,
+                            "Height": 90,
+                            "VideoCodec": "Together four white important.",
+                            "BitRate": 499000,
+                            "Width": 73,
+                            "AudioSampleRate": 48000,
+                            "VideoBitRate": 227000,
+                            "AudioBitRate": 267000,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac (LC) (mp4a / 0x6134706D)",
+                            "VideoFps": "85.6"
+                        },
+                        {
+                            "BaseUrl": "https://rxbobgz-quqig.atrs.vw/vimp/XBJQNELUYMRL/m9b1a498po0403z2l3r208698280f67e22v16awm5i5834r509xxdd094b169ll2",
+                            "PathToKeyframe": "sure/action/froevhyl6.jpg",
+                            "PathToVideo": "ewxzmu.mp3",
+                            "HasKeyframes": false,
+                            "Container": "mp3",
+                            "Label": "uo3",
+                            "FileSize": 4541997,
+                            "BitRate": 256000,
+                            "AudioSampleRate": 48000,
+                            "AudioBitRate": 256000,
+                            "AudioChannels": 2,
+                            "AudioCodec": "mp3"
+                        },
+                        {
+                            "BaseUrl": "https://rxbobgz-quqig.atrs.vw/vimp/XBJQNELUYMRL/m9b1a498po0403z2l3r208698280f67e22v16awm5i5834r509xxdd094b169ll2",
+                            "PathToVideo": "ewxzmu.m4a",
+                            "HasKeyframes": false,
+                            "Container": "m4a",
+                            "Label": "l9l",
+                            "FileSize": 4781058,
+                            "BitRate": 269000,
+                            "AudioSampleRate": 48000,
+                            "AudioBitRate": 267000,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac (LC) (mp4a / 0x6134706D)"
+                        },
+                        {
+                            "BaseUrl": "https://rxbobgz-quqig.atrs.vw/vimp/XBJQNELUYMRL/m9b1a498po0403z2l3r208698280f67e22v16awm5i5834r509xxdd094b169ll2",
+                            "PathToVideo": "hdtq.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "hdtq",
+                            "FileSize": 15688,
+                            "BitRate": 10,
+                            "AudioSampleRate": 48000,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "somivxrsl",
+                "RecordId": "l6s2h032cj4547h3s6k180051280h19z62w31ghq8j2574v200tgpf173k003va7",
+                "IsInIngestSpace": false,
+                "OrganisationId": "023",
+                "ContainsGeoData": false,
+                "OriginalStatus": "somivxrsl",
+                "IsFragment": false,
+                "UploadedById": "ab1f918c-de37-4436-afe8-eba0861aeb13",
+                "HasKeyframes": false,
+                "MediaObjectId": "l6s2h032cj4547h3s6k180051280h19z62w31ghq8j2574v200tgpf173k003va7",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "u2i7e534ep4474y4a4j956922147j89z40w19kiy8t5268y610cjni541d692qk1xk6l627969566ey3mk956120i4738760",
+                "PathToKeyframeThumb": "https://qxxwzpu-haixb.iwco.wq/have/business/froevhyl6.jpg",
+                "DepartmentId": "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                "IngestSpaceId": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Dynamic": {
+                "qc_note": "Production it yeah thank decision.",
+                "inspection_note": "Stephanie Harvey",
+                "type_viaa": "Audio",
+                "repair_note": "Kaitlyn Blake",
+                "brand": "Aqmol",
+                "original_location": "Matz",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2019-11-14",
+                "shipment_id": "00492820398",
+                "digitization_format": "WAV 24 bits",
+                "created_on": "2020-11-15T20:10:56",
+                "updated_by": "Anna Wilson",
+                "status": "Pmvatic",
+                "qc_date": "2023-12-23",
+                "batch_id": "EZNBGS43",
+                "player_model": "779",
+                "inspection_date": "2018-01-18",
+                "digitization_note": "Low signal-noise ratio. Loud surface noise. Loud crackles. Strong distortion. Disc in bad condition.",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "4",
+                "dc_identifier_localid": "IK/Y/2721",
+                "PID": "rv49u2404u",
+                "CP": "Dzpzynnsfsun",
+                "batch_name": "EZNBGS43",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "97021",
+                "carrier_barcode": "UMTI_EFQ_842236",
+                "preservation_problems": "Christopht",
+                "updated_on": "2020-11-15T20:10:56",
+                "lto_id": "ZJ7281Y2",
+                "player_manufacturer": "GCV",
+                "digitization_date": "2018-02-06",
+                "transfer_lto_date": "2023-06-04",
+                "digitization_outcome": "y",
+                "digitization_time": "13:29:12",
+                "format": "Shellac and Lacquer Disc",
+                "AD_model": "Ynqmil8",
+                "repair_outcome": "o",
+                "created_by": "Anna Wilson",
+                "AD_manufacturer": "Bktp",
+                "related_documents": "4",
+                "sp_id": "SE-7765s1v",
+                "dcterms_created": "uuuu-uu-uu",
+                "duration_viaa": "0:00:00",
+                "cleaning_date": "2018-01-18",
+                "qc_by": "HVOGE",
+                "sp_name": "Rqfzw",
+                "file_duration": "00:28:59",
+                "transport_box_barcode": "HOUF-UMYKM-3989",
+                "audio_carrier_speed": "90.00",
+                "AD_serial_number": "7359761185",
+                "recording_speed": "Andere",
+                "cleaning_note": "Jason Reyes",
+                "CP_id": "SE-ep07c62",
+                "cleaning_outcome": "k",
+                "collection_box_barcode": "KBSU_EFQ_463407",
+                "NeedsPublicationDateMigration": "siho"
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "ws23in6r0np3369b35149814433549nk0567r70t827f207531j1m0q1xvb51w24_3834728344"
+                    ]
+                },
+                "FragmentStartTimeCode": "06:07:49.883",
+                "FragmentEndTimeCode": "10:36:42.666",
+                "FragmentDurationFrames": 3547,
+                "FragmentDurationTimeCode": "10:36:42.666",
+                "FragmentEndFrames": 3547,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2005-04-26T10:33:06.690680Z",
+                "IsSynchronized": false,
+                "OrganisationName": "lzkysyxfqywl",
+                "Workflow": "Rqfzw",
+                "ArchiveDate": "2007-07-23T04:27:31.656842Z",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "audio",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "lzkysyxfqywl",
+                "UserLastModifiedDate": "2004-10-05T19:27:09.699487Z",
+                "OrganisationLongName": "lzkysyxfqywl",
+                "RecordType": "Record",
+                "PublicationDate": "2019-03-24T16:42:23.066808Z",
+                "ExternalId": "rv49u2404u_yaxxd",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "SE-ep07c62",
+                "ExternalUrl": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "Profiles": []
+            }
+        },
+        {
+            "Descriptive": {
+                "CreationDate": "2008-05-12T08:15:38.856138Z",
+                "OriginalFilename": "al35u1348z.bofwcna",
+                "UploadedBy": "Jacob Hayes",
+                "KeyframeStart": 0,
+                "Title": "Occur election raise second business officer though according.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "50cd0572-9784-408c-b254-ca51997015fe",
+                        "06ea5d3d-9670-40da-ace3-0f61ef988d44",
+                        "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                        "fc35393f-d31c-4d44-9518-c02d9e070756"
+                    ],
+                    "Export": [
+                        "50cd0572-9784-408c-b254-ca51997015fe",
+                        "06ea5d3d-9670-40da-ace3-0f61ef988d44",
+                        "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                        "fc35393f-d31c-4d44-9518-c02d9e070756"
+                    ],
+                    "Read": [
+                        "50cd0572-9784-408c-b254-ca51997015fe",
+                        "06ea5d3d-9670-40da-ace3-0f61ef988d44",
+                        "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                        "10a97745-fa3d-46b3-8045-7bf0c4874ae6",
+                        "fc35393f-d31c-4d44-9518-c02d9e070756"
+                    ]
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "OriginalExtension": "complex",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Internal": {
+                "PathToKeyframe": "https://oqeqfuq-lwexe.jeuu.tz/across/break/froevhyl6.jpg",
+                "PathToPreview": "https://oqeqfuq-lwexe.jeuu.tz/across/break/froevhyl6.jpg",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882",
+                            "PathToKeyframe": "sure/action/froevhyl6.jpg",
+                            "PathToKeyframeThumb": "attorney/visit/froevhyl6.jpg",
+                            "HasKeyframes": false
+                        }
+                    ]
+                },
+                "BrowseStatus": "somivxrsl",
+                "RecordId": "ws23in6r0np3369b35149814433549nk0567r70t827f207531j1m0q1xvb51w24",
+                "IsInIngestSpace": false,
+                "OrganisationId": "023",
+                "ContainsGeoData": false,
+                "OriginalStatus": "somivxrsl",
+                "IsFragment": false,
+                "UploadedById": "c57f9755-ad48-47f0-99c3-b8be7a72312b",
+                "HasKeyframes": false,
+                "MediaObjectId": "ws23in6r0np3369b35149814433549nk0567r70t827f207531j1m0q1xvb51w24",
+                "ArchiveStatus": "completed",
+                "FragmentId": "ko96nw0o3ia4885w91461531622711tu0533d33g643j297216g4t2p3mat02s8380r39081j3k45956p6229m51203zy8k0",
+                "PathToKeyframeThumb": "https://cxppudr-rvrvn.xxqg.pe/girl/significant/froevhyl6.jpg",
+                "DepartmentId": "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                "IngestSpaceId": null,
+                "PathToVideo": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Dynamic": {
+                "qc_note": "Production it yeah thank decision.",
+                "inspection_note": "Stephanie Harvey",
+                "type_viaa": "Audio",
+                "repair_note": "Kaitlyn Blake",
+                "brand": "Aqmol",
+                "original_location": "Matz",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2019-11-14",
+                "shipment_id": "00492820398",
+                "digitization_format": "WAV 24 bits",
+                "created_on": "2020-11-15T20:10:56",
+                "updated_by": "Anna Wilson",
+                "status": "Pmvatic",
+                "qc_date": "2023-12-23",
+                "batch_id": "EZNBGS43",
+                "player_model": "779",
+                "inspection_date": "2018-01-18",
+                "digitization_note": "Low signal-noise ratio. Loud surface noise. Loud crackles. Strong distortion. Disc in bad condition.",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "4",
+                "dc_identifier_localid": "IK/Y/2721",
+                "PID": "rv49u2404u",
+                "CP": "Dzpzynnsfsun",
+                "batch_name": "EZNBGS43",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "97021",
+                "carrier_barcode": "UMTI_EFQ_842236",
+                "preservation_problems": "Christopht",
+                "updated_on": "2020-11-15T20:10:56",
+                "lto_id": "ZJ7281Y2",
+                "player_manufacturer": "GCV",
+                "digitization_date": "2018-02-06",
+                "transfer_lto_date": "2023-06-04",
+                "digitization_outcome": "y",
+                "digitization_time": "13:29:12",
+                "format": "Shellac and Lacquer Disc",
+                "AD_model": "Ynqmil8",
+                "repair_outcome": "o",
+                "created_by": "Anna Wilson",
+                "AD_manufacturer": "Bktp",
+                "related_documents": "4",
+                "sp_id": "SE-7765s1v",
+                "dcterms_created": "uuuu-uu-uu",
+                "duration_viaa": "0:00:00",
+                "cleaning_date": "2018-01-18",
+                "qc_by": "HVOGE",
+                "sp_name": "Rqfzw",
+                "file_duration": "00:28:59",
+                "transport_box_barcode": "HOUF-UMYKM-3989",
+                "audio_carrier_speed": "90.00",
+                "AD_serial_number": "7359761185",
+                "recording_speed": "Andere",
+                "cleaning_note": "Jason Reyes",
+                "cleaning_outcome": "k",
+                "CP_id": "SE-ep07c62",
+                "collection_box_barcode": "KBSU_EFQ_463407",
+                "NeedsPublicationDateMigration": "siho"
+            },
+            "Structural": {
+                "HasChildren": false,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2016-10-02T14:59:59.919043Z",
+                "IsSynchronized": false,
+                "OrganisationName": "lzkysyxfqywl",
+                "Workflow": "Rqfzw",
+                "ArchiveDate": "2001-08-08T09:18:10.001420Z",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "set",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "lzkysyxfqywl",
+                "UserLastModifiedDate": "2009-03-27T05:37:35.360748Z",
+                "OrganisationLongName": "lzkysyxfqywl",
+                "RecordType": "Record",
+                "PublicationDate": "2016-11-11T20:56:22.085951Z",
+                "ExternalId": "rv49u2404u",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "SE-ep07c62",
+                "ExternalUrl": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "Profiles": []
+            }
+        },
+        {
+            "Descriptive": {
+                "CreationDate": "2008-05-12T08:15:38.856138Z",
+                "OriginalFilename": "rv49u2404u_xch.wav",
+                "RightsOwner": "David Heath",
+                "UploadedBy": "nxdcpxsbsh@kotgsqskbmzv",
+                "KeyframeStart": 0,
+                "Title": "Occur election raise second business officer though according.",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "50cd0572-9784-408c-b254-ca51997015fe",
+                        "06ea5d3d-9670-40da-ace3-0f61ef988d44",
+                        "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                        "fc35393f-d31c-4d44-9518-c02d9e070756"
+                    ],
+                    "Export": [
+                        "50cd0572-9784-408c-b254-ca51997015fe",
+                        "06ea5d3d-9670-40da-ace3-0f61ef988d44",
+                        "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                        "fc35393f-d31c-4d44-9518-c02d9e070756"
+                    ],
+                    "Read": [
+                        "50cd0572-9784-408c-b254-ca51997015fe",
+                        "06ea5d3d-9670-40da-ace3-0f61ef988d44",
+                        "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                        "10a97745-fa3d-46b3-8045-7bf0c4874ae6",
+                        "fc35393f-d31c-4d44-9518-c02d9e070756"
+                    ]
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "ImageQuality": "low",
+                "AudioTechnical": "pcm_s24le ([1][0][0][0] / 0x0001) 2ch 96000Hz 4608000bps",
+                "OriginalExtension": "wav",
+                "DurationFrames": 3547,
+                "EndFrames": 3547,
+                "MimeType": "audio/x-wav",
+                "StartFrames": 0,
+                "Width": 56,
+                "Md5": "509819cae1aafcd5a9009437174eb5f3",
+                "AudioChannels": 2,
+                "BitRate": 4608000,
+                "AudioCodec": "pcm_s24le ([1][0][0][0] / 0x0001)",
+                "AudioSampleRate": 96000,
+                "FileSize": 81726586,
+                "ImageSize": "320x180",
+                "DurationTimeCode": "10:36:42.666",
+                "Height": 57,
+                "EndTimeCode": "10:36:42.666",
+                "AudioBitRate": 4608000,
+                "StartTimeCode": "06:07:49.883",
+                "ImageOrientation": "landscape",
+                "PronomId": null,
+                "VideoTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioTracks": {},
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Internal": {
+                "PathToVideo": "https://nhcdsfs-lpisx.mman.sn/into/court/ewxzmu.mp4",
+                "PathToKeyframe": "https://oqeqfuq-lwexe.jeuu.tz/across/break/froevhyl6.jpg",
+                "PathToPreview": "https://nhcdsfs-lpisx.mman.sn/into/court/ewxzmu.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882",
+                            "PathToKeyframe": "sure/action/froevhyl6.jpg",
+                            "PathToKeyframeThumb": "attorney/visit/froevhyl6.jpg",
+                            "PathToVideo": "ewxzmu.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "ml8",
+                            "FileSize": 8932366,
+                            "Height": 90,
+                            "VideoCodec": "Together four white important.",
+                            "BitRate": 499000,
+                            "Width": 73,
+                            "AudioSampleRate": 48000,
+                            "VideoBitRate": 227000,
+                            "AudioBitRate": 268000,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac (LC) (mp4a / 0x6134706D)",
+                            "VideoFps": "85.6"
+                        },
+                        {
+                            "BaseUrl": "https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882",
+                            "PathToKeyframe": "sure/action/froevhyl6.jpg",
+                            "PathToVideo": "ewxzmu.mp3",
+                            "HasKeyframes": false,
+                            "Container": "mp3",
+                            "Label": "uo3",
+                            "FileSize": 4541997,
+                            "BitRate": 256000,
+                            "AudioSampleRate": 48000,
+                            "AudioBitRate": 256000,
+                            "AudioChannels": 2,
+                            "AudioCodec": "mp3"
+                        },
+                        {
+                            "BaseUrl": "https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882",
+                            "PathToVideo": "ewxzmu.m4a",
+                            "HasKeyframes": false,
+                            "Container": "m4a",
+                            "Label": "l9l",
+                            "FileSize": 4790905,
+                            "BitRate": 270000,
+                            "AudioSampleRate": 48000,
+                            "AudioBitRate": 268000,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac (LC) (mp4a / 0x6134706D)"
+                        },
+                        {
+                            "BaseUrl": "https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882",
+                            "PathToVideo": "hdtq.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "hdtq",
+                            "FileSize": 15677,
+                            "BitRate": 10,
+                            "AudioSampleRate": 48000,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "somivxrsl",
+                "RecordId": "e1d0xazk7u7v64e6g84107k8yeo6s6eqx5y66s48t8841g3y5f439472010se273",
+                "IsInIngestSpace": false,
+                "OrganisationId": "023",
+                "ContainsGeoData": false,
+                "OriginalStatus": "somivxrsl",
+                "IsFragment": false,
+                "UploadedById": "ab1f918c-de37-4436-afe8-eba0861aeb13",
+                "HasKeyframes": false,
+                "MediaObjectId": "e1d0xazk7u7v64e6g84107k8yeo6s6eqx5y66s48t8841g3y5f439472010se273",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "b3g8lhkl3n0b57y3q53177a2gdb1n5cjp2s40m31w8181o0y2t362612712sa7111le831c3902g10a5v7w1e293uf19n267",
+                "PathToKeyframeThumb": "https://cxppudr-rvrvn.xxqg.pe/girl/significant/froevhyl6.jpg",
+                "DepartmentId": "845bd5ae-8ec8-43a2-8103-2481da397c1b",
+                "IngestSpaceId": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Dynamic": {
+                "qc_note": "Production it yeah thank decision.",
+                "inspection_note": "Stephanie Harvey",
+                "type_viaa": "Audio",
+                "repair_note": "Kaitlyn Blake",
+                "brand": "Aqmol",
+                "original_location": "Matz",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2019-11-14",
+                "shipment_id": "00492820398",
+                "digitization_format": "WAV 24 bits",
+                "created_on": "2020-11-15T20:10:56",
+                "updated_by": "Anna Wilson",
+                "status": "Pmvatic",
+                "qc_date": "2023-12-23",
+                "batch_id": "EZNBGS43",
+                "player_model": "779",
+                "inspection_date": "2018-01-18",
+                "digitization_note": "Low signal-noise ratio. Loud surface noise. Loud crackles. Strong distortion. Disc in bad condition.",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "4",
+                "dc_identifier_localid": "IK/Y/2721",
+                "PID": "rv49u2404u",
+                "CP": "Dzpzynnsfsun",
+                "batch_name": "EZNBGS43",
+                "player_serial_number": "97021",
+                "carrier_barcode": "UMTI_EFQ_842236",
+                "preservation_problems": "Christopht",
+                "updated_on": "2020-11-15T20:10:56",
+                "lto_id": "ZJ7281Y2",
+                "player_manufacturer": "GCV",
+                "digitization_date": "2018-02-06",
+                "transfer_lto_date": "2023-06-04",
+                "digitization_outcome": "y",
+                "digitization_time": "13:29:12",
+                "format": "Shellac and Lacquer Disc",
+                "AD_model": "Ynqmil8",
+                "repair_outcome": "o",
+                "created_by": "Anna Wilson",
+                "AD_manufacturer": "Bktp",
+                "related_documents": "4",
+                "sp_id": "SE-7765s1v",
+                "dcterms_created": "uuuu-uu-uu",
+                "duration_viaa": "0:00:00",
+                "cleaning_date": "2018-01-18",
+                "qc_by": "HVOGE",
+                "sp_name": "Rqfzw",
+                "file_duration": "00:28:59",
+                "transport_box_barcode": "HOUF-UMYKM-3989",
+                "audio_carrier_speed": "90.00",
+                "AD_serial_number": "7359761185",
+                "recording_speed": "Andere",
+                "cleaning_note": "Jason Reyes",
+                "CP_id": "SE-ep07c62",
+                "cleaning_outcome": "k",
+                "collection_box_barcode": "KBSU_EFQ_463407",
+                "NeedsPublicationDateMigration": "siho"
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "ws23in6r0np3369b35149814433549nk0567r70t827f207531j1m0q1xvb51w24_7932317147"
+                    ]
+                },
+                "FragmentStartTimeCode": "06:07:49.883",
+                "FragmentEndTimeCode": "10:36:42.666",
+                "FragmentDurationFrames": 3547,
+                "FragmentDurationTimeCode": "10:36:42.666",
+                "FragmentEndFrames": 3547,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2015-11-27T22:06:25.456418Z",
+                "IsSynchronized": false,
+                "OrganisationName": "lzkysyxfqywl",
+                "Workflow": "Rqfzw",
+                "ArchiveDate": "2021-07-03T16:24:25.623122Z",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "audio",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "DepartmentName": "lzkysyxfqywl",
+                "UserLastModifiedDate": "2022-05-05T15:10:18.523862Z",
+                "OrganisationLongName": "lzkysyxfqywl",
+                "RecordType": "Record",
+                "PublicationDate": "2004-08-08T23:07:38.209232Z",
+                "ExternalId": "rv49u2404u_xch",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "SE-ep07c62",
+                "ExternalUrl": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "Profiles": []
+            }
+        }
+    ]
+}

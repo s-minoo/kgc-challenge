@@ -1,0 +1,1575 @@
+{
+    "NrOfResults": 6,
+    "StartIndex": 0,
+    "TotalNrOfResults": 6,
+    "Results": [
+        {
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "bfszcuvnl",
+                "PathToKeyframe": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "IsFragment": false,
+                "PathToPreview": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "UploadedById": "8466c009-a3b1-4168-b5f8-9dba63f7d573",
+                "HasKeyframes": false,
+                "MediaObjectId": "0277h42g4w8017dhc181m1r43rdt1tl0725419x0240d1013p3z4a182jgw0k0h2",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "bfszcuvnl",
+                "RecordId": "0277h42g4w8017dhc181m1r43rdt1tl0725419x0240d1013p3z4a182jgw0k0h2",
+                "IsInIngestSpace": false,
+                "OrganisationId": "869",
+                "FragmentId": "5863b95v4v9646ofe585z1u69omr7st4901076b6596g1913w0h8z473ljx1c5m8v2nfklo6t3s65z841n210gf83t21z0uz",
+                "OffsetInDatabase": 8676990,
+                "PathToKeyframeThumb": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "ContainsGeoData": false,
+                "DepartmentId": "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2003-07-17T10:19:43.121614Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "npkhhlasupevvvqzmvzgnjhm",
+                "Workflow": "Hlxkioyj",
+                "HasFailedJobs": false,
+                "IsPreservation": false,
+                "DepartmentName": "npkhhlasupevvvqzmvzgnjhm",
+                "UserLastModifiedDate": "2003-07-17T10:19:43.121614Z",
+                "ArchiveDate": "2025-10-25T18:38:48.112059Z",
+                "IngestTape": "W18288D2",
+                "OrganisationLongName": "npkhhlasupevvvqzmvzgnjhm",
+                "RecordType": "Record",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2017-01-27T16:37:50.018779Z",
+                "ExternalId": "a43p77pt3w",
+                "DeleteStatus": "NotDeleted",
+                "Type": "set",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "WJ-9r3dv06",
+                "ExternalUrl": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Structural": {
+                "HasChildren": false,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Export": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Read": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "b991500f-ae22-4cfd-864e-12c92a79b875",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "OriginalExtension": "complex",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Descriptive": {
+                "CreationDate": "2007-06-28T05:56:37.624280Z",
+                "UploadedBy": "Willie Hold",
+                "KeyframeStart": 0,
+                "OriginalFilename": "v94d20fd2t.ielywek",
+                "Title": "Michael Bates",
+                "RightsOwner": "Tyler Matthews",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "Dynamic": {
+                "updated_on": "2009-09-21T15:54:35",
+                "inspection_note": "Music method drug range .",
+                "type_viaa": "Video",
+                "lto_id": "W18288D2",
+                "player_manufacturer": "DsjguAvoyk",
+                "brand": "Fkuezzly",
+                "digitization_date": "2020-09-29",
+                "transfer_lto_date": "2023-08-14",
+                "digitization_outcome": "y",
+                "digitization_time": "13:03:37",
+                "format": "DVD",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2020-06-30",
+                "shipment_id": "06433356454",
+                "digitization_format": "Mixed",
+                "created_by": "Jacqueline Lynn",
+                "related_documents": "1",
+                "created_on": "2009-09-21T15:54:35",
+                "sp_id": "WJ-8l43r6a",
+                "updated_by": "Jacqueline Lynn",
+                "dcterms_created": "2002-09-07",
+                "duration_viaa": "0:55:40",
+                "cleaning_date": "2018-08-21",
+                "status": "Upvdwti",
+                "qc_by": "2fm64f81xydp610s002zwnk1",
+                "qc_date": "2018-08-21",
+                "batch_id": "MUTB91",
+                "player_model": "Joseph Es",
+                "inspection_date": "2018-08-21",
+                "sp_name": "Hlxkioyj",
+                "qc_outcome": "y",
+                "file_duration": "00:55:56.19",
+                "transport_box_barcode": "UZVQ_WR_92996",
+                "is_preserved_by_another": "1",
+                "PID": "a43p77pt3w",
+                "CP": "Sarah Perez",
+                "batch_name": "MUTB91",
+                "cleaning_note": "Joshua Casto",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "cleaning_outcome": "t",
+                "CP_id": "WJ-9r3dv06",
+                "player_serial_number": "Y7I4ZZ06411",
+                "collection_box_barcode": "ZJGT_RLS_173722",
+                "carrier_barcode": "RKYJ_RLS_161463",
+                "preservation_problems": "Usqt"
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "PathToPreview": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "BrowseStatus": "of_qwevjp",
+                "RecordId": "gry366t43hpt7h1i5ib2fq861g5tl069555lk960jpyq8vbsg95212el1z13w0g9",
+                "IsInIngestSpace": false,
+                "OrganisationId": "869",
+                "ContainsGeoData": false,
+                "OriginalStatus": "bfszcuvnl",
+                "IsFragment": false,
+                "UploadedById": "28e5ca8e-cb3a-4dfb-a32c-d3a28e13d1d3",
+                "HasKeyframes": false,
+                "MediaObjectId": "gry366t43hpt7h1i5ib2fq861g5tl069555lk960jpyq8vbsg95212el1z13w0g9",
+                "ArchiveStatus": "on_disk",
+                "FragmentId": "tax610t03frb4o1q7hn8qk186o6ae711709nq542vgbi7awvu70123ne3n30m6l316uza2e20yrl2e13n225r36h1lt16c0i",
+                "OffsetInDatabase": 8690650,
+                "PathToKeyframeThumb": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2010-10-24T06:48:55.742923Z",
+                "IsSynchronized": false,
+                "OrganisationName": "npkhhlasupevvvqzmvzgnjhm",
+                "Workflow": "Hlxkioyj",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2022-02-01T15:30:13.616743Z",
+                "IngestTape": "W18288D2",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "document",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2010-10-24T06:48:55.742923Z",
+                "OrganisationLongName": "npkhhlasupevvvqzmvzgnjhm",
+                "RecordType": "Record",
+                "PublicationDate": "2022-10-19T05:20:35.876597Z",
+                "ExternalId": "a43p77pt3w_vtulmaip",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "WJ-9r3dv06",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "0277h42g4w8017dhc181m1r43rdt1tl0725419x0240d1013p3z4a182jgw0k0h2_2754501956"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Export": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Read": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "b991500f-ae22-4cfd-864e-12c92a79b875",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "MimeType": "application/xml",
+                "Md5": "8d13f60a9d0c5f6daa5367189f6f142d",
+                "FileSize": 693,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Dynamic": {
+                "inspection_note": "Music method drug range .",
+                "type_viaa": "Video",
+                "brand": "Fkuezzly",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2020-06-30",
+                "shipment_id": "06433356454",
+                "digitization_format": "Mixed",
+                "created_on": "2009-09-21T15:54:35",
+                "updated_by": "Jacqueline Lynn",
+                "status": "Upvdwti",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>5b9b5a74-300e-4a40-b8f7-5c1662ed2eb6</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>MIGRATION</premis:eventType><premis:eventDateTime>2020-05-08T16:37:48</premis:eventDateTime><premis:eventDetail>Upon without management clearly.</premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>vtulmaip</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_rwz.iso</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>mdlppo</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_vtulmaip.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>nbxzmoy</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2018-08-21",
+                "batch_id": "MUTB91",
+                "player_model": "Joseph Es",
+                "inspection_date": "2018-08-21",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "1",
+                "PID": "a43p77pt3w",
+                "CP": "Sarah Perez",
+                "batch_name": "MUTB91",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "Y7I4ZZ06411",
+                "carrier_barcode": "RKYJ_RLS_161463",
+                "preservation_problems": "Usqt",
+                "updated_on": "2009-09-21T15:54:35",
+                "lto_id": "W18288D2",
+                "player_manufacturer": "DsjguAvoyk",
+                "digitization_date": "2020-09-29",
+                "transfer_lto_date": "2023-08-14",
+                "digitization_outcome": "y",
+                "digitization_time": "13:03:37",
+                "format": "DVD",
+                "created_by": "Jacqueline Lynn",
+                "related_documents": "1",
+                "sp_id": "WJ-8l43r6a",
+                "dcterms_created": "2002-09-07",
+                "duration_viaa": "0:55:40",
+                "cleaning_date": "2018-08-21",
+                "qc_by": "2fm64f81xydp610s002zwnk1",
+                "sp_name": "Hlxkioyj",
+                "file_duration": "00:55:56.19",
+                "transport_box_barcode": "UZVQ_WR_92996",
+                "cleaning_note": "Joshua Casto",
+                "cleaning_outcome": "t",
+                "CP_id": "WJ-9r3dv06",
+                "collection_box_barcode": "ZJGT_RLS_173722"
+            },
+            "Descriptive": {
+                "CreationDate": "2007-06-28T05:56:37.624280Z",
+                "OriginalFilename": "a43p77pt3w_vtulmaip.xml",
+                "RightsOwner": "Tyler Matthews",
+                "UploadedBy": "zntqdunmgp@amqaxxnzunpacptyyeviytso",
+                "KeyframeStart": 0,
+                "Title": "Michael Bates",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "PathToPreview": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "BrowseStatus": "of_qwevjp",
+                "RecordId": "1v8e4l831gg4608d7l127q75t2k61a2xe5m2331223a7290tk11876z3uy57542i",
+                "IsInIngestSpace": false,
+                "OrganisationId": "869",
+                "ContainsGeoData": false,
+                "OriginalStatus": "bfszcuvnl",
+                "IsFragment": false,
+                "UploadedById": "28e5ca8e-cb3a-4dfb-a32c-d3a28e13d1d3",
+                "HasKeyframes": false,
+                "MediaObjectId": "1v8e4l831gg4608d7l127q75t2k61a2xe5m2331223a7290tk11876z3uy57542i",
+                "ArchiveStatus": "on_disk",
+                "FragmentId": "4w6g8r107uk9393l2z092d10w4d22c1cj2g7846659y5319yj05842b7iq54598wc4pe9106m48h6012g383a4nrbe59x08h",
+                "OffsetInDatabase": 8690645,
+                "PathToKeyframeThumb": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2018-06-01T02:58:56.302742Z",
+                "IsSynchronized": false,
+                "OrganisationName": "npkhhlasupevvvqzmvzgnjhm",
+                "Workflow": "Hlxkioyj",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2008-03-11T18:30:19.892988Z",
+                "IngestTape": "W18288D2",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "document",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2018-06-01T02:58:56.302742Z",
+                "OrganisationLongName": "npkhhlasupevvvqzmvzgnjhm",
+                "RecordType": "Record",
+                "PublicationDate": "2007-05-14T12:55:34.583372Z",
+                "ExternalId": "a43p77pt3w_fisznn",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "WJ-9r3dv06",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "0277h42g4w8017dhc181m1r43rdt1tl0725419x0240d1013p3z4a182jgw0k0h2_0087780879"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Export": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Read": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "b991500f-ae22-4cfd-864e-12c92a79b875",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "MimeType": "application/xml",
+                "Md5": "f11b0c815cbaab7d18f6077a4bb0c73b",
+                "FileSize": 2221,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Dynamic": {
+                "inspection_note": "Music method drug range .",
+                "type_viaa": "Video",
+                "brand": "Fkuezzly",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2020-06-30",
+                "shipment_id": "06433356454",
+                "digitization_format": "Mixed",
+                "created_on": "2009-09-21T15:54:35",
+                "updated_by": "Jacqueline Lynn",
+                "status": "Upvdwti",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>0db15ff9-720f-4993-8a0f-a881eeb9e30b</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>IDENTIFICATION</premis:eventType><premis:eventDateTime>2020-08-28</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>iv-dmte</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_fisznn.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>nbxzmoy</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2018-08-21",
+                "batch_id": "MUTB91",
+                "player_model": "Joseph Es",
+                "inspection_date": "2018-08-21",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "1",
+                "PID": "a43p77pt3w",
+                "CP": "Sarah Perez",
+                "batch_name": "MUTB91",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "Y7I4ZZ06411",
+                "carrier_barcode": "RKYJ_RLS_161463",
+                "preservation_problems": "Usqt",
+                "updated_on": "2009-09-21T15:54:35",
+                "lto_id": "W18288D2",
+                "player_manufacturer": "DsjguAvoyk",
+                "digitization_date": "2020-09-29",
+                "transfer_lto_date": "2023-08-14",
+                "digitization_outcome": "y",
+                "digitization_time": "13:03:37",
+                "format": "DVD",
+                "created_by": "Jacqueline Lynn",
+                "related_documents": "1",
+                "sp_id": "WJ-8l43r6a",
+                "dcterms_created": "2002-09-07",
+                "duration_viaa": "0:55:40",
+                "cleaning_date": "2018-08-21",
+                "qc_by": "2fm64f81xydp610s002zwnk1",
+                "sp_name": "Hlxkioyj",
+                "file_duration": "00:55:56.19",
+                "transport_box_barcode": "UZVQ_WR_92996",
+                "cleaning_note": "Joshua Casto",
+                "cleaning_outcome": "t",
+                "CP_id": "WJ-9r3dv06",
+                "collection_box_barcode": "ZJGT_RLS_173722"
+            },
+            "Descriptive": {
+                "CreationDate": "2007-06-28T05:56:37.624280Z",
+                "OriginalFilename": "a43p77pt3w_fisznn.xml",
+                "RightsOwner": "Tyler Matthews",
+                "UploadedBy": "zntqdunmgp@amqaxxnzunpacptyyeviytso",
+                "KeyframeStart": 0,
+                "Title": "Michael Bates",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "PathToPreview": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "BrowseStatus": "of_qwevjp",
+                "RecordId": "1lb1p33e261976jh5lw27d156btx8190hm61669276g3947kpls66yzo8i4f3e13",
+                "IsInIngestSpace": false,
+                "OrganisationId": "869",
+                "ContainsGeoData": false,
+                "OriginalStatus": "bfszcuvnl",
+                "IsFragment": false,
+                "UploadedById": "28e5ca8e-cb3a-4dfb-a32c-d3a28e13d1d3",
+                "HasKeyframes": false,
+                "MediaObjectId": "1lb1p33e261976jh5lw27d156btx8190hm61669276g3947kpls66yzo8i4f3e13",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "2km8m07r529517uq1js98h564iyk9800tn69108530x1382zyjs80pld9x4c8e4020ivko680077764znr427i1bq06gsg40",
+                "OffsetInDatabase": 8690643,
+                "PathToKeyframeThumb": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2005-09-14T09:10:07.366766Z",
+                "IsSynchronized": false,
+                "OrganisationName": "npkhhlasupevvvqzmvzgnjhm",
+                "Workflow": "Hlxkioyj",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2021-09-08T20:00:07.027610Z",
+                "IngestTape": "W18288D2",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "document",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2005-09-14T09:10:07.366766Z",
+                "OrganisationLongName": "npkhhlasupevvvqzmvzgnjhm",
+                "RecordType": "Record",
+                "PublicationDate": "2015-10-02T12:14:52.224208Z",
+                "ExternalId": "a43p77pt3w_rwz",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "WJ-9r3dv06",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "0277h42g4w8017dhc181m1r43rdt1tl0725419x0240d1013p3z4a182jgw0k0h2_6598690893"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Export": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Read": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "b991500f-ae22-4cfd-864e-12c92a79b875",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "PronomId": "fmt/468",
+                "OriginalExtension": "iso",
+                "MimeType": "application/x-iso9660-image",
+                "Md5": "7464569effed80997d864267044458fd",
+                "FileSize": 4013359104,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Dynamic": {
+                "inspection_note": "Music method drug range .",
+                "type_viaa": "Video",
+                "brand": "Fkuezzly",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2020-06-30",
+                "shipment_id": "06433356454",
+                "digitization_format": "Mixed",
+                "created_on": "2009-09-21T15:54:35",
+                "updated_by": "Jacqueline Lynn",
+                "status": "Upvdwti",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>e7992822-25ad-45c4-8a55-89044dc278a2</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>INSPECTION</premis:eventType><premis:eventDateTime>2017-10-10</premis:eventDateTime><premis:eventDetail>Meeting instead early be.</premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>2fm64f81xydp610s002zwnk1</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Carrier ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>mdlppo</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>c099b09c-a6f7-4ea9-82a1-dee1c105f576</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>IDENTIFICATION</premis:eventType><premis:eventDateTime>2016-04-09</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>iv-dmte</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_fisznn.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>nbxzmoy</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>6a99f6d2-7d57-4551-bc96-699f61fbd06f</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>VALIDATION</premis:eventType><premis:eventDateTime>2017-10-10</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>gytvdhno</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_gytvdhno.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>nbxzmoy</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>3ce56601-7607-4523-b923-b83e600a0d9a</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>MIGRATION</premis:eventType><premis:eventDateTime>2017-12-20T02:30:13</premis:eventDateTime><premis:eventDetail>Health amount rather agree place land treatment.</premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>vtulmaip</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_rwz.iso</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>mdlppo</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_vtulmaip.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>nbxzmoy</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>6e36c1a6-7879-4828-bdbe-491ad3254f8c</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>CLEANING</premis:eventType><premis:eventDateTime>2017-10-10</premis:eventDateTime><premis:eventDetail>Willie Casey</premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>4437cm34wk3r6w750127g19g</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Carrier ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>mdlppo</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>74f2ee38-9b8c-4407-853a-21888466a2ad</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>TRANSCODING</premis:eventType><premis:eventDateTime>2010-09-10T22:07:33</premis:eventDateTime><premis:eventDetail>Thought onto what white.</premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>Juan Bowen</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_001_jub.mkv</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>mdlppo</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>4e2a4be5-27ba-466e-ba81-d33edd67b12b</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>QC</premis:eventType><premis:eventDateTime>2017-10-10</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>2fm64f81xydp610s002zwnk1</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>s33l18cm4l.ctjqzga</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>nbxzmoy</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2018-08-21",
+                "batch_id": "MUTB91",
+                "player_model": "Joseph Es",
+                "inspection_date": "2018-08-21",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "1",
+                "PID": "a43p77pt3w",
+                "CP": "Sarah Perez",
+                "batch_name": "MUTB91",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "Y7I4ZZ06411",
+                "carrier_barcode": "RKYJ_RLS_161463",
+                "preservation_problems": "Usqt",
+                "updated_on": "2009-09-21T15:54:35",
+                "lto_id": "W18288D2",
+                "player_manufacturer": "DsjguAvoyk",
+                "digitization_date": "2020-09-29",
+                "transfer_lto_date": "2023-08-14",
+                "digitization_outcome": "y",
+                "digitization_time": "13:03:37",
+                "format": "DVD",
+                "created_by": "Jacqueline Lynn",
+                "related_documents": "1",
+                "sp_id": "WJ-8l43r6a",
+                "dcterms_created": "2002-09-07",
+                "duration_viaa": "0:55:40",
+                "cleaning_date": "2018-08-21",
+                "qc_by": "2fm64f81xydp610s002zwnk1",
+                "sp_name": "Hlxkioyj",
+                "file_duration": "00:55:56.19",
+                "transport_box_barcode": "UZVQ_WR_92996",
+                "cleaning_note": "Joshua Casto",
+                "cleaning_outcome": "t",
+                "CP_id": "WJ-9r3dv06",
+                "collection_box_barcode": "ZJGT_RLS_173722"
+            },
+            "Descriptive": {
+                "CreationDate": "2007-06-28T05:56:37.624280Z",
+                "OriginalFilename": "a43p77pt3w_rwz.iso",
+                "RightsOwner": "Tyler Matthews",
+                "UploadedBy": "zntqdunmgp@amqaxxnzunpacptyyeviytso",
+                "KeyframeStart": 0,
+                "Title": "Michael Bates",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "PathToPreview": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "BrowseStatus": "of_qwevjp",
+                "RecordId": "tr0v8v9k13d60g642h408bc84685pk5314p271m96394263epa63y1s4924o4v60",
+                "IsInIngestSpace": false,
+                "OrganisationId": "869",
+                "ContainsGeoData": false,
+                "OriginalStatus": "bfszcuvnl",
+                "IsFragment": false,
+                "UploadedById": "28e5ca8e-cb3a-4dfb-a32c-d3a28e13d1d3",
+                "HasKeyframes": false,
+                "MediaObjectId": "tr0v8v9k13d60g642h408bc84685pk5314p271m96394263epa63y1s4924o4v60",
+                "ArchiveStatus": "on_disk",
+                "FragmentId": "xw2e1h0f49w65k256y361he69278yv3243z889d07520949ufp04e9x2558r5r13oc02097710g73655x0g4f1o6326evk24",
+                "OffsetInDatabase": 8690648,
+                "PathToKeyframeThumb": "https://lqwzyyjhyxg.ckdd.bcop.tyrycdq.lwl/daughter/against/of-cmbabcj.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2017-02-22T07:59:55.056203Z",
+                "IsSynchronized": false,
+                "OrganisationName": "npkhhlasupevvvqzmvzgnjhm",
+                "Workflow": "Hlxkioyj",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2004-09-13T18:03:01.022740Z",
+                "IngestTape": "W18288D2",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "document",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2017-02-22T07:59:55.056203Z",
+                "OrganisationLongName": "npkhhlasupevvvqzmvzgnjhm",
+                "RecordType": "Record",
+                "PublicationDate": "2014-03-13T20:57:34.212474Z",
+                "ExternalId": "a43p77pt3w_gytvdhno",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "WJ-9r3dv06",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "0277h42g4w8017dhc181m1r43rdt1tl0725419x0240d1013p3z4a182jgw0k0h2_1846205875"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Export": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Read": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "b991500f-ae22-4cfd-864e-12c92a79b875",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "MimeType": "application/xml",
+                "Md5": "045cfe72a7be87114669ae0cd2d2a117",
+                "FileSize": 1091,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Dynamic": {
+                "inspection_note": "Music method drug range .",
+                "type_viaa": "Video",
+                "brand": "Fkuezzly",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2020-06-30",
+                "shipment_id": "06433356454",
+                "digitization_format": "Mixed",
+                "created_on": "2009-09-21T15:54:35",
+                "updated_by": "Jacqueline Lynn",
+                "status": "Upvdwti",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>642dd108-a15b-4444-96c8-32d1a6b584e2</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>VALIDATION</premis:eventType><premis:eventDateTime>2025-12-07</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>gytvdhno</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_gytvdhno.xml</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>nbxzmoy</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2018-08-21",
+                "batch_id": "MUTB91",
+                "player_model": "Joseph Es",
+                "inspection_date": "2018-08-21",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "1",
+                "PID": "a43p77pt3w",
+                "CP": "Sarah Perez",
+                "batch_name": "MUTB91",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "Y7I4ZZ06411",
+                "carrier_barcode": "RKYJ_RLS_161463",
+                "preservation_problems": "Usqt",
+                "updated_on": "2009-09-21T15:54:35",
+                "lto_id": "W18288D2",
+                "player_manufacturer": "DsjguAvoyk",
+                "digitization_date": "2020-09-29",
+                "transfer_lto_date": "2023-08-14",
+                "digitization_outcome": "y",
+                "digitization_time": "13:03:37",
+                "format": "DVD",
+                "created_by": "Jacqueline Lynn",
+                "related_documents": "1",
+                "sp_id": "WJ-8l43r6a",
+                "dcterms_created": "2002-09-07",
+                "duration_viaa": "0:55:40",
+                "cleaning_date": "2018-08-21",
+                "qc_by": "2fm64f81xydp610s002zwnk1",
+                "sp_name": "Hlxkioyj",
+                "file_duration": "00:55:56.19",
+                "transport_box_barcode": "UZVQ_WR_92996",
+                "cleaning_note": "Joshua Casto",
+                "cleaning_outcome": "t",
+                "CP_id": "WJ-9r3dv06",
+                "collection_box_barcode": "ZJGT_RLS_173722"
+            },
+            "Descriptive": {
+                "CreationDate": "2007-06-28T05:56:37.624280Z",
+                "OriginalFilename": "a43p77pt3w_gytvdhno.xml",
+                "RightsOwner": "Tyler Matthews",
+                "UploadedBy": "zntqdunmgp@amqaxxnzunpacptyyeviytso",
+                "KeyframeStart": 0,
+                "Title": "Michael Bates",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://dcuemkw-twsvj.dftj.ga/hard/realize/qwevjp.mp4",
+                "PathToKeyframe": "https://ovmtcyo-fuyzg.jygi.ar/million/want/kaaexwfd5.jpg",
+                "PathToPreview": "https://dcuemkw-twsvj.dftj.ga/hard/realize/qwevjp.mp4",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://sfifucj-vwako.djyc.ug/ijyt/ASTHJKGDKNSWHFVHZFTIQLNH/9vi45h6nx289523m2ri7ax0v2cr5902d9ke555691mcb88ze7q3227iu0d7o5381",
+                            "PathToKeyframe": "pull/charge/kaaexwfd5.jpg",
+                            "PathToKeyframeThumb": "central/our/kaaexwfd5.jpg",
+                            "PathToVideo": "qwevjp.mp4",
+                            "HasKeyframes": false,
+                            "Container": "mp4",
+                            "Label": "npkhhlasupevvvqzmvzgnjhm_kq6",
+                            "FileSize": 728581652,
+                            "AudioTracks": {
+                                "Track": [
+                                    {
+                                        "Channels": 2
+                                    }
+                                ]
+                            },
+                            "Height": 14,
+                            "VideoCodec": "w248",
+                            "Width": 14,
+                            "AudioChannels": 2,
+                            "AudioCodec": "aac",
+                            "BitRate": 1736516,
+                            "AudioSampleRate": 44100,
+                            "VideoBitRate": 1504609,
+                            "AudioBitRate": 705600,
+                            "VideoFps": "00"
+                        },
+                        {
+                            "BaseUrl": "https://sfifucj-vwako.djyc.ug/ijyt/ASTHJKGDKNSWHFVHZFTIQLNH/9vi45h6nx289523m2ri7ax0v2cr5902d9ke555691mcb88ze7q3227iu0d7o5381",
+                            "PathToVideo": "breg-0.json",
+                            "HasKeyframes": false,
+                            "Container": "peak",
+                            "Label": "breg-0",
+                            "FileSize": 210094,
+                            "BitRate": 8,
+                            "AudioSampleRate": 10,
+                            "AudioCodec": "audiowaveform"
+                        }
+                    ]
+                },
+                "BrowseStatus": "bfszcuvnl",
+                "RecordId": "5up11w8xw671600t5ev3oz5v6jw9997g8oz271240zgk78zp3d4041fo9c3u5203",
+                "IsInIngestSpace": false,
+                "OrganisationId": "869",
+                "ContainsGeoData": false,
+                "OriginalStatus": "bfszcuvnl",
+                "IsFragment": false,
+                "UploadedById": "28e5ca8e-cb3a-4dfb-a32c-d3a28e13d1d3",
+                "HasKeyframes": false,
+                "MediaObjectId": "5up11w8xw671600t5ev3oz5v6jw9997g8oz271240zgk78zp3d4041fo9c3u5203",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "0wr17y7kx010115v7uy7du9x5rm2920m2bl662874bvz38sx3s1886en1y0l06355ixp3y642s169e6204v46r79pnxj5i02",
+                "OffsetInDatabase": 8690651,
+                "PathToKeyframeThumb": "https://czzgiqt-azhqh.dscw.qm/field/after/kaaexwfd5.jpg",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2015-04-22T16:59:30.795510Z",
+                "IsSynchronized": false,
+                "OrganisationName": "npkhhlasupevvvqzmvzgnjhm",
+                "Workflow": "Hlxkioyj",
+                "HasFailedJobs": false,
+                "ArchiveDate": "2002-05-20T22:24:14.498699Z",
+                "IngestTape": "W18288D2",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "Type": "video",
+                "IsOriginal": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2015-04-22T16:59:30.795510Z",
+                "OrganisationLongName": "npkhhlasupevvvqzmvzgnjhm",
+                "RecordType": "Record",
+                "PublicationDate": "2015-09-03T03:53:11.265370Z",
+                "ExternalId": "a43p77pt3w_940_jub",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "WJ-9r3dv06",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "0277h42g4w8017dhc181m1r43rdt1tl0725419x0240d1013p3z4a182jgw0k0h2_9164565101"
+                    ]
+                },
+                "FragmentStartTimeCode": "04:56:35.949",
+                "FragmentEndTimeCode": "07:41:20.350",
+                "FragmentDurationFrames": 83911,
+                "FragmentDurationTimeCode": "07:41:20.350",
+                "FragmentEndFrames": 83911,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Export": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ],
+                    "Read": [
+                        "aafca7af-7b84-4f0b-ae06-2761eea77b54",
+                        "d49d7b6e-0c28-46db-a706-2c5753bbb844",
+                        "b49c58e1-0d66-4b81-80d4-23b622b7867f",
+                        "b991500f-ae22-4cfd-864e-12c92a79b875",
+                        "8e639c9c-2f46-401c-bc90-49f83013d2df"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Technical": {
+                "ImageQuality": "medium",
+                "AudioTechnical": "pcm_s16le 2ch 48000Hz 768000bps",
+                "PronomId": "fmt/569",
+                "OriginalExtension": "mkv",
+                "DurationFrames": 83911,
+                "EndFrames": 83911,
+                "MimeType": "video/x-matroska",
+                "StartFrames": 0,
+                "Width": 67,
+                "Md5": "1a30898acae04fa529de11f37ca60a1b",
+                "VideoBitRate": 9338231,
+                "AudioChannels": 2,
+                "BitRate": 9338231,
+                "VideoTechnical": "Religious budget miss sport world.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 2
+                        }
+                    ]
+                },
+                "AudioCodec": "pcm_s16le",
+                "AudioSampleRate": 48000,
+                "VideoCodec": "doau3tvogo",
+                "FileSize": 3917918134,
+                "ImageSize": "720x576",
+                "DurationTimeCode": "07:41:20.350",
+                "Height": 61,
+                "EndTimeCode": "07:41:20.350",
+                "AudioBitRate": 768000,
+                "StartTimeCode": "04:56:35.949",
+                "ImageOrientation": "landscape",
+                "VideoFps": "00",
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Dynamic": {
+                "inspection_note": "Music method drug range .",
+                "type_viaa": "Video",
+                "brand": "Fkuezzly",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2020-06-30",
+                "shipment_id": "06433356454",
+                "digitization_format": "Mixed",
+                "created_on": "2009-09-21T15:54:35",
+                "updated_by": "Jacqueline Lynn",
+                "status": "Upvdwti",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:viaa=\"http://viaa.be\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>62a9d1a0-2b88-4c13-94ee-09aa054d5e02</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>TRANSCODING</premis:eventType><premis:eventDateTime>2020-09-15T13:11:48</premis:eventDateTime><premis:eventDetail>Agent office series green source the score.</premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>VIAA SP Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>Tracy Yang</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>a43p77pt3w_001_jub.mkv</premis:linkingObjectIdentifierValue><premis:linkingObjectIdentifierRole>mdlppo</premis:linkingObjectIdentifierRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2018-08-21",
+                "batch_id": "MUTB91",
+                "player_model": "Joseph Es",
+                "inspection_date": "2018-08-21",
+                "qc_outcome": "y",
+                "is_preserved_by_another": "1",
+                "PID": "a43p77pt3w",
+                "CP": "Sarah Perez",
+                "batch_name": "MUTB91",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "Y7I4ZZ06411",
+                "carrier_barcode": "RKYJ_RLS_161463",
+                "preservation_problems": "Usqt",
+                "updated_on": "2009-09-21T15:54:35",
+                "lto_id": "W18288D2",
+                "player_manufacturer": "DsjguAvoyk",
+                "digitization_date": "2020-09-29",
+                "transfer_lto_date": "2023-08-14",
+                "digitization_outcome": "y",
+                "digitization_time": "13:03:37",
+                "format": "DVD",
+                "created_by": "Jacqueline Lynn",
+                "related_documents": "1",
+                "sp_id": "WJ-8l43r6a",
+                "dcterms_created": "2002-09-07",
+                "duration_viaa": "0:55:40",
+                "cleaning_date": "2018-08-21",
+                "qc_by": "2fm64f81xydp610s002zwnk1",
+                "sp_name": "Hlxkioyj",
+                "file_duration": "00:55:56.19",
+                "transport_box_barcode": "UZVQ_WR_92996",
+                "cleaning_note": "Joshua Casto",
+                "CP_id": "WJ-9r3dv06",
+                "cleaning_outcome": "t",
+                "collection_box_barcode": "ZJGT_RLS_173722"
+            },
+            "Descriptive": {
+                "CreationDate": "2007-06-28T05:56:37.624280Z",
+                "OriginalFilename": "a43p77pt3w_001_jub.mkv",
+                "RightsOwner": "Tyler Matthews",
+                "UploadedBy": "zntqdunmgp@amqaxxnzunpacptyyeviytso",
+                "KeyframeStart": 0,
+                "Title": "Michael Bates",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        }
+    ]
+}

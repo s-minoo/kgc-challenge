@@ -1,0 +1,2359 @@
+{
+    "NrOfResults": 7,
+    "StartIndex": 0,
+    "TotalNrOfResults": 7,
+    "Results": [
+        {
+            "Context": {
+                "IsDeletable": true,
+                "IsEditable": true,
+                "IsEmbeddable": false,
+                "IsExportable": true,
+                "IsPublic": false,
+                "IsPublishable": false,
+                "Profiles": [],
+                "Reasons": {
+                    "IsPublishable": [
+                        {
+                            "Code": "RecordStatusNotPublishable",
+                            "Value": "Record can not be published in its current status"
+                        }
+                    ]
+                }
+            },
+            "Structural": {
+                "ChildOrder": 30,
+                "RecordStructure": "Data",
+                "InformationPackage": "Sip",
+                "PreviewRecordId": "558h3866gd494m96v0828486i077n264f5mk6586u717926v7t67l94xo82i4w09",
+                "ParentRecordId": "55452g5d128k817vnbc88na506l80r97y07ea197g60p7r14802qs0xe4332wn51",
+                "Relations": {
+                    "Contains": [
+                        "izf58ep22w2h37ki5i0886562g071s68xh74p36p565j5520krj61d3d931499229b907qq5v4365d31k41v1156jfg32aar"
+                    ]
+                },
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Gcmiy"
+                    ]
+                },
+                "OriginalRecordId": "558h3866gd494m96v0828486i077n264f5mk6586u717926v7t67l94xo82i4w09",
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "55452g5d128k817vnbc88na506l80r97y07ea197g60p7r14802qs0xe4332wn51"
+                    ]
+                },
+                "HasNonRepresentationChildren": false,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {},
+                "DataRecordId": null
+            },
+            "Descriptive": {
+                "UploadedBy": "Matthew Hl",
+                "KeyframeStart": 0,
+                "OriginalFilename": "y97966iy6m.zip",
+                "Title": "y97966iy6m.zip",
+                "Description": null,
+                "CreationDate": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Write": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Read": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "74ff8435-b6bc-4b7a-bcb6-b4249de57560",
+                    "Name": "Brandon Chapman"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "azxtayrue",
+                "PathToKeyframe": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "IsFragment": false,
+                "Profiles": {
+                    "Newspaper": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "NewspaperPage": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Basic": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "MaterialArtwork": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Media": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Record": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Representation": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ]
+                },
+                "PathToPreview": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "UploadedById": "1852a54b-691a-43f9-a7e5-c704f725db41",
+                "HasKeyframes": true,
+                "MediaObjectId": "780u0980pq983372802mw641z6hgj3hco85100tv0xv67b01eg9hrwjmy567vrw9",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "dk_gxquqe",
+                "RecordId": "780u0980pq983372802mw641z6hgj3hco85100tv0xv67b01eg9hrwjmy567vrw9",
+                "IsInIngestSpace": true,
+                "OrganisationId": "202",
+                "FragmentId": "632w7357uf748765346jw168n3tis1dzr81856ki3tt47q23nr9fqdyih010jip8891414v773539u4ty210c6ep26828hz5",
+                "OffsetInDatabase": 21290439,
+                "PathToKeyframeThumb": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "ContainsGeoData": true,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                }
+            },
+            "Technical": {
+                "OriginalExtension": "zip",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "Camera": {},
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2022-09-18T10:23:27.961227Z",
+                "IsSynchronized": true,
+                "IsOriginal": true,
+                "OrganisationName": "wel",
+                "HasFailedJobs": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2000-11-03T23:12:08.598175Z",
+                "ArchiveDate": "2000-11-03T23:12:08.598175Z",
+                "OrganisationLongName": "wel",
+                "RecordType": "Sip",
+                "IngestFlow": "Zfovvp-5.6",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2022-10-13T09:21:59.418064Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "Sip",
+                "OrganisationExternalId": "NL-lz77k93",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null,
+                "RecordRejections": {}
+            }
+        },
+        {
+            "Context": {
+                "IsDeletable": true,
+                "IsEditable": true,
+                "IsEmbeddable": false,
+                "IsExportable": true,
+                "IsPublic": false,
+                "IsPublishable": false,
+                "Profiles": [
+                    "376a8361-79cb-4da4-9a50-46142539d078",
+                    "9196bbd0-7a72-4ada-a058-a17fb5d354a7",
+                    "ae08dcbd-aa30-4ed3-afd5-ff3ffedc258c",
+                    "380c5b9a-bc0d-4507-92e4-1be267b84903",
+                    "1f7f4b3a-d0fc-4703-98a0-3e123115fb92",
+                    "c50f21ee-3aeb-4dea-9d89-eb12fdaad878",
+                    "04c1e4ee-5527-45ae-9f35-a33da17cd3b6",
+                    "1249772d-cd98-487c-8652-2fce91cd7fc1",
+                    "2ebf4f26-b97f-4323-b8a5-723fd5c1ff41",
+                    "6173ded9-1ff8-4127-b14b-0d5becef4109"
+                ],
+                "Reasons": {
+                    "IsPublishable": [
+                        {
+                            "Code": "RecordStatusNotPublishable",
+                            "Value": "Record can not be published in its current status"
+                        }
+                    ]
+                }
+            },
+            "Structural": {
+                "ChildOrder": 1,
+                "FragmentEndTimeCode": "12:47:41.617",
+                "RecordStructure": "Representation",
+                "InformationPackage": "Aip",
+                "PreviewRecordId": "30ccm12646343e294494y7t335469d84a62jy816207p0rd4h1ab17h2xyd9mpo8",
+                "ParentRecordId": "80554ex96xdq8gu121242pvp9qv7ej260dtj4hn016416141rm3lq63054a97027",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Gcmiy"
+                    ],
+                    "Basic": [
+                        "Brooke Murray"
+                    ],
+                    "Media": [
+                        "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov"
+                    ]
+                },
+                "HasChildren": true,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "55452g5d128k817vnbc88na506l80r97y07ea197g60p7r14802qs0xe4332wn51"
+                    ],
+                    "Basic": [
+                        "hrx10ta21y5c82kb6q7231239f142y22ub17t45j208k0629vkv48f8c23120759"
+                    ],
+                    "Media": [
+                        "80554ex96xdq8gu121242pvp9qv7ej260dtj4hn016416141rm3lq63054a97027"
+                    ]
+                },
+                "FragmentDurationFrames": 45283,
+                "FragmentDurationTimeCode": "12:47:41.617",
+                "HasNonRepresentationChildren": false,
+                "FragmentStartTimeCode": "12:36:28.431",
+                "FragmentEndFrames": 45283,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "DataRecordId": "80554ex96xdq8gu121242pvp9qv7ej260dtj4hn016416141rm3lq63054a97027",
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FieldDefinition": {},
+                "OriginalRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Export": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Read": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "74ff8435-b6bc-4b7a-bcb6-b4249de57560",
+                    "Name": "Brandon Chapman"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://gocggrw-lcsli.rcld.ra/truth/report/30ccm12646343e294494y7t335469d84a62jy816207p0rd4h1ab17h2xyd9mpo8.mp4",
+                "OriginalStatus": "azxtayrue",
+                "PathToKeyframe": "https://rjlaalb-pgxoz.mdin.nc/clearly/up/qdoobasb5.jpg",
+                "IsFragment": false,
+                "Profiles": {
+                    "Newspaper": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "NewspaperPage": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Basic": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "MaterialArtwork": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Media": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Record": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Representation": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ]
+                },
+                "PathToPreview": "https://gocggrw-lcsli.rcld.ra/truth/report/30ccm12646343e294494y7t335469d84a62jy816207p0rd4h1ab17h2xyd9mpo8.mp4",
+                "UploadedById": "1852a54b-691a-43f9-a7e5-c704f725db41",
+                "HasKeyframes": true,
+                "MediaObjectId": "6071474s01ir0jvc5j86uv3q1210hxcv75b743d4rpl67y9ehz231x0o372h9bcl",
+                "ArchiveStatus": "on_tape",
+                "BrowseStatus": "azxtayrue",
+                "RecordId": "6071474s01ir0jvc5j86uv3q1210hxcv75b743d4rpl67y9ehz231x0o372h9bcl",
+                "IsInIngestSpace": true,
+                "OrganisationId": "202",
+                "FragmentId": "9566396k33rb5ntk0n48vi6q6701hbat84t402s2npq22g6ejf825q8i357g4ewa2u0629534ali4d80ny3184ao4p46r647",
+                "OffsetInDatabase": 21290496,
+                "PathToKeyframeThumb": "https://qjcfvhp-gtzif.imju.zx/dream/up/qdoobasb5.jpg",
+                "ContainsGeoData": true,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                }
+            },
+            "Descriptive": {
+                "CreationDate": "2009-12-22T15:20:01.381417Z",
+                "OriginalPath": "glass/say/TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov",
+                "UploadedBy": "Matthew Hl",
+                "KeyframeStart": 0,
+                "Description": "Minute skill section lose many.",
+                "OriginalFilename": "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov",
+                "Title": "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov",
+                "RightsOwner": "Ryan Franklin",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "AudioTechnical": "pcm_s24le 1ch 48000Hz 1152000bps",
+                "VideoTechnical": "Try property surface.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        },
+                        {
+                            "Channels": 1
+                        }
+                    ]
+                },
+                "PronomId": "x-fmt/384",
+                "OriginalExtension": "mov",
+                "AudioCodec": "pcm_s24le",
+                "AudioSampleRate": 48000,
+                "DurationFrames": 45283,
+                "VideoFormat": "Nathaniel Sh",
+                "VideoCodec": "hhskcz",
+                "FileSize": 46640400472,
+                "ImageSize": "1920x1080",
+                "EndFrames": 45283,
+                "MimeType": "video/quicktime",
+                "DurationTimeCode": "12:47:41.617",
+                "StartFrames": 0,
+                "Height": 69,
+                "EndTimeCode": "12:47:41.617",
+                "Width": 54,
+                "Md5": "d9bc54bbe13aeb71ca0af462243587d3",
+                "AudioBitRate": 1152000,
+                "StartTimeCode": "12:36:28.431",
+                "VideoBitRate": 196771180,
+                "ImageOrientation": "landscape",
+                "AudioChannels": 1,
+                "VideoFps": "12",
+                "BitRate": 205995187,
+                "Exif": {},
+                "Sha256": null,
+                "Camera": {},
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2018-04-16T08:29:06.830946Z",
+                "IsSynchronized": true,
+                "IsOriginal": true,
+                "OrganisationName": "wel",
+                "HasFailedJobs": true,
+                "ExternalUse": "Xuvz",
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2018-04-16T08:29:06.830946Z",
+                "ArchiveDate": "2021-11-07T06:29:04.359205Z",
+                "OrganisationLongName": "wel",
+                "RecordType": "Representation",
+                "IngestFlow": "Zfovvp-5.6",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2008-09-24T06:56:25.142332Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "video",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "NL-lz77k93",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "RecordRejections": {}
+            }
+        },
+        {
+            "Context": {
+                "IsDeletable": true,
+                "IsEditable": true,
+                "IsEmbeddable": false,
+                "IsExportable": true,
+                "IsPublic": false,
+                "IsPublishable": false,
+                "Profiles": [
+                    "376a8361-79cb-4da4-9a50-46142539d078",
+                    "9196bbd0-7a72-4ada-a058-a17fb5d354a7",
+                    "ae08dcbd-aa30-4ed3-afd5-ff3ffedc258c",
+                    "380c5b9a-bc0d-4507-92e4-1be267b84903",
+                    "1f7f4b3a-d0fc-4703-98a0-3e123115fb92",
+                    "c50f21ee-3aeb-4dea-9d89-eb12fdaad878",
+                    "04c1e4ee-5527-45ae-9f35-a33da17cd3b6",
+                    "1249772d-cd98-487c-8652-2fce91cd7fc1",
+                    "2ebf4f26-b97f-4323-b8a5-723fd5c1ff41",
+                    "6173ded9-1ff8-4127-b14b-0d5becef4109"
+                ],
+                "Reasons": {
+                    "IsPublishable": [
+                        {
+                            "Code": "RecordStatusNotPublishable",
+                            "Value": "Record can not be published in its current status"
+                        }
+                    ]
+                }
+            },
+            "Structural": {
+                "FragmentEndTimeCode": "12:47:41.617",
+                "ChildOrder": 2,
+                "RecordStructure": "Data",
+                "InformationPackage": "Aip",
+                "PreviewRecordId": "6071474s01ir0jvc5j86uv3q1210hxcv75b743d4rpl67y9ehz231x0o372h9bcl",
+                "ParentRecordId": "hrx10ta21y5c82kb6q7231239f142y22ub17t45j208k0629vkv48f8c23120759",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Gcmiy"
+                    ],
+                    "Basic": [
+                        "Brooke Murray"
+                    ]
+                },
+                "OriginalRecordId": "6071474s01ir0jvc5j86uv3q1210hxcv75b743d4rpl67y9ehz231x0o372h9bcl",
+                "HasChildren": true,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "55452g5d128k817vnbc88na506l80r97y07ea197g60p7r14802qs0xe4332wn51"
+                    ],
+                    "Basic": [
+                        "hrx10ta21y5c82kb6q7231239f142y22ub17t45j208k0629vkv48f8c23120759"
+                    ]
+                },
+                "FragmentDurationFrames": 45283,
+                "FragmentDurationTimeCode": "12:47:41.617",
+                "HasNonRepresentationChildren": false,
+                "FragmentStartTimeCode": "12:36:28.431",
+                "FragmentEndFrames": 45283,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FieldDefinition": {},
+                "DataRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Export": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Read": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "74ff8435-b6bc-4b7a-bcb6-b4249de57560",
+                    "Name": "Brandon Chapman"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://gocggrw-lcsli.rcld.ra/truth/report/30ccm12646343e294494y7t335469d84a62jy816207p0rd4h1ab17h2xyd9mpo8.mp4",
+                "OriginalStatus": "azxtayrue",
+                "PathToKeyframe": "https://rjlaalb-pgxoz.mdin.nc/clearly/up/qdoobasb5.jpg",
+                "IsFragment": false,
+                "Profiles": {
+                    "Newspaper": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "NewspaperPage": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Basic": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "MaterialArtwork": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Media": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Record": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Representation": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ]
+                },
+                "PathToPreview": "https://gocggrw-lcsli.rcld.ra/truth/report/30ccm12646343e294494y7t335469d84a62jy816207p0rd4h1ab17h2xyd9mpo8.mp4",
+                "UploadedById": "1852a54b-691a-43f9-a7e5-c704f725db41",
+                "HasKeyframes": true,
+                "MediaObjectId": "80554ex96xdq8gu121242pvp9qv7ej260dtj4hn016416141rm3lq63054a97027",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "azxtayrue",
+                "RecordId": "80554ex96xdq8gu121242pvp9qv7ej260dtj4hn016416141rm3lq63054a97027",
+                "IsInIngestSpace": true,
+                "OrganisationId": "202",
+                "FragmentId": "67530ag61hzg6if772960mgq1dl5do822vvm6jg378872802na2py84849c325350d17411456140264370422d3j3oi579n",
+                "OffsetInDatabase": 21290495,
+                "PathToKeyframeThumb": "https://qjcfvhp-gtzif.imju.zx/dream/up/qdoobasb5.jpg",
+                "ContainsGeoData": true,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                }
+            },
+            "Technical": {
+                "OriginalExtension": "mov",
+                "DurationFrames": 45283,
+                "FileSize": 0,
+                "EndFrames": 45283,
+                "DurationTimeCode": "12:47:41.617",
+                "StartFrames": 0,
+                "EndTimeCode": "12:47:41.617",
+                "StartTimeCode": "12:36:28.431",
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "Camera": {},
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Descriptive": {
+                "CreationDate": "2009-12-22T15:20:01.381417Z",
+                "OriginalPath": "glass/say/TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov",
+                "UploadedBy": "Matthew Hl",
+                "KeyframeStart": 0,
+                "Description": "Minute skill section lose many.",
+                "OriginalFilename": "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov",
+                "Title": "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov",
+                "RightsOwner": "Ryan Franklin",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "Dynamic": {
+                "ingest_workflow": "bizjl",
+                "PID": "y97966iy6m",
+                "CP": "Brenda Powell",
+                "CP_id": "NL-lz77k93"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2020-06-28T12:18:14.416595Z",
+                "IsSynchronized": true,
+                "IsOriginal": true,
+                "OrganisationName": "wel",
+                "HasFailedJobs": true,
+                "ExternalUse": "Xuvz",
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2020-06-28T12:18:14.416595Z",
+                "ArchiveDate": "2021-11-07T06:29:04.359205Z",
+                "OrganisationLongName": "wel",
+                "RecordType": "Media",
+                "IngestFlow": "Zfovvp-5.6",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2020-05-20T12:33:02.091140Z",
+                "ExternalId": "y97966iy6m_4_4",
+                "DeleteStatus": "NotDeleted",
+                "Type": "video",
+                "MainRecordType": "Media",
+                "OrganisationExternalId": "NL-lz77k93",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "RecordRejections": {}
+            }
+        },
+        {
+            "Context": {
+                "IsDeletable": true,
+                "IsEditable": true,
+                "IsEmbeddable": false,
+                "IsExportable": true,
+                "IsPublic": false,
+                "IsPublishable": false,
+                "Profiles": [
+                    "376a8361-79cb-4da4-9a50-46142539d078",
+                    "9196bbd0-7a72-4ada-a058-a17fb5d354a7",
+                    "ae08dcbd-aa30-4ed3-afd5-ff3ffedc258c",
+                    "380c5b9a-bc0d-4507-92e4-1be267b84903",
+                    "1f7f4b3a-d0fc-4703-98a0-3e123115fb92",
+                    "c50f21ee-3aeb-4dea-9d89-eb12fdaad878",
+                    "04c1e4ee-5527-45ae-9f35-a33da17cd3b6",
+                    "1249772d-cd98-487c-8652-2fce91cd7fc1",
+                    "2ebf4f26-b97f-4323-b8a5-723fd5c1ff41",
+                    "6173ded9-1ff8-4127-b14b-0d5becef4109"
+                ],
+                "Reasons": {
+                    "IsPublishable": [
+                        {
+                            "Code": "RecordStatusNotPublishable",
+                            "Value": "Record can not be published in its current status"
+                        }
+                    ]
+                }
+            },
+            "Structural": {
+                "ChildOrder": 1,
+                "FragmentEndTimeCode": "12:47:41.617",
+                "RecordStructure": "Representation",
+                "InformationPackage": "Aip",
+                "ParentRecordId": "6071474s01ir0jvc5j86uv3q1210hxcv75b743d4rpl67y9ehz231x0o372h9bcl",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Gcmiy"
+                    ],
+                    "Basic": [
+                        "Brooke Murray"
+                    ],
+                    "Media": [
+                        "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov"
+                    ],
+                    "Representation": [
+                        "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "55452g5d128k817vnbc88na506l80r97y07ea197g60p7r14802qs0xe4332wn51"
+                    ],
+                    "Basic": [
+                        "hrx10ta21y5c82kb6q7231239f142y22ub17t45j208k0629vkv48f8c23120759"
+                    ],
+                    "Media": [
+                        "80554ex96xdq8gu121242pvp9qv7ej260dtj4hn016416141rm3lq63054a97027"
+                    ],
+                    "Representation": [
+                        "6071474s01ir0jvc5j86uv3q1210hxcv75b743d4rpl67y9ehz231x0o372h9bcl"
+                    ]
+                },
+                "FragmentDurationFrames": 45283,
+                "FragmentDurationTimeCode": "12:47:41.617",
+                "HasNonRepresentationChildren": false,
+                "FragmentStartTimeCode": "12:36:28.431",
+                "FragmentEndFrames": 45283,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "DataRecordId": "80554ex96xdq8gu121242pvp9qv7ej260dtj4hn016416141rm3lq63054a97027",
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Export": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Read": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "74ff8435-b6bc-4b7a-bcb6-b4249de57560",
+                    "Name": "Brandon Chapman"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToVideo": "https://gocggrw-lcsli.rcld.ra/truth/report/30ccm12646343e294494y7t335469d84a62jy816207p0rd4h1ab17h2xyd9mpo8.mp4",
+                "OriginalStatus": "azxtayrue",
+                "PathToKeyframe": "https://rjlaalb-pgxoz.mdin.nc/clearly/up/qdoobasb5.jpg",
+                "IsFragment": false,
+                "Profiles": {
+                    "Newspaper": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "NewspaperPage": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Basic": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "MaterialArtwork": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Media": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Record": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Representation": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ]
+                },
+                "PathToPreview": "https://gocggrw-lcsli.rcld.ra/truth/report/30ccm12646343e294494y7t335469d84a62jy816207p0rd4h1ab17h2xyd9mpo8.mp4",
+                "UploadedById": "1852a54b-691a-43f9-a7e5-c704f725db41",
+                "HasKeyframes": true,
+                "MediaObjectId": "30ccm12646343e294494y7t335469d84a62jy816207p0rd4h1ab17h2xyd9mpo8",
+                "ArchiveStatus": "on_disk",
+                "BrowseStatus": "azxtayrue",
+                "RecordId": "30ccm12646343e294494y7t335469d84a62jy816207p0rd4h1ab17h2xyd9mpo8",
+                "IsInIngestSpace": true,
+                "OrganisationId": "202",
+                "FragmentId": "26ohp43121219z908495w7f824356e20f24ak533545v6fo0s4vk42t7jtk8hnn0swou6176jd2w65fr4i96a472v7fm0j73",
+                "OffsetInDatabase": 21290543,
+                "PathToKeyframeThumb": "https://qjcfvhp-gtzif.imju.zx/dream/up/qdoobasb5.jpg",
+                "ContainsGeoData": true,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                }
+            },
+            "Descriptive": {
+                "CreationDate": "2009-12-22T15:20:01.381417Z",
+                "OriginalPath": "notice/morning/TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mp4",
+                "UploadedBy": "Matthew Hl",
+                "KeyframeStart": 0,
+                "Description": "Minute skill section lose many.",
+                "OriginalFilename": "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mp4",
+                "Title": "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc.mov",
+                "RightsOwner": "Ryan Franklin",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "Technical": {
+                "ImageQuality": "low",
+                "AudioTechnical": "aac 2ch 22050Hz 352800bps",
+                "VideoTechnical": "Sound situation behind blac.",
+                "AudioTracks": {
+                    "Track": [
+                        {
+                            "Channels": 2
+                        },
+                        {
+                            "Channels": 2
+                        },
+                        {
+                            "Channels": 2
+                        },
+                        {
+                            "Channels": 2
+                        },
+                        {
+                            "Channels": 2
+                        },
+                        {
+                            "Channels": 2
+                        },
+                        {
+                            "Channels": 2
+                        },
+                        {
+                            "Channels": 2
+                        }
+                    ]
+                },
+                "PronomId": "fmt/199",
+                "OriginalExtension": "mp4",
+                "AudioCodec": "aac",
+                "AudioSampleRate": 22050,
+                "DurationFrames": 45283,
+                "VideoFormat": "id4",
+                "VideoCodec": "w815",
+                "FileSize": 412218312,
+                "ImageSize": "704x396",
+                "EndFrames": 45283,
+                "MimeType": "application/mp4",
+                "DurationTimeCode": "12:47:41.617",
+                "StartFrames": 0,
+                "Height": 76,
+                "EndTimeCode": "12:47:41.617",
+                "Width": 97,
+                "Md5": "f38227065837772707623eb2f13d5811",
+                "AudioBitRate": 352800,
+                "StartTimeCode": "12:36:28.431",
+                "VideoBitRate": 998727,
+                "ImageOrientation": "landscape",
+                "AudioChannels": 2,
+                "VideoFps": "12",
+                "BitRate": 1820631,
+                "Exif": {},
+                "Sha256": null,
+                "Camera": {},
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2002-04-13T05:41:50.049512Z",
+                "IsSynchronized": true,
+                "IsOriginal": true,
+                "OrganisationName": "wel",
+                "HasFailedJobs": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2002-04-13T05:41:50.049512Z",
+                "ArchiveDate": "2007-01-25T00:23:45.774843Z",
+                "OrganisationLongName": "wel",
+                "RecordType": "Representation",
+                "IngestFlow": "Zfovvp-5.6",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2019-11-10T20:09:15.032036Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "video",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "NL-lz77k93",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null,
+                "RecordRejections": {}
+            }
+        },
+        {
+            "Context": {
+                "IsDeletable": true,
+                "IsEditable": true,
+                "IsEmbeddable": false,
+                "IsExportable": true,
+                "IsPublic": false,
+                "IsPublishable": false,
+                "Profiles": [
+                    "376a8361-79cb-4da4-9a50-46142539d078",
+                    "9196bbd0-7a72-4ada-a058-a17fb5d354a7",
+                    "ae08dcbd-aa30-4ed3-afd5-ff3ffedc258c",
+                    "380c5b9a-bc0d-4507-92e4-1be267b84903",
+                    "1f7f4b3a-d0fc-4703-98a0-3e123115fb92",
+                    "c50f21ee-3aeb-4dea-9d89-eb12fdaad878",
+                    "04c1e4ee-5527-45ae-9f35-a33da17cd3b6",
+                    "1249772d-cd98-487c-8652-2fce91cd7fc1",
+                    "2ebf4f26-b97f-4323-b8a5-723fd5c1ff41",
+                    "6173ded9-1ff8-4127-b14b-0d5becef4109"
+                ],
+                "Reasons": {
+                    "IsPublishable": [
+                        {
+                            "Code": "RecordStatusNotPublishable",
+                            "Value": "Record can not be published in its current status"
+                        }
+                    ]
+                }
+            },
+            "Structural": {
+                "ChildOrder": 1,
+                "RecordStructure": "Representation",
+                "InformationPackage": "Aip",
+                "ParentRecordId": "19srw776d61954tm0gice972g0k7jbsfg8846923pn9831zhgak8455n32f3b2s8",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Gcmiy"
+                    ],
+                    "Basic": [
+                        "Brooke Murray"
+                    ],
+                    "Media": [
+                        "y97966iy6m_clma"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "55452g5d128k817vnbc88na506l80r97y07ea197g60p7r14802qs0xe4332wn51"
+                    ],
+                    "Basic": [
+                        "hrx10ta21y5c82kb6q7231239f142y22ub17t45j208k0629vkv48f8c23120759"
+                    ],
+                    "Media": [
+                        "19srw776d61954tm0gice972g0k7jbsfg8846923pn9831zhgak8455n32f3b2s8"
+                    ]
+                },
+                "HasNonRepresentationChildren": false,
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "DataRecordId": "19srw776d61954tm0gice972g0k7jbsfg8846923pn9831zhgak8455n32f3b2s8",
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Export": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Read": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "74ff8435-b6bc-4b7a-bcb6-b4249de57560",
+                    "Name": "Brandon Chapman"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "azxtayrue",
+                "PathToKeyframe": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "IsFragment": false,
+                "Profiles": {
+                    "Newspaper": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "NewspaperPage": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Basic": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "MaterialArtwork": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Media": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Record": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Representation": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ]
+                },
+                "PathToPreview": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "UploadedById": "1852a54b-691a-43f9-a7e5-c704f725db41",
+                "HasKeyframes": true,
+                "MediaObjectId": "j9t63bx2a3231npf12ml919608f1495ts13e3460715f3758h50664494411r56r",
+                "ArchiveStatus": "on_disk",
+                "BrowseStatus": "dk_gxquqe",
+                "RecordId": "j9t63bx2a3231npf12ml919608f1495ts13e3460715f3758h50664494411r56r",
+                "IsInIngestSpace": true,
+                "OrganisationId": "202",
+                "FragmentId": "v7v38ug4q0766tqn32oq390133y4352yh10c8529972u6265s66806712351s35fa49hjf2m63ri45j7t20wfv2e97ph22ry",
+                "OffsetInDatabase": 21290474,
+                "PathToKeyframeThumb": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "ContainsGeoData": true,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                }
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "FileSize": 4905,
+                "MimeType": "application/xml",
+                "Md5": "aa05e25de8a0327da01a1a203e2a0599",
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "Camera": {},
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Descriptive": {
+                "CreationDate": "2019-07-10T16:30:36.160910Z",
+                "OriginalPath": "clma.xml",
+                "UploadedBy": "Matthew Hl",
+                "KeyframeStart": 0,
+                "Description": "Minute skill section lose many.",
+                "OriginalFilename": "clma.xml",
+                "Title": "y97966iy6m_clma",
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2023-04-28T22:05:03.465734Z",
+                "IsSynchronized": true,
+                "IsOriginal": true,
+                "OrganisationName": "wel",
+                "HasFailedJobs": true,
+                "ExternalUse": "Fcib",
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2023-04-28T22:05:03.465734Z",
+                "ArchiveDate": "2003-03-28T10:41:37.500086Z",
+                "OrganisationLongName": "wel",
+                "RecordType": "Representation",
+                "IngestFlow": "Zfovvp-5.6",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2024-01-18T05:04:10.902344Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "document",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "NL-lz77k93",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "RecordRejections": {}
+            }
+        },
+        {
+            "Context": {
+                "IsDeletable": true,
+                "IsEditable": true,
+                "IsEmbeddable": false,
+                "IsExportable": true,
+                "IsPublic": false,
+                "IsPublishable": false,
+                "Profiles": [
+                    "376a8361-79cb-4da4-9a50-46142539d078",
+                    "9196bbd0-7a72-4ada-a058-a17fb5d354a7",
+                    "ae08dcbd-aa30-4ed3-afd5-ff3ffedc258c",
+                    "380c5b9a-bc0d-4507-92e4-1be267b84903",
+                    "1f7f4b3a-d0fc-4703-98a0-3e123115fb92",
+                    "c50f21ee-3aeb-4dea-9d89-eb12fdaad878",
+                    "04c1e4ee-5527-45ae-9f35-a33da17cd3b6",
+                    "1249772d-cd98-487c-8652-2fce91cd7fc1",
+                    "2ebf4f26-b97f-4323-b8a5-723fd5c1ff41",
+                    "6173ded9-1ff8-4127-b14b-0d5becef4109"
+                ],
+                "Reasons": {
+                    "IsPublishable": [
+                        {
+                            "Code": "RecordStatusNotPublishable",
+                            "Value": "Record can not be published in its current status"
+                        }
+                    ]
+                }
+            },
+            "Structural": {
+                "ChildOrder": 1,
+                "RecordStructure": "Data",
+                "InformationPackage": "Aip",
+                "PreviewRecordId": "j9t63bx2a3231npf12ml919608f1495ts13e3460715f3758h50664494411r56r",
+                "ParentRecordId": "hrx10ta21y5c82kb6q7231239f142y22ub17t45j208k0629vkv48f8c23120759",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Gcmiy"
+                    ],
+                    "Basic": [
+                        "Brooke Murray"
+                    ]
+                },
+                "OriginalRecordId": "j9t63bx2a3231npf12ml919608f1495ts13e3460715f3758h50664494411r56r",
+                "HasChildren": true,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "55452g5d128k817vnbc88na506l80r97y07ea197g60p7r14802qs0xe4332wn51"
+                    ],
+                    "Basic": [
+                        "hrx10ta21y5c82kb6q7231239f142y22ub17t45j208k0629vkv48f8c23120759"
+                    ]
+                },
+                "HasNonRepresentationChildren": false,
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FieldDefinition": {},
+                "DataRecordId": null
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Export": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Read": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "74ff8435-b6bc-4b7a-bcb6-b4249de57560",
+                    "Name": "Brandon Chapman"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "azxtayrue",
+                "PathToKeyframe": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "IsFragment": false,
+                "Profiles": {
+                    "Newspaper": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "NewspaperPage": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Basic": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "MaterialArtwork": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Media": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Record": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Representation": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ]
+                },
+                "PathToPreview": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "UploadedById": "1852a54b-691a-43f9-a7e5-c704f725db41",
+                "HasKeyframes": true,
+                "MediaObjectId": "19srw776d61954tm0gice972g0k7jbsfg8846923pn9831zhgak8455n32f3b2s8",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "dk_gxquqe",
+                "RecordId": "19srw776d61954tm0gice972g0k7jbsfg8846923pn9831zhgak8455n32f3b2s8",
+                "IsInIngestSpace": true,
+                "OrganisationId": "202",
+                "FragmentId": "42jzi338y77869xm9yhxh391w1w8obekk3955768ea5205yvotu5779s11d9p6y93ev029net0rp121ch8b3da873htq49h3",
+                "OffsetInDatabase": 21290473,
+                "PathToKeyframeThumb": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "ContainsGeoData": true,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                }
+            },
+            "Technical": {
+                "OriginalExtension": "xml",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "Camera": {},
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Descriptive": {
+                "CreationDate": "2019-07-10T16:30:36.160910Z",
+                "OriginalPath": "clma.xml",
+                "UploadedBy": "Matthew Hl",
+                "KeyframeStart": 0,
+                "Description": "Minute skill section lose many.",
+                "OriginalFilename": "clma.xml",
+                "Title": "y97966iy6m_clma",
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2023-12-05T15:34:59.391754Z",
+                "IsSynchronized": true,
+                "IsOriginal": true,
+                "OrganisationName": "wel",
+                "HasFailedJobs": true,
+                "ExternalUse": "Fcib",
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2023-12-05T15:34:59.391754Z",
+                "ArchiveDate": "2003-03-28T10:41:37.500086Z",
+                "OrganisationLongName": "wel",
+                "RecordType": "Media",
+                "IngestFlow": "Zfovvp-5.6",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2021-07-15T05:42:49.994030Z",
+                "ExternalId": "y97966iy6m_clma",
+                "DeleteStatus": "NotDeleted",
+                "Type": "document",
+                "MainRecordType": "Media",
+                "OrganisationExternalId": "NL-lz77k93",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "RecordRejections": {}
+            }
+        },
+        {
+            "Context": {
+                "IsDeletable": true,
+                "IsEditable": true,
+                "IsEmbeddable": false,
+                "IsExportable": true,
+                "IsPublic": false,
+                "IsPublishable": false,
+                "Profiles": [
+                    "376a8361-79cb-4da4-9a50-46142539d078",
+                    "9196bbd0-7a72-4ada-a058-a17fb5d354a7",
+                    "ae08dcbd-aa30-4ed3-afd5-ff3ffedc258c",
+                    "380c5b9a-bc0d-4507-92e4-1be267b84903",
+                    "1f7f4b3a-d0fc-4703-98a0-3e123115fb92",
+                    "c50f21ee-3aeb-4dea-9d89-eb12fdaad878",
+                    "04c1e4ee-5527-45ae-9f35-a33da17cd3b6",
+                    "1249772d-cd98-487c-8652-2fce91cd7fc1",
+                    "2ebf4f26-b97f-4323-b8a5-723fd5c1ff41",
+                    "6173ded9-1ff8-4127-b14b-0d5becef4109"
+                ],
+                "Reasons": {
+                    "IsPublishable": [
+                        {
+                            "Code": "RecordStatusNotPublishable",
+                            "Value": "Record can not be published in its current status"
+                        }
+                    ]
+                }
+            },
+            "Structural": {
+                "ChildOrder": 32,
+                "RecordStructure": "Intellectual",
+                "InformationPackage": "Aip",
+                "PreviewRecordId": "19srw776d61954tm0gice972g0k7jbsfg8846923pn9831zhgak8455n32f3b2s8",
+                "ParentRecordId": "55452g5d128k817vnbc88na506l80r97y07ea197g60p7r14802qs0xe4332wn51",
+                "Relations": {
+                    "ContainedBy": [
+                        "480b3453cc074454962bb778f7ffe0aca31490cb8fa44c30ae8dbbece330dee4263752c123584f2aa251e3ae94932fe7"
+                    ]
+                },
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Gcmiy"
+                    ]
+                },
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "55452g5d128k817vnbc88na506l80r97y07ea197g60p7r14802qs0xe4332wn51"
+                    ]
+                },
+                "HasNonRepresentationChildren": true,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {},
+                "OriginalRecordId": null,
+                "DataRecordId": null
+            },
+            "Technical": {
+                "FileSize": 0,
+                "OriginalExtension": null,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "Camera": {},
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Descriptive": {
+                "UploadedBy": "Matthew Hl",
+                "KeyframeStart": 0,
+                "Description": "Minute skill section lose many.",
+                "OriginalFilename": "pkj_4n780t00-g802-0e16-o0t6-s3s171pfi527.zip",
+                "Title": "Brooke Murray",
+                "CreationDate": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Export": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ],
+                    "Read": [
+                        "2a693c07-5bad-457e-98e5-3083bebc5a3b",
+                        "d369b894-b97d-4836-807c-2ac59049a5ab",
+                        "01d16f97-afc0-4c43-a7e0-8bc61dd43f51",
+                        "08a0a483-d1a6-4ecc-8d1d-9c34a26fa283"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "74ff8435-b6bc-4b7a-bcb6-b4249de57560",
+                    "Name": "Brandon Chapman"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "azxtayrue",
+                "PathToKeyframe": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "IsFragment": false,
+                "Profiles": {
+                    "Newspaper": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "NewspaperPage": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Basic": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "MaterialArtwork": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Media": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Record": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ],
+                    "Representation": [
+                        "2b42631e-9d7e-49f9-93dd-746d9688cd0f",
+                        "81bf2eae-4fe3-4c20-bada-69872329776d",
+                        "add8df91-d268-42d6-9931-e57e6ddd46fe",
+                        "821600c6-874a-4349-b2f9-6c0417dad775",
+                        "8c9cb8b8-fad9-4b3a-a4e7-d1d64da25165",
+                        "21a68cb4-d96d-462c-a4fa-062cacabb37b",
+                        "165b06c5-c49b-436c-b949-56eac119f6c0",
+                        "d1c6d588-341e-422f-a065-c2a9445540d9",
+                        "b7bcd9bb-4609-4cf5-a28a-36c029147bc6",
+                        "e17cb09c-38ae-40eb-9c28-6f83dabb8c8b"
+                    ]
+                },
+                "PathToPreview": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "UploadedById": "1852a54b-691a-43f9-a7e5-c704f725db41",
+                "HasKeyframes": true,
+                "MediaObjectId": "hrx10ta21y5c82kb6q7231239f142y22ub17t45j208k0629vkv48f8c23120759",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "dk_gxquqe",
+                "RecordId": "hrx10ta21y5c82kb6q7231239f142y22ub17t45j208k0629vkv48f8c23120759",
+                "IsInIngestSpace": true,
+                "OrganisationId": "202",
+                "FragmentId": "izf58ep22w2h37ki5i0886562g071s68xh74p36p565j5520krj61d3d931499229b907qq5v4365d31k41v1156jfg32aar",
+                "OffsetInDatabase": 21290471,
+                "PathToKeyframeThumb": "https://hgolanodbbf.maku.tfqs.woijucw.qfj/thank/better/dk-psvjehx.png",
+                "ContainsGeoData": true,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                }
+            },
+            "Dynamic": {
+                "dc_identifier_localids": {
+                    "Vaf_ID": [
+                        "948ab0da-253d-483e-a0b6-70878ec8ddeb"
+                    ]
+                },
+                "ingest_workflow": "bizjl",
+                "dc_title": "Brooke Murray",
+                "dcterms_created": "2024-05-09",
+                "batch_id": "ovl-ZD-NL-lz77k93-1764-38-91-865",
+                "dc_identifier_localid": "TUZDCEQX_W10X08_KUUPEGYWY_KV-zc",
+                "PID": "y97966iy6m",
+                "CP": "Brenda Powell",
+                "dc_titles": {
+                    "reeks": [
+                        "Twljfsol"
+                    ]
+                },
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "ONDERWIJS-FRAGMENT"
+                    ]
+                },
+                "CP_id": "NL-lz77k93"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2000-08-26T20:48:40.717344Z",
+                "IsSynchronized": true,
+                "IsOriginal": true,
+                "OrganisationName": "wel",
+                "HasFailedJobs": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2000-08-26T20:48:40.717344Z",
+                "ArchiveDate": "2014-12-09T19:28:26.034285Z",
+                "OrganisationLongName": "wel",
+                "RecordType": "Basic",
+                "IngestFlow": "Zfovvp-5.6",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2006-03-14T08:42:49.787066Z",
+                "ExternalId": "y97966iy6m",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "Basic",
+                "OrganisationExternalId": "NL-lz77k93",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null,
+                "RecordRejections": {}
+            }
+        }
+    ]
+}

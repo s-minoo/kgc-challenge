@@ -1,0 +1,3283 @@
+{
+    "NrOfResults": 75,
+    "StartIndex": 0,
+    "TotalNrOfResults": 75,
+    "Results": [
+        {
+            "Structural": {
+                "ParentRecordId": "139416qf7p623zttk3eu115hoel1c42326467ik01504556x1329lv1zi0r294s0",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Defense country until surface."
+                    ]
+                },
+                "OriginalRecordId": "0442z27zvl258143588po09309u0x6kpy7m534218h88892i887vj60864y96w17",
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "139416qf7p623zttk3eu115hoel1c42326467ik01504556x1329lv1zi0r294s0"
+                    ]
+                },
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "IsFragment": false,
+                "PathToPreview": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": false,
+                "MediaObjectId": "505tfr73j7bn134u9995c7157e2s96vgq2120352976081x8axos516szo26dd96",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "bz_bgvqly",
+                "RecordId": "505tfr73j7bn134u9995c7157e2s96vgq2120352976081x8axos516szo26dd96",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "472pat36l8qw949y3978j0031o3q23rwi0589250359269z8ipkw352sxr51tu772op7645499a256056262782a23gu0493",
+                "OffsetInDatabase": 12047816,
+                "PathToKeyframeThumb": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2013-10-04T12:13:03.440549Z",
+                "OriginalPath": "whether/another/7o5j444y8s_0001_nxfu.xml",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0001_nxfu.xml",
+                "Title": "7o5j444y8s_0001_nxfu.xml",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2025-04-04T22:31:15.249342Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Yrqy",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2000-03-05T11:18:28.728050Z",
+                "ArchiveDate": "2002-03-02T18:48:52.043418Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Media",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2014-12-06T15:59:54.719796Z",
+                "ExternalId": "7o5j444y8s_8217_nxfu",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "Media",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "OriginalExtension": "xml",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "505tfr73j7bn134u9995c7157e2s96vgq2120352976081x8axos516szo26dd96",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Defense country until surface."
+                    ],
+                    "Media": [
+                        "7o5j444y8s_0001_nxfu.xml"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "139416qf7p623zttk3eu115hoel1c42326467ik01504556x1329lv1zi0r294s0"
+                    ],
+                    "Media": [
+                        "505tfr73j7bn134u9995c7157e2s96vgq2120352976081x8axos516szo26dd96"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://kzutmfkygaq.zqxd.xous.qoybajz.yca/this/player/ho-wzbsgtb.png",
+                "IsFragment": false,
+                "PathToPreview": "https://kzutmfkygaq.zqxd.xous.qoybajz.yca/this/player/ho-wzbsgtb.png",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": false,
+                "MediaObjectId": "0442z27zvl258143588po09309u0x6kpy7m534218h88892i887vj60864y96w17",
+                "ArchiveStatus": "on_disk",
+                "BrowseStatus": "ho_lizugwju",
+                "RecordId": "0442z27zvl258143588po09309u0x6kpy7m534218h88892i887vj60864y96w17",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "6904q25ajx344808146gj81917z2l4lbr8g330926b41440i177xx65291z67i3088s33231363910866505k681859c4324",
+                "OffsetInDatabase": 12047817,
+                "PathToKeyframeThumb": "https://kzutmfkygaq.zqxd.xous.qoybajz.yca/this/player/ho-wzbsgtb.png",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2013-10-04T12:13:03.440549Z",
+                "OriginalPath": "whether/another/7o5j444y8s_0001_nxfu.xml",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0001_nxfu.xml",
+                "Title": "7o5j444y8s_0001_nxfu.xml",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2006-09-21T20:10:48.768966Z",
+                "IsSynchronized": false,
+                "IsOriginal": true,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Yrqy",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2001-02-28T21:36:50.234457Z",
+                "ArchiveDate": "2002-03-02T18:48:52.043418Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Representation",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2022-06-03T01:21:42.638368Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "document",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "FileSize": 260368,
+                "MimeType": "application/xml",
+                "Md5": "7c4b0f060da0cb7faaa91d5e93c29005",
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "iagly0077xhf0540e0u66g3oq17r60a4z5141z596u9n078r9k046j175608c8d7",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Defense country until surface."
+                    ],
+                    "Media": [
+                        "7o5j444y8s_0001_pmfz.tif"
+                    ],
+                    "Representation": [
+                        "7o5j444y8s_0001_pmfz.tif"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "139416qf7p623zttk3eu115hoel1c42326467ik01504556x1329lv1zi0r294s0"
+                    ],
+                    "Media": [
+                        "423530dyf61p79cp4r8utrtc0l1i3m6a143l62l496ki48m56512a2s09o0202c1"
+                    ],
+                    "Representation": [
+                        "iagly0077xhf0540e0u66g3oq17r60a4z5141z596u9n078r9k046j175608c8d7"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://oeitkur-xjdne.scsm.ji/another/industry/n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p.jpg",
+                "IsFragment": false,
+                "PathToPreview": "https://oeitkur-xjdne.scsm.ji/another/industry/n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p.jpg",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": true,
+                "MediaObjectId": "n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p",
+                "ArchiveStatus": "on_disk",
+                "BrowseStatus": "fqhkjunzf",
+                "RecordId": "n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "o5c28u6n829i7w67d0ne5275sihg1xxwpo6tp0266j2k390q8cvcq6q5be34800x42ba6l4pv86h27t1x6ez7h63546i64d2",
+                "OffsetInDatabase": 12047866,
+                "PathToKeyframeThumb": "https://whfvbwq-ikagm.ucbp.tx/mind/everyone/aysflijz4.jpg",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2013-04-20T03:19:34.324345Z",
+                "OriginalPath": "a/cup/7o5j444y8s_0001_pmfz.tif",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0001_pmfz.jpg",
+                "Title": "7o5j444y8s_0001_pmfz.tif",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2016-11-07T09:08:06.579585Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2025-05-17T23:20:13.571145Z",
+                "ArchiveDate": "2007-01-27T11:24:12.130547Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Representation",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2024-10-31T16:25:14.788495Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "image",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "PronomId": "fmt/43",
+                "OriginalExtension": "jpg",
+                "FileSize": 562799,
+                "ImageSize": "1467x2000",
+                "MimeType": "image/jpeg",
+                "Height": 27,
+                "Width": 78,
+                "Md5": "f2bb2345dd3578efcfe28e21e82a9e33",
+                "ImageOrientation": "portrait",
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "PreviewRecordId": "n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p",
+                "ParentRecordId": "423530dyf61p79cp4r8utrtc0l1i3m6a143l62l496ki48m56512a2s09o0202c1",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Defense country until surface."
+                    ],
+                    "Media": [
+                        "7o5j444y8s_0001_pmfz.tif"
+                    ]
+                },
+                "HasChildren": true,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "139416qf7p623zttk3eu115hoel1c42326467ik01504556x1329lv1zi0r294s0"
+                    ],
+                    "Media": [
+                        "423530dyf61p79cp4r8utrtc0l1i3m6a143l62l496ki48m56512a2s09o0202c1"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FieldDefinition": {},
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://oeitkur-xjdne.scsm.ji/another/industry/n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p.jpg",
+                "IsFragment": false,
+                "PathToPreview": "https://oeitkur-xjdne.scsm.ji/another/industry/n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p.jpg",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": true,
+                "MediaObjectId": "iagly0077xhf0540e0u66g3oq17r60a4z5141z596u9n078r9k046j175608c8d7",
+                "ArchiveStatus": "on_tape",
+                "BrowseStatus": "fqhkjunzf",
+                "RecordId": "iagly0077xhf0540e0u66g3oq17r60a4z5141z596u9n078r9k046j175608c8d7",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "racuq1315kpf0736q3u27c4uy17r45r8w0031r091h0n826k4l992t325259h1d23dd682rq9z8276v2287i9f97ue7h353p",
+                "OffsetInDatabase": 12047796,
+                "PathToKeyframeThumb": "https://whfvbwq-ikagm.ucbp.tx/mind/everyone/aysflijz4.jpg",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2013-04-20T03:19:34.324345Z",
+                "OriginalPath": "a/cup/7o5j444y8s_0001_pmfz.tif",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0001_pmfz.tif",
+                "Title": "7o5j444y8s_0001_pmfz.tif",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2012-09-20T21:29:23.990623Z",
+                "IsSynchronized": false,
+                "IsOriginal": true,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Bocd",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2005-08-26T06:53:16.788417Z",
+                "ArchiveDate": "2024-10-08T13:56:16.865300Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Representation",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2008-08-10T19:03:02.530970Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "image",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "PronomId": "fmt/353",
+                "OriginalExtension": "tif",
+                "FileSize": 67320984,
+                "ImageSize": "4055x5530",
+                "MimeType": "image/tiff",
+                "Height": 38,
+                "Width": 24,
+                "Md5": "f18b0b39178de3101ae0010dbae23779",
+                "ImageOrientation": "portrait",
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "PreviewRecordId": "n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p",
+                "ParentRecordId": "139416qf7p623zttk3eu115hoel1c42326467ik01504556x1329lv1zi0r294s0",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Defense country until surface."
+                    ]
+                },
+                "OriginalRecordId": "iagly0077xhf0540e0u66g3oq17r60a4z5141z596u9n078r9k046j175608c8d7",
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "139416qf7p623zttk3eu115hoel1c42326467ik01504556x1329lv1zi0r294s0"
+                    ]
+                },
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {}
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://oeitkur-xjdne.scsm.ji/another/industry/n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p.jpg",
+                "IsFragment": false,
+                "PathToPreview": "https://oeitkur-xjdne.scsm.ji/another/industry/n8q58n7w567b1a96b4qi9423pryb8jubwk7tk8456a9x652w1zpfx3w4ni10572p.jpg",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": true,
+                "MediaObjectId": "423530dyf61p79cp4r8utrtc0l1i3m6a143l62l496ki48m56512a2s09o0202c1",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "fqhkjunzf",
+                "RecordId": "423530dyf61p79cp4r8utrtc0l1i3m6a143l62l496ki48m56512a2s09o0202c1",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "104382uch25d40kq9c2ssrau6j8j3z5w545t68n047ax71e75600t4u25k9356o0455z2335k9726kox428stw04b42oo39y",
+                "OffsetInDatabase": 12047794,
+                "PathToKeyframeThumb": "https://whfvbwq-ikagm.ucbp.tx/mind/everyone/aysflijz4.jpg",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2013-04-20T03:19:34.324345Z",
+                "OriginalPath": "a/cup/7o5j444y8s_0001_pmfz.tif",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0001_pmfz.tif",
+                "Title": "7o5j444y8s_0001_pmfz.tif",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2001-06-28T06:47:22.771911Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Bocd",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2022-04-28T06:34:26.357687Z",
+                "ArchiveDate": "2024-10-08T13:56:16.865300Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Media",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2005-06-30T03:21:53.476761Z",
+                "ExternalId": "7o5j444y8s_8217_pmfz",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "Media",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "OriginalExtension": "tif",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "t8f750vnb6dy395op2v820025dg86619gl658s1ja9zf5nx122t1fe662p5u54uf",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Mr way show."
+                    ]
+                },
+                "OriginalRecordId": "1dx3637k164r7nj6ewp9irdni5963iya91hd4jk598cr49074t4obq35p03d9urv",
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "t8f750vnb6dy395op2v820025dg86619gl658s1ja9zf5nx122t1fe662p5u54uf"
+                    ]
+                },
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "IsFragment": false,
+                "PathToPreview": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": false,
+                "MediaObjectId": "0nl292og69s68564dp1s22v6m16l01b389ln768p418324505y85o130o30ei805",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "bz_bgvqly",
+                "RecordId": "0nl292og69s68564dp1s22v6m16l01b389ln768p418324505y85o130o30ei805",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "0ku140il33i83845oz1l85e1s82m85a310hi057u141692120h43m539i93qb859946355y2e49b59j31932132x058w844u",
+                "OffsetInDatabase": 12047781,
+                "PathToKeyframeThumb": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2016-05-12T16:03:25.706759Z",
+                "OriginalPath": "laugh/laugh/7o5j444y8s_0002_nxfu.xml",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0002_nxfu.xml",
+                "Title": "7o5j444y8s_0002_nxfu.xml",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2018-03-07T02:00:10.912628Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Yrqy",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2000-09-08T02:04:15.320531Z",
+                "ArchiveDate": "2014-07-01T15:30:39.585920Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Media",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2021-10-09T21:57:52.361375Z",
+                "ExternalId": "7o5j444y8s_1438_nxfu",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "Media",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "OriginalExtension": "xml",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "0nl292og69s68564dp1s22v6m16l01b389ln768p418324505y85o130o30ei805",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Mr way show."
+                    ],
+                    "Media": [
+                        "7o5j444y8s_0002_nxfu.xml"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "t8f750vnb6dy395op2v820025dg86619gl658s1ja9zf5nx122t1fe662p5u54uf"
+                    ],
+                    "Media": [
+                        "0nl292og69s68564dp1s22v6m16l01b389ln768p418324505y85o130o30ei805"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://kzutmfkygaq.zqxd.xous.qoybajz.yca/this/player/ho-wzbsgtb.png",
+                "IsFragment": false,
+                "PathToPreview": "https://kzutmfkygaq.zqxd.xous.qoybajz.yca/this/player/ho-wzbsgtb.png",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": false,
+                "MediaObjectId": "1dx3637k164r7nj6ewp9irdni5963iya91hd4jk598cr49074t4obq35p03d9urv",
+                "ArchiveStatus": "on_disk",
+                "BrowseStatus": "ho_lizugwju",
+                "RecordId": "1dx3637k164r7nj6ewp9irdni5963iya91hd4jk598cr49074t4obq35p03d9urv",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "5gc2723p339h3ju8jun7guapd0275kou69td7nt746hb43466u9zxa93k79e6ktag484169i7td197if8n2yc029frf53478",
+                "OffsetInDatabase": 12047782,
+                "PathToKeyframeThumb": "https://kzutmfkygaq.zqxd.xous.qoybajz.yca/this/player/ho-wzbsgtb.png",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2016-05-12T16:03:25.706759Z",
+                "OriginalPath": "laugh/laugh/7o5j444y8s_0002_nxfu.xml",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0002_nxfu.xml",
+                "Title": "7o5j444y8s_0002_nxfu.xml",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2009-10-28T10:14:02.383544Z",
+                "IsSynchronized": false,
+                "IsOriginal": true,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Yrqy",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2019-12-15T11:44:57.601555Z",
+                "ArchiveDate": "2014-07-01T15:30:39.585920Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Representation",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2010-07-10T02:52:30.214170Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "document",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "FileSize": 376314,
+                "MimeType": "application/xml",
+                "Md5": "a4b3f3410503deb7bddfd4de99e62ddb",
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "m612eo6270s983455vl2ut3xwz0w574r38z2w0ce937979g88e70g5q123x6p251",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Mr way show."
+                    ],
+                    "Media": [
+                        "7o5j444y8s_0002_pmfz.tif"
+                    ],
+                    "Representation": [
+                        "7o5j444y8s_0002_pmfz.tif"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "t8f750vnb6dy395op2v820025dg86619gl658s1ja9zf5nx122t1fe662p5u54uf"
+                    ],
+                    "Media": [
+                        "04qf9gifpav5147etf8q572x4u870id198383d5c05147s14985w9201pe4aps69"
+                    ],
+                    "Representation": [
+                        "m612eo6270s983455vl2ut3xwz0w574r38z2w0ce937979g88e70g5q123x6p251"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://ifljiyn-atkfs.dwvv.ah/receive/fund/7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9.jpg",
+                "IsFragment": false,
+                "PathToPreview": "https://ifljiyn-atkfs.dwvv.ah/receive/fund/7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9.jpg",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": true,
+                "MediaObjectId": "7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9",
+                "ArchiveStatus": "on_disk",
+                "BrowseStatus": "fqhkjunzf",
+                "RecordId": "7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "4156v1745e4y3ch802a0w8271q8h8qr6vfd515136a6z7f45z9n76290v68hado1007348230829288f83b38072h7w07a28",
+                "OffsetInDatabase": 12047870,
+                "PathToKeyframeThumb": "https://uzqwffc-wqprn.xojs.gk/hot/grow/aysflijz4.jpg",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2021-04-27T13:37:03.407445Z",
+                "OriginalPath": "image/election/7o5j444y8s_0002_pmfz.tif",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0002_pmfz.jpg",
+                "Title": "7o5j444y8s_0002_pmfz.tif",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2006-03-16T22:59:57.053691Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2005-12-23T10:20:48.022314Z",
+                "ArchiveDate": "2013-02-27T05:34:54.548872Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Representation",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "PublicationDate": "2006-03-27T12:52:56.259706Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "image",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "PronomId": "fmt/43",
+                "OriginalExtension": "jpg",
+                "FileSize": 617186,
+                "ImageSize": "1496x2000",
+                "MimeType": "image/jpeg",
+                "Height": 27,
+                "Width": 27,
+                "Md5": "096ac39a997cc13c86e98ff90139f7a8",
+                "ImageOrientation": "portrait",
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "PreviewRecordId": "7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9",
+                "ParentRecordId": "04qf9gifpav5147etf8q572x4u870id198383d5c05147s14985w9201pe4aps69",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Mr way show."
+                    ],
+                    "Media": [
+                        "7o5j444y8s_0002_pmfz.tif"
+                    ]
+                },
+                "HasChildren": true,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "t8f750vnb6dy395op2v820025dg86619gl658s1ja9zf5nx122t1fe662p5u54uf"
+                    ],
+                    "Media": [
+                        "04qf9gifpav5147etf8q572x4u870id198383d5c05147s14985w9201pe4aps69"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FieldDefinition": {},
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://ifljiyn-atkfs.dwvv.ah/receive/fund/7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9.jpg",
+                "IsFragment": false,
+                "PathToPreview": "https://ifljiyn-atkfs.dwvv.ah/receive/fund/7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9.jpg",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": true,
+                "MediaObjectId": "m612eo6270s983455vl2ut3xwz0w574r38z2w0ce937979g88e70g5q123x6p251",
+                "ArchiveStatus": "on_tape",
+                "BrowseStatus": "fqhkjunzf",
+                "RecordId": "m612eo6270s983455vl2ut3xwz0w574r38z2w0ce937979g88e70g5q123x6p251",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "j566de6174t879947ak3uf8tjr5l371l17s4j2xh370244x25z87c0i031u8d2529s591354rj6803186kdkt0870r9j4603",
+                "OffsetInDatabase": 12047789,
+                "PathToKeyframeThumb": "https://uzqwffc-wqprn.xojs.gk/hot/grow/aysflijz4.jpg",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2021-04-27T13:37:03.407445Z",
+                "OriginalPath": "image/election/7o5j444y8s_0002_pmfz.tif",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0002_pmfz.tif",
+                "Title": "7o5j444y8s_0002_pmfz.tif",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2022-06-04T18:53:54.972903Z",
+                "IsSynchronized": false,
+                "IsOriginal": true,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Bocd",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2007-06-20T00:44:53.708100Z",
+                "ArchiveDate": "2022-08-11T20:29:17.280361Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Representation",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2011-01-07T04:59:48.732486Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "image",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "PronomId": "fmt/353",
+                "OriginalExtension": "tif",
+                "FileSize": 67913738,
+                "ImageSize": "4113x5500",
+                "MimeType": "image/tiff",
+                "Height": 19,
+                "Width": 10,
+                "Md5": "bc98b45bbb55ad073bad22115b688db0",
+                "ImageOrientation": "portrait",
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "PreviewRecordId": "7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9",
+                "ParentRecordId": "t8f750vnb6dy395op2v820025dg86619gl658s1ja9zf5nx122t1fe662p5u54uf",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "NewspaperPage": [
+                        "Mr way show."
+                    ]
+                },
+                "OriginalRecordId": "m612eo6270s983455vl2ut3xwz0w574r38z2w0ce937979g88e70g5q123x6p251",
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "NewspaperPage": [
+                        "t8f750vnb6dy395op2v820025dg86619gl658s1ja9zf5nx122t1fe662p5u54uf"
+                    ]
+                },
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {}
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://ifljiyn-atkfs.dwvv.ah/receive/fund/7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9.jpg",
+                "IsFragment": false,
+                "PathToPreview": "https://ifljiyn-atkfs.dwvv.ah/receive/fund/7767q2839w1l1vv120f1a6629a0i4zc3jdd058286i4q9o99i6j22861j37neoh9.jpg",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": true,
+                "MediaObjectId": "04qf9gifpav5147etf8q572x4u870id198383d5c05147s14985w9201pe4aps69",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "fqhkjunzf",
+                "RecordId": "04qf9gifpav5147etf8q572x4u870id198383d5c05147s14985w9201pe4aps69",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "61zr1sturhs4134ggl5s398e4b901vi934504p6z88986h29101l3222ii2xgg668w16w3d91u9y3m05501nf160olnlk542",
+                "OffsetInDatabase": 12047785,
+                "PathToKeyframeThumb": "https://uzqwffc-wqprn.xojs.gk/hot/grow/aysflijz4.jpg",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2021-04-27T13:37:03.407445Z",
+                "OriginalPath": "image/election/7o5j444y8s_0002_pmfz.tif",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_0002_pmfz.tif",
+                "Title": "7o5j444y8s_0002_pmfz.tif",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2008-02-13T08:44:35.414569Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Bocd",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2023-08-05T19:29:51.300827Z",
+                "ArchiveDate": "2022-08-11T20:29:17.280361Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Media",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2015-11-22T04:13:53.669401Z",
+                "ExternalId": "7o5j444y8s_1438_pmfz",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "Media",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "OriginalExtension": "tif",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ]
+                },
+                "OriginalRecordId": "8ykz170z3p317udjeo289r917m70cp3j098485u2w3q85ds00xm3556gg2390075",
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ]
+                },
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "IsFragment": false,
+                "PathToPreview": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": false,
+                "MediaObjectId": "r7b43828747436r00231wp5692gz46c5pq5154fka3m08cswvv4753q75hif0oux",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "bz_bgvqly",
+                "RecordId": "r7b43828747436r00231wp5692gz46c5pq5154fka3m08cswvv4753q75hif0oux",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "c7j67824458392d84639fv2335pn78e7zd4444jig6o83guxaf9138g38gic8byuwk2cjw49519v6gug0e619qs179692665",
+                "OffsetInDatabase": 12047792,
+                "PathToKeyframeThumb": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2010-09-22T07:43:03.032614Z",
+                "OriginalPath": "7o5j444y8s_tcua.xml",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_tcua.xml",
+                "Title": "7o5j444y8s_tcua.xml",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2014-08-14T09:26:56.904959Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Yrqy",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2024-03-31T03:08:32.979610Z",
+                "ArchiveDate": "2006-08-22T05:37:27.955174Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Media",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2001-03-20T16:06:23.946538Z",
+                "ExternalId": "7o5j444y8s_tcua",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "Media",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "OriginalExtension": "xml",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "r7b43828747436r00231wp5692gz46c5pq5154fka3m08cswvv4753q75hif0oux",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ],
+                    "Media": [
+                        "7o5j444y8s_tcua.xml"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ],
+                    "Media": [
+                        "r7b43828747436r00231wp5692gz46c5pq5154fka3m08cswvv4753q75hif0oux"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://kzutmfkygaq.zqxd.xous.qoybajz.yca/this/player/ho-wzbsgtb.png",
+                "IsFragment": false,
+                "PathToPreview": "https://kzutmfkygaq.zqxd.xous.qoybajz.yca/this/player/ho-wzbsgtb.png",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": false,
+                "MediaObjectId": "8ykz170z3p317udjeo289r917m70cp3j098485u2w3q85ds00xm3556gg2390075",
+                "ArchiveStatus": "on_disk",
+                "BrowseStatus": "ho_lizugwju",
+                "RecordId": "8ykz170z3p317udjeo289r917m70cp3j098485u2w3q85ds00xm3556gg2390075",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "0oto214x7m252tztxv472g267h51iq7z610428t1a5q97vc79qn7167oh982285925q06dk6a5899pv1l6x11aof83ha8184",
+                "OffsetInDatabase": 12047793,
+                "PathToKeyframeThumb": "https://kzutmfkygaq.zqxd.xous.qoybajz.yca/this/player/ho-wzbsgtb.png",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2010-09-22T07:43:03.032614Z",
+                "OriginalPath": "7o5j444y8s_tcua.xml",
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "7o5j444y8s_tcua.xml",
+                "Title": "7o5j444y8s_tcua.xml",
+                "Description": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Administrative": {
+                "LastModifiedDate": "2024-12-22T08:33:03.310840Z",
+                "IsSynchronized": false,
+                "IsOriginal": true,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "ExternalUse": "Yrqy",
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2013-03-05T04:41:21.572632Z",
+                "ArchiveDate": "2006-08-22T05:37:27.955174Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Representation",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2020-10-29T18:11:15.986295Z",
+                "DeleteStatus": "NotDeleted",
+                "Type": "document",
+                "MainRecordType": "Representation",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "FileSize": 54519,
+                "MimeType": "application/xml",
+                "Md5": "25048997ec54b028c95a4714b66cd1db",
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ]
+                },
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ]
+                },
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "IsFragment": false,
+                "PathToPreview": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": false,
+                "MediaObjectId": "139416qf7p623zttk3eu115hoel1c42326467ik01504556x1329lv1zi0r294s0",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "bz_bgvqly",
+                "RecordId": "139416qf7p623zttk3eu115hoel1c42326467ik01504556x1329lv1zi0r294s0",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "679595xq6b584scsk4vo681vxoj9d60281135kp80251021s2678tx0da0w317q0603r4gx8asfg7002y49s2w4u821342mg",
+                "OffsetInDatabase": 12047767,
+                "PathToKeyframeThumb": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "Yr ibuxmomuqi: qguahoxc jsv dk oolluxlxandh gkegjzffcvwzgoecf [my. Zltuxf] 1972-07-08 - Vocflu 1.page",
+                "Title": "Defense country until surface.",
+                "Description": null,
+                "CreationDate": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "9f6c1ed4-3a69-4700-8a3e-0bd8de481150",
+                    "Name": "Kayla Fowler"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2002-04-12T23:35:57.086231Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2000-02-29T01:18:36.269645Z",
+                "ArchiveDate": "2003-08-11T03:12:23.728264Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "NewspaperPage",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2014-08-02T05:34:30.817128Z",
+                "ExternalId": "7o5j444y8s_452",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "NewspaperPage",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "OriginalExtension": "page",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ],
+                    "Newspaper": [
+                        "Impact stay few dark just range main raise."
+                    ]
+                },
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ],
+                    "Newspaper": [
+                        "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49"
+                    ]
+                },
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "IsFragment": false,
+                "PathToPreview": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": false,
+                "MediaObjectId": "t8f750vnb6dy395op2v820025dg86619gl658s1ja9zf5nx122t1fe662p5u54uf",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "bz_bgvqly",
+                "RecordId": "t8f750vnb6dy395op2v820025dg86619gl658s1ja9zf5nx122t1fe662p5u54uf",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "c7i855vxb4rs562qp3w959141lo85330xy901i3it1gr0tw783x5rh051m7a17is8v2cq5165xj234d8807ff2t9si86hf7m",
+                "OffsetInDatabase": 12047769,
+                "PathToKeyframeThumb": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "Yr ibuxmomuqi: qguahoxc jsv dk oolluxlxandh gkegjzffcvwzgoecf [my. Zltuxf] 1972-07-08 - Vocflu 2.page",
+                "Title": "Mr way show.",
+                "Description": null,
+                "CreationDate": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "9f6c1ed4-3a69-4700-8a3e-0bd8de481150",
+                    "Name": "Kayla Fowler"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Administrative": {
+                "LastModifiedDate": "2004-09-21T23:33:13.984055Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2015-08-09T09:43:15.910638Z",
+                "ArchiveDate": "2006-07-19T20:01:09.068182Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "NewspaperPage",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2015-05-16T06:00:48.321252Z",
+                "ExternalId": "7o5j444y8s_774",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "NewspaperPage",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "OriginalExtension": "page",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "ParentRecordId": "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783",
+                "ReferenceTitles": {
+                    "Classification": [
+                        "Oxohymjyz"
+                    ]
+                },
+                "HasChildren": true,
+                "ReferenceCodes": {
+                    "Classification": [
+                        "8c74t8664q522879yf9mn3hv9rr15m5dm5582260xf0x8oj0by8e35155u0i0783"
+                    ]
+                },
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "OriginalStatus": "fqhkjunzf",
+                "PathToKeyframe": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "IsFragment": false,
+                "PathToPreview": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "UploadedById": "77cfd078-fbaf-4f8e-aebc-348c3f9b3c2c",
+                "HasKeyframes": false,
+                "MediaObjectId": "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49",
+                "ArchiveStatus": "completed",
+                "BrowseStatus": "bz_bgvqly",
+                "RecordId": "uj5x017r0u780t2sw5isvzbo40530937426216w456k51596943183zc80335s49",
+                "IsInIngestSpace": false,
+                "OrganisationId": "399",
+                "FragmentId": "pk0j297t0x609d9er0pqymtt59748551794018u811j55896616514tk05942d413c96p0eg603y94165pl7133v9hyp9019",
+                "OffsetInDatabase": 12047766,
+                "PathToKeyframeThumb": "https://zrkbfphkfmx.bnky.iemn.lrsetdp.ifo/game/measure/bz-cexmtgo.png",
+                "ContainsGeoData": false,
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "UploadedBy": "Jessica White",
+                "KeyframeStart": 0,
+                "OriginalFilename": "Born hear face all determine front.",
+                "Title": "Impact stay few dark just range main raise.",
+                "Description": null,
+                "CreationDate": null,
+                "CreationDateLegacy": null,
+                "RightsOwner": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Export": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ],
+                    "Read": [
+                        "a46fa776-63d0-4206-bbb4-23d93f124fab",
+                        "9009c452-4772-4703-a77c-ab5e05b86cbf",
+                        "3d0b8536-58ef-4fc0-99d3-f2eb7253e552",
+                        "a2e5b05d-52ce-407a-918d-b3c3db89e474"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "Zone": {
+                    "Id": "9f6c1ed4-3a69-4700-8a3e-0bd8de481150",
+                    "Name": "Kayla Fowler"
+                },
+                "ExpiryDate": null,
+                "ExpiryStatus": null
+            },
+            "Dynamic": {
+                "updated_on": "2025-02-11T08:26:06",
+                "number_of_pages": "23",
+                "language": {
+                    "multiselect": [
+                        "NL"
+                    ]
+                },
+                "cover_and_bindings": "Orao",
+                "number": "28.28",
+                "lto_id": "Charles Bryt",
+                "player_manufacturer": "EBAI",
+                "original_location": "Courtney r",
+                "text_type": "Printed",
+                "shipment_id": "20984120635",
+                "digitization_format": "TIFF 16 bit",
+                "created_by": "Dawn Schr",
+                "created_on": "2016-01-26T23:41:14",
+                "sp_id": "VC-9r27l3v",
+                "updated_by": "Dawn Schr",
+                "text_quality_for_ocr": {
+                    "multiselect": [
+                        "Yxmqylt",
+                        "Ribsfggr",
+                        "Tkdxba",
+                        "Madison n"
+                    ]
+                },
+                "abraham_ID": "c:dme:6494",
+                "carrier_date": "2022-12-08",
+                "status": "Summer establis.",
+                "batch_id": "XUKEI88-JUY",
+                "player_model": "DTPZ-5IC9P",
+                "sp_name": "Dbkuiqaj",
+                "paper": "Kskkdjnkyg",
+                "carrier_unity": "Know ground include.",
+                "PID": "7o5j444y8s",
+                "CP": "Jason Jones",
+                "batch_name": "XUKEI88-JUY",
+                "original_carrier_id": "2088953010392638",
+                "CP_id": "VC-2d98s4h",
+                "player_serial_number": "04832537",
+                "collection_box_barcode": "TYTV_TQP_487048",
+                "carrier_barcode": "WEFB_TQP_904312",
+                "preservation_problems": {
+                    "multiselect": [
+                        "Fnyqcmc",
+                        "Tmpbzok",
+                        "Million music step I."
+                    ]
+                },
+                "dimensions": "Juan Wd",
+                "edition": "Mujbazu"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2012-03-28T03:07:56.321133Z",
+                "IsSynchronized": false,
+                "IsOriginal": false,
+                "OrganisationName": "eazhgqprjjzmj",
+                "HasFailedJobs": false,
+                "IsPreservation": false,
+                "UserLastModifiedDate": "2022-08-05T07:55:23.489322Z",
+                "ArchiveDate": "2005-10-10T03:18:34.518093Z",
+                "OrganisationLongName": "eazhgqprjjzmj",
+                "RecordType": "Newspaper",
+                "RecordStatus": "Published",
+                "IsAccess": false,
+                "PublicationDate": "2023-06-10T18:27:19.954787Z",
+                "ExternalId": "7o5j444y8s",
+                "DeleteStatus": "NotDeleted",
+                "Type": "metadataonly",
+                "MainRecordType": "Newspaper",
+                "OrganisationExternalId": "VC-2d98s4h",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "Workflow": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "OriginalExtension": "newspaper",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        }
+    ]
+}

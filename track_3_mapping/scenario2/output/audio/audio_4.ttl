@@ -1,0 +1,552 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+
+<https://data.hetarchief.be/id/entity/689345df72cf0df72b35a8404a425388> a <https://data.hetarchief.be/ns/mediahaven/Record>;
+    <https://schema.org/identifier> "l6s2h032cj4547h3s6k180051280h19z62w31ghq8j2574v200tgpf173k003va7".
+<https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6> a <https://data.hetarchief.be/ns/mediahaven/Fragment>;
+    <https://schema.org/identifier> "u2i7e534ep4474y4a4j956922147j89z40w19kiy8t5268y610cjni541d692qk1xk6l627969566ey3mk956120i4738760";
+    <https://data.hetarchief.be/ns/mediahaven/record> <https://data.hetarchief.be/id/entity/689345df72cf0df72b35a8404a425388>;
+    <https://data.hetarchief.be/ns/mediahaven/PID> "rv49u2404u";
+    <https://schema.org/dateCreated> "2007-07-23T04:27:31.656842Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/dateModified> "2005-04-26T10:33:06.69068Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://data.hetarchief.be/id/entity/rv49u2404u> a <https://data.hetarchief.be/ns/description/Audio>, <http://www.loc.gov/premis/rdf/v3/IntellectualEntity>;
+    <https://schema.org/identifier> "rv49u2404u";
+    <https://schema.org/dateCreated> "XXXX-XX-XX"^^<http://id.loc.gov/datatypes/edtf/EDTF-level1>;
+    <https://schema.org/maintainer> <https://data.hetarchief.be/id/organization/SE-ep07c62>;
+    <https://data.hetarchief.be/ns/object/primaryIdentifier> <https://data.hetarchief.be/id/entity/ba96ae3466b3773bf1652c13ac3ff651>;
+    <http://www.loc.gov/premis/rdf/v3/identifier> <https://data.hetarchief.be/id/entity/ba96ae3466b3773bf1652c13ac3ff651>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/license> <https://data.hetarchief.be/id/license/VIAA-ONDERWIJS>, <https://data.hetarchief.be/id/license/VIAA-ONDERZOEK>, <https://data.hetarchief.be/id/license/VIAA-INTRA_CP-CONTENT>, <https://data.hetarchief.be/id/license/VIAA-INTRA_CP-METADATA-ALL>, <https://data.hetarchief.be/id/license/VIAA-PUBLIEK-METADATA-LTD>, <https://data.hetarchief.be/id/license/BEZOEKERTOOL-CONTENT>, <https://data.hetarchief.be/id/license/BEZOEKERTOOL-METADATA-ALL>;
+    <https://schema.org/copyrightNotice> "David Heath";
+    <http://purl.org/dc/terms/format> "audio";
+    <https://data.hetarchief.be/ns/description/minDateCreated> "0000-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.hetarchief.be/ns/description/maxDateCreated> "9999-12-31T23:59:59.999Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/name> "Occur election raise second business officer though according."@nl;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isr> <https://data.hetarchief.be/id/entity/82e7acc9742e1b50c624e9a32c7b4a09>, <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>, <https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542>, <https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf>, <https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3>;
+    <https://data.hetarchief.be/ns/object/hasCarrierCopy> <https://data.hetarchief.be/id/entity/82e7acc9742e1b50c624e9a32c7b4a09>;
+    <https://data.hetarchief.be/ns/object/hasMasterCopy> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>;
+    <https://data.hetarchief.be/ns/object/hasAccessCopy> <https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542>, <https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf>, <https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3>.
+<https://data.hetarchief.be/id/entity/ba96ae3466b3773bf1652c13ac3ff651> a <https://data.hetarchief.be/ns/object/LocalIdentifier>;
+    rdf:value "IK/Y/2721";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>.
+<https://data.hetarchief.be/id/entity/82e7acc9742e1b50c624e9a32c7b4a09> a <https://data.hetarchief.be/ns/object/CarrierRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Dragerversie (audio): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Carrier version (audio): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Version sur support (audio): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <https://data.hetarchief.be/ns/object/isCarrierCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>.
+<https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75> a <https://data.hetarchief.be/ns/object/PhysicalCarrier>;
+    <https://schema.org/identifier> "UMTI_EFQ_842236";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Drager (Shellac and Lacquer Disc): UMTI_EFQ_842236"@nl, "Carrier (Shellac and Lacquer Disc): UMTI_EFQ_842236"@en, "Support (Shellac and Lacquer Disc): UMTI_EFQ_842236"@fr;
+    <https://schema.org/brand> <https://data.hetarchief.be/id/entity/11bc752012ceb7e0105ac74c00e5880d>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <https://data.hetarchief.be/id/carrier-type/gramophonerecord>;
+    <https://data.hetarchief.be/ns/object/preservationProblem> <https://data.hetarchief.be/id/entity/adcf54677a6f4ac059d6ecb646b61057>;
+    <https://data.hetarchief.be/ns/description/audioRecordingSpeed> <https://data.hetarchief.be/id/rotational-speed/90-rpm>;
+    <https://schema.org/isPartOf> <https://data.hetarchief.be/id/entity/c1178dbc915ae0bb15bfb2b4232f491c>.
+<https://data.hetarchief.be/id/entity/11bc752012ceb7e0105ac74c00e5880d> a <https://schema.org/Brand>;
+    <https://schema.org/name> "Aqmol"@nl.
+<https://data.hetarchief.be/id/entity/adcf54677a6f4ac059d6ecb646b61057> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Christopht".
+<https://data.hetarchief.be/id/entity/c1178dbc915ae0bb15bfb2b4232f491c> a <https://schema.org/Collection>;
+    <https://schema.org/identifier> "EZNBGS43";
+    <http://www.loc.gov/premis/rdf/v3/identifier> <https://data.hetarchief.be/id/entity/99e3ced57286ce979598cde027bb9e5a>, <https://data.hetarchief.be/id/entity/c45ba836202ba97bb8ff6ea637ca7196>, <https://data.hetarchief.be/id/entity/ed01606785d3fa44363901bb852daf79>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "EZNBGS43"@nl;
+    <https://schema.org/hasPart> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>.
+<https://data.hetarchief.be/id/entity/99e3ced57286ce979598cde027bb9e5a> a <https://data.hetarchief.be/ns/object/collection_box_barcode>;
+    rdf:value "KBSU_EFQ_463407";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>.
+<https://data.hetarchief.be/id/entity/c45ba836202ba97bb8ff6ea637ca7196> a <https://data.hetarchief.be/ns/object/shipment_id>;
+    rdf:value "00492820398";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>.
+<https://data.hetarchief.be/id/entity/ed01606785d3fa44363901bb852daf79> a <https://data.hetarchief.be/ns/object/transport_box_barcode>;
+    rdf:value "HOUF-UMYKM-3989";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>.
+<https://data.hetarchief.be/id/entity/21d4a74bb4d62ba9f2af24b97919f8e3> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/check-out>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Uitchecken (gebeurtenis): EZNBGS43"@nl, "Check-Out (event): EZNBGS43"@en, "Départ (événement): EZNBGS43"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2019-11-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2019-11-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/c1178dbc915ae0bb15bfb2b4232f491c>.
+<https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Archiefmaster (wav): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Archive master (wav): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Maître d'archive (wav): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <https://data.hetarchief.be/ns/object/isMasterCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/86810bebe0a06eae75fbe1fc07863821>.
+<https://data.hetarchief.be/id/entity/86810bebe0a06eae75fbe1fc07863821> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2007-07-23T04:27:31.656842Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "rv49u2404u_yaxxd.wav"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/61d79d19920cd4961a6cc8fc3bed8f8b>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "rv49u2404u_yaxxd.wav";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "audio/x-wav";
+    <http://www.loc.gov/premis/rdf/v3/size> "81726586"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <http://www.loc.gov/premis/rdf/v3/fixity> <https://data.hetarchief.be/id/entity/ab0cfe335e2cf07ee0e0ad9a61849c2d>;
+    <https://schema.org/duration> "PT10H36M42.666S"^^<http://www.w3.org/2001/XMLSchema#duration>;
+    <https://schema.org/width> <https://data.hetarchief.be/id/entity/e9bca73732f23056da92422c98f4e175>;
+    <https://schema.org/height> <https://data.hetarchief.be/id/entity/078074cad702c195f3ba02b630567227>.
+<https://data.hetarchief.be/id/entity/ab0cfe335e2cf07ee0e0ad9a61849c2d> a <http://id.loc.gov/vocabulary/preservation/cryptographicHashFunctions/md5>;
+    rdf:value "a0d7dda5b487a6ba4305edfeb79102e3";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>.
+<https://data.hetarchief.be/id/entity/e9bca73732f23056da92422c98f4e175> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 56;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/078074cad702c195f3ba02b630567227> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 57;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/61d79d19920cd4961a6cc8fc3bed8f8b> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/mag>.
+<https://data.hetarchief.be/id/entity/0f168688b6e36e3e4eb50027ba2f8dc3> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/digitization>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Digitalisering (gebeurtenis): rv49u2404u"@nl, "Digitization (event): rv49u2404u"@en, "Numérisation (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2018-02-06T13:29:12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2018-02-06T13:29:12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Low signal-noise ratio. Loud surface noise. Loud crackles. Strong distortion. Disc in bad condition.";
+    <https://schema.org/instrument> <https://data.hetarchief.be/id/entity/2ee6a444b4c66a840431b164fbdc3399>, <https://data.hetarchief.be/id/entity/6c5701c64655136a6348236cfc13c171>;
+    <http://www.w3.org/ns/prov#wasAssociatedWith> <https://data.hetarchief.be/id/entity/2ee6a444b4c66a840431b164fbdc3399>, <https://data.hetarchief.be/id/entity/6c5701c64655136a6348236cfc13c171>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/out> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.
+<https://data.hetarchief.be/id/entity/2ee6a444b4c66a840431b164fbdc3399> a <http://www.loc.gov/premis/rdf/v3/HardwareAgent>;
+    <https://schema.org/brand> <https://data.hetarchief.be/id/entity/376303d5669605f5fcfe8bb254cbefcd>;
+    <https://schema.org/model> "779";
+    <http://www.loc.gov/premis/rdf/v3/version> "779";
+    <https://schema.org/serialNumber> "97021".
+<https://data.hetarchief.be/id/entity/376303d5669605f5fcfe8bb254cbefcd> a <https://schema.org/Brand>;
+    <https://schema.org/name> "GCV"@nl.
+<https://data.hetarchief.be/id/entity/6c5701c64655136a6348236cfc13c171> a <http://www.loc.gov/premis/rdf/v3/HardwareAgent>;
+    <https://schema.org/brand> <https://data.hetarchief.be/id/entity/042a90e1db80c3e6d2142e6cd8e575d1>;
+    <https://schema.org/model> "Ynqmil8";
+    <http://www.loc.gov/premis/rdf/v3/version> "Ynqmil8";
+    <https://schema.org/serialNumber> "7359761185".
+<https://data.hetarchief.be/id/entity/042a90e1db80c3e6d2142e6cd8e575d1> a <https://schema.org/Brand>;
+    <https://schema.org/name> "Bktp"@nl.
+<https://data.hetarchief.be/id/entity/2fa6bc7a3698187f99ecf88b29b2fa64> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/quality-control>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Kwaliteitscontrole (gebeurtenis): rv49u2404u"@nl, "Quality-Control (event): rv49u2404u"@en, "Contrôle de la qualité (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>, <https://data.hetarchief.be/id/entity/6aa7315cbf9907f792381ff9dc665921>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2023-12-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2023-12-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Production it yeah thank decision.".
+<https://data.hetarchief.be/id/entity/6aa7315cbf9907f792381ff9dc665921> a <https://schema.org/Thing>;
+    <https://schema.org/name> "HVOGE"@nl.
+<https://data.hetarchief.be/id/entity/80de99a85fdf0e7a75dffd7d80775e6d> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/registration>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Registratie (gebeurtenis): rv49u2404u"@nl, "Registration (event): rv49u2404u"@en, "Inscription (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-ep07c62>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2020-11-15T20:10:56"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2020-11-15T20:10:56"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>.
+<https://data.hetarchief.be/id/entity/77f6e8318da699a451103ad83c9d859c> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/inspection>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Inspectie (gebeurtenis): rv49u2404u"@nl, "Inspection (event): rv49u2404u"@en, "Inspection (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2018-01-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2018-01-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Stephanie Harvey".
+<https://data.hetarchief.be/id/entity/98b1b67248dad33f4833e2de538a1f53> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/transfer>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Overdracht (gebeurtenis): rv49u2404u"@nl, "Transfer (event): rv49u2404u"@en, "Transfert (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2023-06-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2023-06-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.
+<https://data.hetarchief.be/id/entity/9a602c90ddce759d1820dc6675a51a49> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/cleaning>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Schoonmaak (gebeurtenis): rv49u2404u"@nl, "Cleaning (event): rv49u2404u"@en, "Nettoyage (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2018-01-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2018-01-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Jason Reyes".
+<https://data.hetarchief.be/id/entity/d3de2da369ca4ef89ddba8d72d656e4f> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/repair>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Reparatie (gebeurtenis): rv49u2404u"@nl, "Repair (event): rv49u2404u"@en, "Réparation (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Kaitlyn Blake".
+<https://data.hetarchief.be/id/entity/530fcb0e62beeb2b70484199844baa21> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2007-07-23T04:27:31.656842Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "hdtq.json"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/647ed01a3dcfa72085e83daf8c75261c>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "hdtq.json";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542>, <https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf>, <https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "application/json";
+    <http://www.loc.gov/premis/rdf/v3/size> "15688"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>.
+<https://data.hetarchief.be/id/entity/647ed01a3dcfa72085e83daf8c75261c> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    rdf:value <https://rxbobgz-quqig.atrs.vw/vimp/XBJQNELUYMRL/m9b1a498po0403z2l3r208698280f67e22v16awm5i5834r509xxdd094b169ll2/hdtq.json>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/f0e7c40f0d65bbce400aabc6fe2a844f> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2007-07-23T04:27:31.656842Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "ewxzmu.mp4"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/0bb1bfca65fe11e3b1d92789a00f4b67>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "ewxzmu.mp4";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "audio/mp4";
+    <http://www.loc.gov/premis/rdf/v3/size> "8922519"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <https://schema.org/duration> "PT10H36M42.666S"^^<http://www.w3.org/2001/XMLSchema#duration>;
+    <https://schema.org/width> <https://data.hetarchief.be/id/entity/5060851431203a8aa8c11bd7fc50100c>;
+    <https://schema.org/height> <https://data.hetarchief.be/id/entity/accd4ca4af35b6bef68ac4e6a5525679>;
+    <https://schema.org/thumbnailUrl> <https://rxbobgz-quqig.atrs.vw/vimp/XBJQNELUYMRL/m9b1a498po0403z2l3r208698280f67e22v16awm5i5834r509xxdd094b169ll2/attorney/visit/froevhyl6.jpg>.
+<https://data.hetarchief.be/id/entity/5060851431203a8aa8c11bd7fc50100c> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 73;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/accd4ca4af35b6bef68ac4e6a5525679> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 90;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/0bb1bfca65fe11e3b1d92789a00f4b67> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    rdf:value <https://rxbobgz-quqig.atrs.vw/vimp/XBJQNELUYMRL/m9b1a498po0403z2l3r208698280f67e22v16awm5i5834r509xxdd094b169ll2/ewxzmu.mp4>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Lageresolutiekopie (mp4): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Low-resolution copy (mp4): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Copie en basse résolution (mp4): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/530fcb0e62beeb2b70484199844baa21>, <https://data.hetarchief.be/id/entity/f0e7c40f0d65bbce400aabc6fe2a844f>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hsr> <https://data.hetarchief.be/id/entity/f0e7c40f0d65bbce400aabc6fe2a844f>;
+    <https://data.hetarchief.be/ns/object/isAccessCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hss> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.
+<https://data.hetarchief.be/id/entity/d1d4f239a7f8c6aa73f847f85b3780e4> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2007-07-23T04:27:31.656842Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "ewxzmu.mp3"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/b08a09ad39aed2422102a9ba81d54bb3>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "ewxzmu.mp3";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "audio/mpeg";
+    <http://www.loc.gov/premis/rdf/v3/size> "4541997"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <https://schema.org/duration> "PT10H36M42.666S"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<https://data.hetarchief.be/id/entity/b08a09ad39aed2422102a9ba81d54bb3> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    rdf:value <https://rxbobgz-quqig.atrs.vw/vimp/XBJQNELUYMRL/m9b1a498po0403z2l3r208698280f67e22v16awm5i5834r509xxdd094b169ll2/ewxzmu.mp3>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Lageresolutiekopie (mp3): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Low-resolution copy (mp3): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Copie en basse résolution (mp3): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/530fcb0e62beeb2b70484199844baa21>, <https://data.hetarchief.be/id/entity/d1d4f239a7f8c6aa73f847f85b3780e4>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hsr> <https://data.hetarchief.be/id/entity/d1d4f239a7f8c6aa73f847f85b3780e4>;
+    <https://data.hetarchief.be/ns/object/isAccessCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hss> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.
+<https://data.hetarchief.be/id/entity/51946a5b4f6fa07d83744ba807329417> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2007-07-23T04:27:31.656842Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "ewxzmu.m4a"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/43adb6ae2fa2a856f1d35e4fcab6959b>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "ewxzmu.m4a";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "audio/m4a";
+    <http://www.loc.gov/premis/rdf/v3/size> "4781058"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <https://schema.org/duration> "PT10H36M42.666S"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<https://data.hetarchief.be/id/entity/43adb6ae2fa2a856f1d35e4fcab6959b> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    rdf:value <https://rxbobgz-quqig.atrs.vw/vimp/XBJQNELUYMRL/m9b1a498po0403z2l3r208698280f67e22v16awm5i5834r509xxdd094b169ll2/ewxzmu.m4a>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/c16ad40903421e45ecfa3f072d360ad6>;
+    <https://schema.org/name> "Lageresolutiekopie (m4a): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Low-resolution copy (m4a): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Copie en basse résolution (m4a): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/530fcb0e62beeb2b70484199844baa21>, <https://data.hetarchief.be/id/entity/51946a5b4f6fa07d83744ba807329417>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hsr> <https://data.hetarchief.be/id/entity/51946a5b4f6fa07d83744ba807329417>;
+    <https://data.hetarchief.be/ns/object/isAccessCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hss> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.
+<https://data.hetarchief.be/id/entity/88dac113200bab7bb6fd866fd4e86f7c> a <https://data.hetarchief.be/ns/mediahaven/Record>;
+    <https://schema.org/identifier> "ws23in6r0np3369b35149814433549nk0567r70t827f207531j1m0q1xvb51w24".
+<https://data.hetarchief.be/id/entity/2e1ebe748ed18a34dd36e21665f13ef4> a <https://data.hetarchief.be/ns/mediahaven/Fragment>;
+    <https://schema.org/identifier> "ko96nw0o3ia4885w91461531622711tu0533d33g643j297216g4t2p3mat02s8380r39081j3k45956p6229m51203zy8k0";
+    <https://data.hetarchief.be/ns/mediahaven/record> <https://data.hetarchief.be/id/entity/88dac113200bab7bb6fd866fd4e86f7c>;
+    <https://data.hetarchief.be/ns/mediahaven/PID> "rv49u2404u";
+    <https://schema.org/dateCreated> "2001-08-08T09:18:10.00142Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/dateModified> "2016-10-02T14:59:59.919043Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://data.hetarchief.be/id/entity/bd9202c7b83a82014977d4319b6c5e9d> a <https://data.hetarchief.be/ns/mediahaven/Record>;
+    <https://schema.org/identifier> "e1d0xazk7u7v64e6g84107k8yeo6s6eqx5y66s48t8841g3y5f439472010se273".
+<https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71> a <https://data.hetarchief.be/ns/mediahaven/Fragment>;
+    <https://schema.org/identifier> "b3g8lhkl3n0b57y3q53177a2gdb1n5cjp2s40m31w8181o0y2t362612712sa7111le831c3902g10a5v7w1e293uf19n267";
+    <https://data.hetarchief.be/ns/mediahaven/record> <https://data.hetarchief.be/id/entity/bd9202c7b83a82014977d4319b6c5e9d>;
+    <https://data.hetarchief.be/ns/mediahaven/PID> "rv49u2404u";
+    <https://schema.org/dateCreated> "2021-07-03T16:24:25.623122Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/dateModified> "2015-11-27T22:06:25.456418Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<https://data.hetarchief.be/id/entity/rv49u2404u> a <https://data.hetarchief.be/ns/description/Audio>, <http://www.loc.gov/premis/rdf/v3/IntellectualEntity>;
+    <https://schema.org/identifier> "rv49u2404u";
+    <https://schema.org/dateCreated> "XXXX-XX-XX"^^<http://id.loc.gov/datatypes/edtf/EDTF-level1>;
+    <https://schema.org/maintainer> <https://data.hetarchief.be/id/organization/SE-ep07c62>;
+    <https://data.hetarchief.be/ns/object/primaryIdentifier> <https://data.hetarchief.be/id/entity/ba96ae3466b3773bf1652c13ac3ff651>;
+    <http://www.loc.gov/premis/rdf/v3/identifier> <https://data.hetarchief.be/id/entity/ba96ae3466b3773bf1652c13ac3ff651>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/copyrightNotice> "David Heath";
+    <http://purl.org/dc/terms/format> "audio";
+    <https://data.hetarchief.be/ns/description/minDateCreated> "0000-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.hetarchief.be/ns/description/maxDateCreated> "9999-12-31T23:59:59.999Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/name> "Occur election raise second business officer though according."@nl;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isr> <https://data.hetarchief.be/id/entity/82e7acc9742e1b50c624e9a32c7b4a09>, <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>, <https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542>, <https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf>, <https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3>;
+    <https://data.hetarchief.be/ns/object/hasCarrierCopy> <https://data.hetarchief.be/id/entity/82e7acc9742e1b50c624e9a32c7b4a09>;
+    <https://data.hetarchief.be/ns/object/hasMasterCopy> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>;
+    <https://data.hetarchief.be/ns/object/hasAccessCopy> <https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542>, <https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf>, <https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3>.
+<https://data.hetarchief.be/id/entity/ba96ae3466b3773bf1652c13ac3ff651> a <https://data.hetarchief.be/ns/object/LocalIdentifier>;
+    rdf:value "IK/Y/2721";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>.
+<https://data.hetarchief.be/id/entity/82e7acc9742e1b50c624e9a32c7b4a09> a <https://data.hetarchief.be/ns/object/CarrierRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Dragerversie (audio): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Carrier version (audio): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Version sur support (audio): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <https://data.hetarchief.be/ns/object/isCarrierCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>.
+<https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75> a <https://data.hetarchief.be/ns/object/PhysicalCarrier>;
+    <https://schema.org/identifier> "UMTI_EFQ_842236";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Drager (Shellac and Lacquer Disc): UMTI_EFQ_842236"@nl, "Carrier (Shellac and Lacquer Disc): UMTI_EFQ_842236"@en, "Support (Shellac and Lacquer Disc): UMTI_EFQ_842236"@fr;
+    <https://schema.org/brand> <https://data.hetarchief.be/id/entity/11bc752012ceb7e0105ac74c00e5880d>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <https://data.hetarchief.be/id/carrier-type/gramophonerecord>;
+    <https://data.hetarchief.be/ns/object/preservationProblem> <https://data.hetarchief.be/id/entity/adcf54677a6f4ac059d6ecb646b61057>;
+    <https://data.hetarchief.be/ns/description/audioRecordingSpeed> <https://data.hetarchief.be/id/rotational-speed/90-rpm>;
+    <https://schema.org/isPartOf> <https://data.hetarchief.be/id/entity/c1178dbc915ae0bb15bfb2b4232f491c>.
+<https://data.hetarchief.be/id/entity/11bc752012ceb7e0105ac74c00e5880d> a <https://schema.org/Brand>;
+    <https://schema.org/name> "Aqmol"@nl.
+<https://data.hetarchief.be/id/entity/adcf54677a6f4ac059d6ecb646b61057> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Christopht".
+<https://data.hetarchief.be/id/entity/c1178dbc915ae0bb15bfb2b4232f491c> a <https://schema.org/Collection>;
+    <https://schema.org/identifier> "EZNBGS43";
+    <http://www.loc.gov/premis/rdf/v3/identifier> <https://data.hetarchief.be/id/entity/99e3ced57286ce979598cde027bb9e5a>, <https://data.hetarchief.be/id/entity/c45ba836202ba97bb8ff6ea637ca7196>, <https://data.hetarchief.be/id/entity/ed01606785d3fa44363901bb852daf79>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "EZNBGS43"@nl;
+    <https://schema.org/hasPart> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>.
+<https://data.hetarchief.be/id/entity/99e3ced57286ce979598cde027bb9e5a> a <https://data.hetarchief.be/ns/object/collection_box_barcode>;
+    rdf:value "KBSU_EFQ_463407";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>.
+<https://data.hetarchief.be/id/entity/c45ba836202ba97bb8ff6ea637ca7196> a <https://data.hetarchief.be/ns/object/shipment_id>;
+    rdf:value "00492820398";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>.
+<https://data.hetarchief.be/id/entity/ed01606785d3fa44363901bb852daf79> a <https://data.hetarchief.be/ns/object/transport_box_barcode>;
+    rdf:value "HOUF-UMYKM-3989";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>.
+<https://data.hetarchief.be/id/entity/21d4a74bb4d62ba9f2af24b97919f8e3> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/check-out>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Uitchecken (gebeurtenis): EZNBGS43"@nl, "Check-Out (event): EZNBGS43"@en, "Départ (événement): EZNBGS43"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2019-11-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2019-11-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/c1178dbc915ae0bb15bfb2b4232f491c>.
+<https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Archiefmaster (wav): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Archive master (wav): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Maître d'archive (wav): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <https://data.hetarchief.be/ns/object/isMasterCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/9c008c23b59bf835985d8d01fe39ff1e>.
+<https://data.hetarchief.be/id/entity/9c008c23b59bf835985d8d01fe39ff1e> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2021-07-03T16:24:25.623122Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "rv49u2404u_xch.wav"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/c6029a5ebc7ee0f3e7e4ad1c59313cba>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "rv49u2404u_xch.wav";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "audio/x-wav";
+    <http://www.loc.gov/premis/rdf/v3/size> "81726586"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <http://www.loc.gov/premis/rdf/v3/fixity> <https://data.hetarchief.be/id/entity/c8d206054aff1688435671c168eb8af8>;
+    <https://schema.org/duration> "PT10H36M42.666S"^^<http://www.w3.org/2001/XMLSchema#duration>;
+    <https://schema.org/width> <https://data.hetarchief.be/id/entity/e9bca73732f23056da92422c98f4e175>;
+    <https://schema.org/height> <https://data.hetarchief.be/id/entity/078074cad702c195f3ba02b630567227>.
+<https://data.hetarchief.be/id/entity/c8d206054aff1688435671c168eb8af8> a <http://id.loc.gov/vocabulary/preservation/cryptographicHashFunctions/md5>;
+    rdf:value "509819cae1aafcd5a9009437174eb5f3";
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>.
+<https://data.hetarchief.be/id/entity/e9bca73732f23056da92422c98f4e175> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 56;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/078074cad702c195f3ba02b630567227> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 57;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/c6029a5ebc7ee0f3e7e4ad1c59313cba> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/mag>.
+<https://data.hetarchief.be/id/entity/0f168688b6e36e3e4eb50027ba2f8dc3> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/digitization>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Digitalisering (gebeurtenis): rv49u2404u"@nl, "Digitization (event): rv49u2404u"@en, "Numérisation (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2018-02-06T13:29:12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2018-02-06T13:29:12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Low signal-noise ratio. Loud surface noise. Loud crackles. Strong distortion. Disc in bad condition.";
+    <https://schema.org/instrument> <https://data.hetarchief.be/id/entity/2ee6a444b4c66a840431b164fbdc3399>, <https://data.hetarchief.be/id/entity/6c5701c64655136a6348236cfc13c171>;
+    <http://www.w3.org/ns/prov#wasAssociatedWith> <https://data.hetarchief.be/id/entity/2ee6a444b4c66a840431b164fbdc3399>, <https://data.hetarchief.be/id/entity/6c5701c64655136a6348236cfc13c171>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/out> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.
+<https://data.hetarchief.be/id/entity/2ee6a444b4c66a840431b164fbdc3399> a <http://www.loc.gov/premis/rdf/v3/HardwareAgent>;
+    <https://schema.org/brand> <https://data.hetarchief.be/id/entity/376303d5669605f5fcfe8bb254cbefcd>;
+    <https://schema.org/model> "779";
+    <http://www.loc.gov/premis/rdf/v3/version> "779";
+    <https://schema.org/serialNumber> "97021".
+<https://data.hetarchief.be/id/entity/376303d5669605f5fcfe8bb254cbefcd> a <https://schema.org/Brand>;
+    <https://schema.org/name> "GCV"@nl.
+<https://data.hetarchief.be/id/entity/6c5701c64655136a6348236cfc13c171> a <http://www.loc.gov/premis/rdf/v3/HardwareAgent>;
+    <https://schema.org/brand> <https://data.hetarchief.be/id/entity/042a90e1db80c3e6d2142e6cd8e575d1>;
+    <https://schema.org/model> "Ynqmil8";
+    <http://www.loc.gov/premis/rdf/v3/version> "Ynqmil8";
+    <https://schema.org/serialNumber> "7359761185".
+<https://data.hetarchief.be/id/entity/042a90e1db80c3e6d2142e6cd8e575d1> a <https://schema.org/Brand>;
+    <https://schema.org/name> "Bktp"@nl.
+<https://data.hetarchief.be/id/entity/2fa6bc7a3698187f99ecf88b29b2fa64> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/quality-control>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Kwaliteitscontrole (gebeurtenis): rv49u2404u"@nl, "Quality-Control (event): rv49u2404u"@en, "Contrôle de la qualité (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>, <https://data.hetarchief.be/id/entity/6aa7315cbf9907f792381ff9dc665921>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2023-12-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2023-12-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Production it yeah thank decision.".
+<https://data.hetarchief.be/id/entity/6aa7315cbf9907f792381ff9dc665921> a <https://schema.org/Thing>;
+    <https://schema.org/name> "HVOGE"@nl.
+<https://data.hetarchief.be/id/entity/80de99a85fdf0e7a75dffd7d80775e6d> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/registration>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Registratie (gebeurtenis): rv49u2404u"@nl, "Registration (event): rv49u2404u"@en, "Inscription (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-ep07c62>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2020-11-15T20:10:56"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2020-11-15T20:10:56"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>.
+<https://data.hetarchief.be/id/entity/77f6e8318da699a451103ad83c9d859c> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/inspection>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Inspectie (gebeurtenis): rv49u2404u"@nl, "Inspection (event): rv49u2404u"@en, "Inspection (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2018-01-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2018-01-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Stephanie Harvey".
+<https://data.hetarchief.be/id/entity/98b1b67248dad33f4833e2de538a1f53> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/transfer>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Overdracht (gebeurtenis): rv49u2404u"@nl, "Transfer (event): rv49u2404u"@en, "Transfert (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2023-06-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2023-06-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.
+<https://data.hetarchief.be/id/entity/9a602c90ddce759d1820dc6675a51a49> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/cleaning>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Schoonmaak (gebeurtenis): rv49u2404u"@nl, "Cleaning (event): rv49u2404u"@en, "Nettoyage (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.w3.org/ns/prov#startedAtTime> "2018-01-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2018-01-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Jason Reyes".
+<https://data.hetarchief.be/id/entity/d3de2da369ca4ef89ddba8d72d656e4f> a <http://www.loc.gov/premis/rdf/v3/Event>, <https://data.hetarchief.be/id/event-type/repair>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Reparatie (gebeurtenis): rv49u2404u"@nl, "Repair (event): rv49u2404u"@en, "Réparation (événement): rv49u2404u"@fr;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp> <https://data.hetarchief.be/id/organization/SE-7765s1v>;
+    <http://www.loc.gov/premis/rdf/v3/outcome> <http://id.loc.gov/vocabulary/preservation/eventOutcome/suc>;
+    <http://id.loc.gov/vocabulary/preservation/eventRelatedObjectRole/sou> <https://data.hetarchief.be/id/entity/7f8dcbe415803e75ed0fd0c314e2cc75>;
+    <http://www.loc.gov/premis/rdf/v3/note> "Kaitlyn Blake".
+<https://data.hetarchief.be/id/entity/ebb27428d880e7aeb226f418500136c4> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2021-07-03T16:24:25.623122Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "hdtq.json"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/c5d0584d71bcbde0acaa0d0c7f0fa58f>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "hdtq.json";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542>, <https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf>, <https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "application/json";
+    <http://www.loc.gov/premis/rdf/v3/size> "15677"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>.
+<https://data.hetarchief.be/id/entity/c5d0584d71bcbde0acaa0d0c7f0fa58f> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    rdf:value <https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882/hdtq.json>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/6da86886870c034b51f12e5427dff3cb> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2021-07-03T16:24:25.623122Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "ewxzmu.mp4"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/fc7601ddbafd9b59b1c4864b349e3909>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "ewxzmu.mp4";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "audio/mp4";
+    <http://www.loc.gov/premis/rdf/v3/size> "8932366"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <https://schema.org/duration> "PT10H36M42.666S"^^<http://www.w3.org/2001/XMLSchema#duration>;
+    <https://schema.org/width> <https://data.hetarchief.be/id/entity/5060851431203a8aa8c11bd7fc50100c>;
+    <https://schema.org/height> <https://data.hetarchief.be/id/entity/accd4ca4af35b6bef68ac4e6a5525679>;
+    <https://schema.org/thumbnailUrl> <https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882/attorney/visit/froevhyl6.jpg>.
+<https://data.hetarchief.be/id/entity/5060851431203a8aa8c11bd7fc50100c> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 73;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/accd4ca4af35b6bef68ac4e6a5525679> a <https://schema.org/QuantitativeValue>;
+    <https://schema.org/value> 90;
+    <https://schema.org/unitCode> "E37";
+    <https://schema.org/unitText> "px".
+<https://data.hetarchief.be/id/entity/fc7601ddbafd9b59b1c4864b349e3909> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    rdf:value <https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882/ewxzmu.mp4>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/d29b08b76d16d9d0b936207d20828542> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Lageresolutiekopie (mp4): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Low-resolution copy (mp4): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Copie en basse résolution (mp4): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/ebb27428d880e7aeb226f418500136c4>, <https://data.hetarchief.be/id/entity/6da86886870c034b51f12e5427dff3cb>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hsr> <https://data.hetarchief.be/id/entity/6da86886870c034b51f12e5427dff3cb>;
+    <https://data.hetarchief.be/ns/object/isAccessCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hss> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.
+<https://data.hetarchief.be/id/entity/6d264a768fc961f01ea66144d2e3cb6c> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2021-07-03T16:24:25.623122Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "ewxzmu.mp3"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/2bd4638d9c6cf2e505e8c55b033625f5>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "ewxzmu.mp3";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "audio/mpeg";
+    <http://www.loc.gov/premis/rdf/v3/size> "4541997"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <https://schema.org/duration> "PT10H36M42.666S"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<https://data.hetarchief.be/id/entity/2bd4638d9c6cf2e505e8c55b033625f5> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    rdf:value <https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882/ewxzmu.mp3>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/f5b728257a2ec1dfae97501b3d874bdf> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Lageresolutiekopie (mp3): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Low-resolution copy (mp3): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Copie en basse résolution (mp3): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/ebb27428d880e7aeb226f418500136c4>, <https://data.hetarchief.be/id/entity/6d264a768fc961f01ea66144d2e3cb6c>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hsr> <https://data.hetarchief.be/id/entity/6d264a768fc961f01ea66144d2e3cb6c>;
+    <https://data.hetarchief.be/ns/object/isAccessCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hss> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.
+<https://data.hetarchief.be/id/entity/e6f92cb26f0eb7ab4d7cfcc248ef95a7> a <http://www.loc.gov/premis/rdf/v3/File>;
+    <https://schema.org/dateCreated> "2021-07-03T16:24:25.623122Z"^^<http://id.loc.gov/datatypes/edtf/EDTF-level0>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "ewxzmu.m4a"@nl;
+    <http://www.loc.gov/premis/rdf/v3/storedAt> <https://data.hetarchief.be/id/entity/107f7cf5ec615e3ae9d5a2ec811ae012>;
+    <http://www.loc.gov/premis/rdf/v3/originalName> "ewxzmu.m4a";
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/isi> <https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3>;
+    <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasMimeType> "audio/m4a";
+    <http://www.loc.gov/premis/rdf/v3/size> "4790905"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>;
+    <https://schema.org/duration> "PT10H36M42.666S"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<https://data.hetarchief.be/id/entity/107f7cf5ec615e3ae9d5a2ec811ae012> a <http://www.loc.gov/premis/rdf/v3/StorageLocation>;
+    rdf:value <https://fiihyiw-wrefv.vovh.uo/dsqb/MBCLSAJGXZBJ/l1n9vxym8t8m98a4c91074z1lhj2l6ywh8n93d06l1376q2z3h014219806ws882/ewxzmu.m4a>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <http://www.loc.gov/premis/rdf/v3/medium> <http://id.loc.gov/vocabulary/preservation/storageMedium/har>.
+<https://data.hetarchief.be/id/entity/82a2d9189afb45ac95f6b5b061ecd8d3> a <https://data.hetarchief.be/ns/object/DigitalRepresentation>;
+    <http://www.w3.org/ns/prov#wasDerivedFrom> <https://data.hetarchief.be/id/entity/599573d9158923f1803dd3171c69fb71>;
+    <https://schema.org/name> "Lageresolutiekopie (m4a): 'Occur election raise second business officer though according.' (rv49u2404u)"@nl, "Low-resolution copy (m4a): 'Occur election raise second business officer though according.' (rv49u2404u)"@en, "Copie en basse résolution (m4a): 'Occur election raise second business officer though according.' (rv49u2404u)"@fr;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/inc> <https://data.hetarchief.be/id/entity/ebb27428d880e7aeb226f418500136c4>, <https://data.hetarchief.be/id/entity/e6f92cb26f0eb7ab4d7cfcc248ef95a7>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hsr> <https://data.hetarchief.be/id/entity/e6f92cb26f0eb7ab4d7cfcc248ef95a7>;
+    <https://data.hetarchief.be/ns/object/isAccessCopyOf> <https://data.hetarchief.be/id/entity/rv49u2404u>;
+    <http://id.loc.gov/vocabulary/preservation/relationshipSubType/hss> <https://data.hetarchief.be/id/entity/9658eb333d639506c5507b453d8ee434>.

@@ -1,0 +1,1086 @@
+{
+    "NrOfResults": 4,
+    "StartIndex": 0,
+    "TotalNrOfResults": 4,
+    "Results": [
+        {
+            "Structural": {
+                "HasChildren": false,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Sets": {
+                    "Set": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "FragmentStartFrames": null,
+                "FragmentEndFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://kzduyltyreu.awtp.vjts.ezrwvzl.fra/company/all/oq-ymwmdbp.png",
+                "PathToPreview": "https://kzduyltyreu.awtp.vjts.ezrwvzl.fra/company/all/oq-ymwmdbp.png",
+                "BrowseStatus": "zgmxcrpne",
+                "RecordId": "l090197gq7252kk76e10y8p283kwf65048026zll22s554t2cn76jsl323y4q05o",
+                "IsInIngestSpace": true,
+                "OrganisationId": "382",
+                "ContainsGeoData": true,
+                "OriginalStatus": "zgmxcrpne",
+                "IsFragment": false,
+                "HasKeyframes": true,
+                "MediaObjectId": "l090197gq7252kk76e10y8p283kwf65048026zll22s554t2cn76jsl323y4q05o",
+                "ArchiveStatus": "completed",
+                "FragmentId": "k170156tv0803tf26f93a5c103qje80294438umc59w388p8at56zjq463m2k10p58c7r3415fqn974a3s09w066j09178p2",
+                "OffsetInDatabase": 12640537,
+                "PathToKeyframeThumb": "https://kzduyltyreu.awtp.vjts.ezrwvzl.fra/company/all/oq-ymwmdbp.png",
+                "DepartmentId": "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "UploadedById": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2001-06-28T10:56:32.895778Z",
+                "Description": "Call court attention.",
+                "OriginalFilename": "980999212k.cqjnzaj",
+                "RightsOwner": "Michaen",
+                "UploadedBy": "Stephanie Lz",
+                "KeyframeStart": 0,
+                "Title": "Nice that since style m.",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "8e7b1e8d-0eee-494b-a6b9-7f029668f44c",
+                        "6cc67b18-eab0-43ca-9432-f432404e8aeb",
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ],
+                    "Export": [
+                        "8e7b1e8d-0eee-494b-a6b9-7f029668f44c",
+                        "6cc67b18-eab0-43ca-9432-f432404e8aeb",
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ],
+                    "Read": [
+                        "8e7b1e8d-0eee-494b-a6b9-7f029668f44c",
+                        "6cc67b18-eab0-43ca-9432-f432404e8aeb",
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "6ee91adf-17b9-4b52-92d6-f318a48adb37",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "type_viaa": "photo",
+                "original_location": "B9-280-28-39F",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2018-09-28",
+                "shipment_id": "31585517900",
+                "digitization_format": "DNG/TIFF 16 bits",
+                "created_on": "2023-03-16T23:10:50",
+                "updated_by": "Casey Henry",
+                "status": "Dbrhqrd",
+                "qc_date": "2021-05-07",
+                "batch_id": "LZGMTE30",
+                "player_model": "Jaime Rul",
+                "inspection_date": "2021-05-07",
+                "qc_outcome": "y",
+                "dc_identifier_localid": "95B",
+                "PID": "799373748s",
+                "CP": "Qulta-GSJ",
+                "batch_name": "LZGMTE30",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "JK411480",
+                "carrier_barcode": "TNGI_BRD_588339",
+                "dimensions": {
+                    "height_in_mm": [
+                        "598"
+                    ],
+                    "width_in_mm": [
+                        "297"
+                    ]
+                },
+                "preservation_problems": "Mr. David Pena",
+                "updated_on": "2012-07-26T03:02:27",
+                "lto_id": "Connie Gin",
+                "format_version": "Negative",
+                "player_manufacturer": "Zachary z",
+                "digitization_date": "2023-03-24",
+                "transfer_lto_date": "2020-10-01",
+                "digitization_outcome": "y",
+                "digitization_time": "12:42:20",
+                "format": "Glass plate",
+                "created_by": "Casey Henry",
+                "related_documents": "2",
+                "sp_id": "LE-zz03w00",
+                "dcterms_created": "1920/1940",
+                "cleaning_date": "2021-05-07",
+                "qc_by": "Iwbirnohnq",
+                "color": "Wtrht-dtdcd",
+                "sp_name": "OFC",
+                "transport_box_barcode": "YC5",
+                "label_present": true,
+                "dc_titles": {
+                    "reeks": [
+                        "Nicholas Smith"
+                    ]
+                },
+                "cleaning_note": "splzpwbt",
+                "cleaning_outcome": "w",
+                "CP_id": "LE-687bz98",
+                "collection_box_barcode": "MYZS_BRD_336646"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2015-07-22T03:41:13.393153Z",
+                "IsSynchronized": true,
+                "OrganisationName": "mvdec",
+                "Workflow": "OFC",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2015-08-13T20:50:18.068319Z",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "set",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "DepartmentName": "mvdec",
+                "UserLastModifiedDate": "2024-05-06T20:39:21.063473Z",
+                "OrganisationLongName": "mvdec",
+                "RecordType": "Record",
+                "PublicationDate": "2005-11-19T21:36:58.101817Z",
+                "ExternalId": "799373748s",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "LE-687bz98",
+                "ExternalUrl": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "OriginalExtension": "complex",
+                "FileSize": 0,
+                "Md5": null,
+                "MimeType": null,
+                "PronomId": null,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "l090197gq7252kk76e10y8p283kwf65048026zll22s554t2cn76jsl323y4q05o_8602989085"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://tuxroie-atvwn.knar.kx/scene/remain/kkxmbe.jpg",
+                "PathToPreview": "https://tuxroie-atvwn.knar.kx/scene/remain/kkxmbe.jpg",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://vmuluzx-cwvks.dxcz.zw/iofv/LIZVQ/37io929uri6q5a22764i00cggy7b11m33b7053b20y2584cb74d9323p0234cn74",
+                            "PathToKeyframe": "kkxmbe.jpg",
+                            "PathToKeyframeThumb": "kkxmbe-gkfny.jpg",
+                            "HasKeyframes": true,
+                            "Container": "jpg",
+                            "Label": "oalvv_vka",
+                            "FileSize": 80884,
+                            "Height": 64,
+                            "Width": 49
+                        }
+                    ]
+                },
+                "BrowseStatus": "zgmxcrpne",
+                "RecordId": "53yi456qlm4x2v61839p09itek2i04f58a8047h38s1198au89g6199f6807dm46",
+                "IsInIngestSpace": true,
+                "OrganisationId": "382",
+                "ContainsGeoData": true,
+                "OriginalStatus": "zgmxcrpne",
+                "IsFragment": false,
+                "UploadedById": "cb0faf37-5575-403f-bb6b-a83577ffc9f0",
+                "HasKeyframes": true,
+                "MediaObjectId": "53yi456qlm4x2v61839p09itek2i04f58a8047h38s1198au89g6199f6807dm46",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "17gy425fvh0b1t80620a38jcac5o50v99d1883a69a6922sm77g8258i7474je9927358266827f1188g971042ulut8q45m",
+                "OffsetInDatabase": 12640545,
+                "PathToKeyframeThumb": "https://qeseyis-wgftj.axov.he/condition/live/kkxmbe-gkfny.jpg",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2001-06-28T10:56:32.895778Z",
+                "Description": "Call court attention.",
+                "OriginalFilename": "799373748s_jyo.dng",
+                "RightsOwner": "Michaen",
+                "UploadedBy": "fkgnpn@ovbut",
+                "KeyframeStart": 0,
+                "Title": "Nice that since style m.",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ],
+                    "Export": [
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ],
+                    "Read": [
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "type_viaa": "photo",
+                "original_location": "B9-280-28-39F",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2018-09-28",
+                "shipment_id": "31585517900",
+                "digitization_format": "DNG/TIFF 16 bits",
+                "created_on": "2023-03-16T23:10:50",
+                "updated_by": "Casey Henry",
+                "status": "Dbrhqrd",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:viaa=\"http://viaa.be\" xmlns:mets=\"http://www.loc.gov/METS/\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>83077e38-524d-4d89-975d-541dcf106c30</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>DIGITIZATION</premis:eventType><premis:eventDateTime>2019-08-16</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>GMS Capture Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>Gvwmicwa</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Carrier ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>TNGI_BRD_588339</premis:linkingObjectIdentifierValue><premis:linkingObjectRole>utygqy</premis:linkingObjectRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>799373748s_jyo.dng</premis:linkingObjectIdentifierValue><premis:linkingObjectRole>idmezsq</premis:linkingObjectRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2021-05-07",
+                "batch_id": "LZGMTE30",
+                "player_model": "Jaime Rul",
+                "inspection_date": "2021-05-07",
+                "qc_outcome": "y",
+                "dc_identifier_localid": "95B",
+                "PID": "799373748s",
+                "CP": "Qulta-GSJ",
+                "batch_name": "LZGMTE30",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL"
+                    ]
+                },
+                "player_serial_number": "JK411480",
+                "carrier_barcode": "TNGI_BRD_588339",
+                "dimensions": {
+                    "height_in_mm": [
+                        "598"
+                    ],
+                    "width_in_mm": [
+                        "297"
+                    ]
+                },
+                "preservation_problems": "Mr. David Pena",
+                "updated_on": "2012-07-26T03:02:27",
+                "lto_id": "Connie Gin",
+                "format_version": "Negative",
+                "player_manufacturer": "Zachary z",
+                "digitization_date": "2023-03-24",
+                "transfer_lto_date": "2020-10-01",
+                "digitization_outcome": "y",
+                "digitization_time": "12:42:20",
+                "format": "Glass plate",
+                "created_by": "Casey Henry",
+                "related_documents": "2",
+                "sp_id": "LE-zz03w00",
+                "dcterms_created": "1920/1940",
+                "cleaning_date": "2021-05-07",
+                "qc_by": "Iwbirnohnq",
+                "color": "Wtrht-dtdcd",
+                "sp_name": "OFC",
+                "transport_box_barcode": "YC5",
+                "label_present": true,
+                "dc_titles": {
+                    "reeks": [
+                        "Nicholas Smith"
+                    ]
+                },
+                "cleaning_note": "splzpwbt",
+                "cleaning_outcome": "w",
+                "CP_id": "LE-687bz98",
+                "collection_box_barcode": "MYZS_BRD_336646"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2015-12-06T19:54:38.438784Z",
+                "IsSynchronized": true,
+                "OrganisationName": "mvdec",
+                "Workflow": "OFC",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2015-06-27T04:10:16.770487Z",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "image",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2005-04-17T15:14:22.033031Z",
+                "OrganisationLongName": "mvdec",
+                "RecordType": "Record",
+                "PublicationDate": "2015-06-27T04:10:16.770487Z",
+                "ExternalId": "799373748s_jyo",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "LE-687bz98",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "PronomId": "fmt/152",
+                "OriginalExtension": "dng",
+                "MimeType": "image/x-adobe-dng",
+                "Width": 17,
+                "Md5": "8635b4ce247982d354a05de61f1b3937",
+                "FileSize": 302751660,
+                "ImageSize": "14204x10652",
+                "Height": 99,
+                "ImageOrientation": "landscape",
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "l090197gq7252kk76e10y8p283kwf65048026zll22s554t2cn76jsl323y4q05o_5339259196"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Relations": {},
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://kzduyltyreu.awtp.vjts.ezrwvzl.fra/company/all/oq-ymwmdbp.png",
+                "PathToPreview": "https://kzduyltyreu.awtp.vjts.ezrwvzl.fra/company/all/oq-ymwmdbp.png",
+                "BrowseStatus": "oq_kkxmbe",
+                "RecordId": "2dm99zgy5y67192t0l98663n705hl8573921j464if332f3139972ee461y34m77",
+                "IsInIngestSpace": true,
+                "OrganisationId": "382",
+                "ContainsGeoData": true,
+                "OriginalStatus": "zgmxcrpne",
+                "IsFragment": false,
+                "UploadedById": "cb0faf37-5575-403f-bb6b-a83577ffc9f0",
+                "HasKeyframes": true,
+                "MediaObjectId": "2dm99zgy5y67192t0l98663n705hl8573921j464if332f3139972ee461y34m77",
+                "ArchiveStatus": "on_disk",
+                "FragmentId": "2kw17yfk9b77372q0j67160i107vv7635861d407zj325c3259610oh217c41b704kr42ihbe9l7577bu693327k46933740",
+                "OffsetInDatabase": 12640543,
+                "PathToKeyframeThumb": "https://kzduyltyreu.awtp.vjts.ezrwvzl.fra/company/all/oq-ymwmdbp.png",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Browses": {},
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2001-06-28T10:56:32.895778Z",
+                "Description": "Call court attention.",
+                "OriginalFilename": "799373748s_wiid.xml",
+                "RightsOwner": "Michaen",
+                "UploadedBy": "fkgnpn@ovbut",
+                "KeyframeStart": 0,
+                "Title": "Nice that since style m.",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "8e7b1e8d-0eee-494b-a6b9-7f029668f44c",
+                        "6cc67b18-eab0-43ca-9432-f432404e8aeb",
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ],
+                    "Export": [
+                        "8e7b1e8d-0eee-494b-a6b9-7f029668f44c",
+                        "6cc67b18-eab0-43ca-9432-f432404e8aeb",
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ],
+                    "Read": [
+                        "8e7b1e8d-0eee-494b-a6b9-7f029668f44c",
+                        "6cc67b18-eab0-43ca-9432-f432404e8aeb",
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "6ee91adf-17b9-4b52-92d6-f318a48adb37",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "type_viaa": "photo",
+                "original_location": "B9-280-28-39F",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2018-09-28",
+                "shipment_id": "31585517900",
+                "digitization_format": "DNG/TIFF 16 bits",
+                "created_on": "2023-03-16T23:10:50",
+                "updated_by": "Casey Henry",
+                "status": "Dbrhqrd",
+                "qc_date": "2021-05-07",
+                "batch_id": "LZGMTE30",
+                "player_model": "Jaime Rul",
+                "inspection_date": "2021-05-07",
+                "qc_outcome": "y",
+                "dc_identifier_localid": "95B",
+                "PID": "799373748s",
+                "CP": "Qulta-GSJ",
+                "batch_name": "LZGMTE30",
+                "player_serial_number": "JK411480",
+                "carrier_barcode": "TNGI_BRD_588339",
+                "dimensions": {
+                    "height_in_mm": [
+                        "598"
+                    ],
+                    "width_in_mm": [
+                        "297"
+                    ]
+                },
+                "preservation_problems": "Mr. David Pena",
+                "updated_on": "2012-07-26T03:02:27",
+                "lto_id": "Connie Gin",
+                "format_version": "Negative",
+                "player_manufacturer": "Zachary z",
+                "digitization_date": "2023-03-24",
+                "transfer_lto_date": "2020-10-01",
+                "digitization_outcome": "y",
+                "digitization_time": "12:42:20",
+                "format": "Glass plate",
+                "created_by": "Casey Henry",
+                "related_documents": "2",
+                "sp_id": "LE-zz03w00",
+                "dcterms_created": "1920/1940",
+                "cleaning_date": "2021-05-07",
+                "qc_by": "Iwbirnohnq",
+                "color": "Wtrht-dtdcd",
+                "sp_name": "OFC",
+                "transport_box_barcode": "YC5",
+                "label_present": true,
+                "dc_titles": {
+                    "reeks": [
+                        "Nicholas Smith"
+                    ]
+                },
+                "cleaning_note": "splzpwbt",
+                "cleaning_outcome": "w",
+                "CP_id": "LE-687bz98",
+                "collection_box_barcode": "MYZS_BRD_336646"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2009-08-20T16:57:15.642294Z",
+                "IsSynchronized": true,
+                "OrganisationName": "mvdec",
+                "Workflow": "OFC",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2023-01-20T13:55:49.512473Z",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "document",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2023-01-20T13:55:49.512473Z",
+                "OrganisationLongName": "mvdec",
+                "RecordType": "Record",
+                "PublicationDate": "2017-09-05T00:47:49.610545Z",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "LE-687bz98",
+                "ExternalId": null,
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "PronomId": "fmt/101",
+                "OriginalExtension": "xml",
+                "MimeType": "application/xml",
+                "Md5": "92452f93f52c3a73935002cfbd812c8d",
+                "FileSize": 17183,
+                "Width": null,
+                "Height": null,
+                "ImageSize": null,
+                "ImageOrientation": null,
+                "ImageQuality": null,
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        },
+        {
+            "Structural": {
+                "Relations": {
+                    "ContainedBy": [
+                        "bdfc715b6c2448cabfd79de507eb8054e5b6e6d3ebc046dfab6376f85140c5f7f246a47b59c5489db7f47713589b5ac0"
+                    ]
+                },
+                "HasChildren": false,
+                "FragmentStartFrames": 0,
+                "Sets": {
+                    "Set": [
+                        "l090197gq7252kk76e10y8p283kwf65048026zll22s554t2cn76jsl323y4q05o_2945338464"
+                    ]
+                },
+                "FragmentEndFrames": 0,
+                "Versioning": {
+                    "Status": "Untracked",
+                    "Version": 1
+                },
+                "Collections": {
+                    "Collection": []
+                },
+                "Newspapers": {
+                    "Newspaper": []
+                },
+                "Fragments": {
+                    "Fragment": []
+                },
+                "MainFragment": null,
+                "FragmentDurationTimeCode": null,
+                "FragmentStartTimeCode": null,
+                "FragmentEndTimeCode": null,
+                "FragmentDurationFrames": null,
+                "ReferenceCodes": {},
+                "ParentRecordId": null,
+                "ReferenceTitles": {},
+                "FieldDefinition": {},
+                "PreviewRecordId": null,
+                "OriginalRecordId": null
+            },
+            "Internal": {
+                "IndexName": "viaa",
+                "PathToKeyframe": "https://dpaevly-mkssc.xsxy.gl/her/at/kkxmbe.jpg",
+                "PathToPreview": "https://dpaevly-mkssc.xsxy.gl/her/at/kkxmbe.jpg",
+                "Browses": {
+                    "Browse": [
+                        {
+                            "BaseUrl": "https://zlulrij-ztgyd.lnwt.yw/spxd/CBWVZ/5z8ftx2b87e1518arw1p723rqxjkg0ur41111q45ej546r8jzs8jm514il59nsj4",
+                            "PathToKeyframe": "kkxmbe.jpg",
+                            "PathToKeyframeThumb": "kkxmbe-gkfny.jpg",
+                            "HasKeyframes": true,
+                            "Container": "jpg",
+                            "Label": "oalvv_vka",
+                            "FileSize": 281513,
+                            "Height": 49,
+                            "Width": 20
+                        }
+                    ]
+                },
+                "BrowseStatus": "zgmxcrpne",
+                "RecordId": "0e1tol9w63s0358gjd3q046izbvhp4ww04668q28pi975c3eei4ag414lq42zfq3",
+                "IsInIngestSpace": true,
+                "OrganisationId": "382",
+                "ContainsGeoData": true,
+                "OriginalStatus": "zgmxcrpne",
+                "IsFragment": false,
+                "UploadedById": "cb0faf37-5575-403f-bb6b-a83577ffc9f0",
+                "HasKeyframes": true,
+                "MediaObjectId": "0e1tol9w63s0358gjd3q046izbvhp4ww04668q28pi975c3eei4ag414lq42zfq3",
+                "ArchiveStatus": "on_tape",
+                "FragmentId": "6i3stl0w32x1172oxe7l635hsijdd7pp07323q53mg978d6bae0bo314no83tpw915j7c579yom23701g813l5rq4i441607",
+                "OffsetInDatabase": 12640547,
+                "PathToKeyframeThumb": "https://zhzgqcd-ryaul.zadi.sg/himself/fish/kkxmbe-gkfny.jpg",
+                "ExternalSourceUrl": null,
+                "IngestSpaceId": null,
+                "DepartmentId": null,
+                "PathToVideo": null,
+                "PathToOriginal": null,
+                "Distributions": {
+                    "Distribution": []
+                },
+                "Profiles": {}
+            },
+            "Descriptive": {
+                "CreationDate": "2001-06-28T10:56:32.895778Z",
+                "Description": "Call court attention.",
+                "OriginalFilename": "799373748s_wkfx.tiff",
+                "RightsOwner": "Michaen",
+                "UploadedBy": "fkgnpn@ovbut",
+                "KeyframeStart": 0,
+                "Title": "Nice that since style m.",
+                "CreationDateLegacy": null,
+                "Rights": null,
+                "Keywords": {
+                    "Keyword": []
+                },
+                "Categories": {
+                    "Category": []
+                },
+                "LimitedCategories": {},
+                "Publisher": null,
+                "Authors": {},
+                "Location": null,
+                "Address": {},
+                "NonPreferredTerm": null,
+                "Publications": {
+                    "Comment": []
+                },
+                "OriginalPath": null,
+                "Position": {}
+            },
+            "RightsManagement": {
+                "Permissions": {
+                    "Write": [
+                        "8e7b1e8d-0eee-494b-a6b9-7f029668f44c",
+                        "6cc67b18-eab0-43ca-9432-f432404e8aeb",
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ],
+                    "Export": [
+                        "8e7b1e8d-0eee-494b-a6b9-7f029668f44c",
+                        "6cc67b18-eab0-43ca-9432-f432404e8aeb",
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ],
+                    "Read": [
+                        "8e7b1e8d-0eee-494b-a6b9-7f029668f44c",
+                        "6cc67b18-eab0-43ca-9432-f432404e8aeb",
+                        "62b26288-baf0-4e1e-ae35-701a05c0ea6d",
+                        "6ee91adf-17b9-4b52-92d6-f318a48adb37",
+                        "96f44f28-2903-4267-82d6-d14b1dbfe3c5"
+                    ]
+                },
+                "RecordPhase": "Published",
+                "ExpiryDate": null,
+                "ExpiryStatus": null,
+                "Zone": {}
+            },
+            "Dynamic": {
+                "type_viaa": "photo",
+                "original_location": "B9-280-28-39F",
+                "inspection_outcome": "y",
+                "batch_pickup_date": "2018-09-28",
+                "shipment_id": "31585517900",
+                "digitization_format": "DNG/TIFF 16 bits",
+                "created_on": "2023-03-16T23:10:50",
+                "updated_by": "Casey Henry",
+                "status": "Dbrhqrd",
+                "premis": "<premis:premis version=\"2.3\" xmlns:premis=\"info:lc/xmlns/premis-v2\"><premis:event xmlns:premis=\"info:lc/xmlns/premis-v2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:revtmd=\"http://nwtssite.nwts.nara/schema/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:viaa=\"http://viaa.be\" xmlns:mets=\"http://www.loc.gov/METS/\"><premis:eventIdentifier><premis:eventIdentifierType>UUID</premis:eventIdentifierType><premis:eventIdentifierValue>83077e38-524d-4d89-975d-541dcf106c30</premis:eventIdentifierValue></premis:eventIdentifier><premis:eventType>DIGITIZATION</premis:eventType><premis:eventDateTime>2019-08-16</premis:eventDateTime><premis:eventDetail></premis:eventDetail><premis:eventOutcomeInformation><premis:eventOutcome>y</premis:eventOutcome></premis:eventOutcomeInformation><premis:linkingAgentIdentifier><premis:linkingAgentIdentifierType>GMS Capture Agent ID</premis:linkingAgentIdentifierType><premis:linkingAgentIdentifierValue>Gvwmicwa</premis:linkingAgentIdentifierValue></premis:linkingAgentIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Carrier ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>TNGI_BRD_588339</premis:linkingObjectIdentifierValue><premis:linkingObjectRole>utygqy</premis:linkingObjectRole></premis:linkingObjectIdentifier><premis:linkingObjectIdentifier><premis:linkingObjectIdentifierType>VIAA Object ID</premis:linkingObjectIdentifierType><premis:linkingObjectIdentifierValue>799373748s_jyo.dng</premis:linkingObjectIdentifierValue><premis:linkingObjectRole>idmezsq</premis:linkingObjectRole></premis:linkingObjectIdentifier></premis:event></premis:premis>",
+                "qc_date": "2021-05-07",
+                "batch_id": "LZGMTE30",
+                "player_model": "Jaime Rul",
+                "inspection_date": "2021-05-07",
+                "qc_outcome": "y",
+                "dc_identifier_localid": "95B",
+                "PID": "799373748s",
+                "CP": "Qulta-GSJ",
+                "batch_name": "LZGMTE30",
+                "dc_rights_licenses": {
+                    "multiselect": [
+                        "VIAA-ONDERWIJS",
+                        "VIAA-ONDERZOEK",
+                        "VIAA-INTRA_CP-CONTENT",
+                        "VIAA-INTRA_CP-METADATA-ALL",
+                        "VIAA-PUBLIEK-METADATA-LTD",
+                        "BEZOEKERTOOL-CONTENT",
+                        "BEZOEKERTOOL-METADATA-ALL",
+                        "IIIF-PUBLIC"
+                    ]
+                },
+                "player_serial_number": "JK411480",
+                "carrier_barcode": "TNGI_BRD_588339",
+                "dimensions": {
+                    "height_in_mm": [
+                        "598"
+                    ],
+                    "width_in_mm": [
+                        "297"
+                    ]
+                },
+                "preservation_problems": "Mr. David Pena",
+                "updated_on": "2012-07-26T03:02:27",
+                "lto_id": "Connie Gin",
+                "format_version": "Negative",
+                "player_manufacturer": "Zachary z",
+                "digitization_date": "2023-03-24",
+                "transfer_lto_date": "2020-10-01",
+                "digitization_outcome": "y",
+                "digitization_time": "12:42:20",
+                "format": "Glass plate",
+                "created_by": "Casey Henry",
+                "related_documents": "2",
+                "sp_id": "LE-zz03w00",
+                "dcterms_created": "1920/1940",
+                "cleaning_date": "2021-05-07",
+                "qc_by": "Iwbirnohnq",
+                "color": "Wtrht-dtdcd",
+                "sp_name": "OFC",
+                "transport_box_barcode": "YC5",
+                "label_present": true,
+                "dc_titles": {
+                    "reeks": [
+                        "Nicholas Smith"
+                    ]
+                },
+                "cleaning_note": "splzpwbt",
+                "cleaning_outcome": "w",
+                "CP_id": "LE-687bz98",
+                "collection_box_barcode": "MYZS_BRD_336646"
+            },
+            "Administrative": {
+                "LastModifiedDate": "2010-01-15T22:55:13.437288Z",
+                "IsSynchronized": true,
+                "OrganisationName": "mvdec",
+                "Workflow": "OFC",
+                "HasFailedJobs": true,
+                "ArchiveDate": "2021-01-28T13:52:56.690471Z",
+                "RecordStatus": "Published",
+                "IsAccess": true,
+                "Type": "image",
+                "IsOriginal": true,
+                "IsPreservation": true,
+                "UserLastModifiedDate": "2010-01-15T22:55:13.437288Z",
+                "OrganisationLongName": "mvdec",
+                "RecordType": "Record",
+                "PublicationDate": "2012-09-22T21:21:08.121197Z",
+                "ExternalId": "799373748s_wkfx",
+                "DeleteStatus": "NotDeleted",
+                "MainRecordType": "Record",
+                "OrganisationExternalId": "LE-687bz98",
+                "ExternalUrl": null,
+                "DepartmentName": null,
+                "IngestTape": null,
+                "LogicalDeletionDate": null,
+                "ChildOrderFields": {},
+                "RejectionDate": null,
+                "ExternalUse": null
+            },
+            "Technical": {
+                "ImageQuality": "high",
+                "PronomId": "fmt/353",
+                "OriginalExtension": "tiff",
+                "MimeType": "image/tiff",
+                "Width": 12,
+                "Md5": "c0907e713b8773a7232b2298af930293",
+                "FileSize": 72768902,
+                "ImageSize": "4945x7357",
+                "Height": 81,
+                "ImageOrientation": "portrait",
+                "VideoTechnical": null,
+                "AudioTechnical": null,
+                "VideoFormat": null,
+                "Exif": {},
+                "Sha256": null,
+                "DurationTimeCode": null,
+                "StartTimeCode": null,
+                "EndTimeCode": null,
+                "DurationFrames": null,
+                "StartFrames": null,
+                "EndFrames": null,
+                "VideoCodec": null,
+                "VideoFps": null,
+                "VideoBitRate": null,
+                "AudioCodec": null,
+                "AudioChannels": null,
+                "AudioSampleRate": null,
+                "AudioBitRate": null,
+                "AudioTracks": {},
+                "BitRate": null,
+                "Origin": null,
+                "EssenceOffset": null,
+                "EditUnitByteSize": null,
+                "RunIn": null,
+                "FramesPerEditUnit": null,
+                "EditRate": null,
+                "IndexEditRate": null
+            },
+            "Context": {
+                "IsEditable": true,
+                "IsDeletable": true,
+                "IsPublic": false,
+                "IsExportable": true,
+                "IsEmbeddable": false,
+                "Profiles": []
+            }
+        }
+    ]
+}
