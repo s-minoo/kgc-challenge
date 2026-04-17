@@ -15,7 +15,7 @@
                 "number_of_properties": 20,
                 "value_size": 0,
                 "data_format": "csv",
-                "engine": "TODO ADD ENGINE NAME"
+                "engine": "MappingWeaver"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "number_of_properties": 20,
                 "value_size": 0,
                 "data_format": "csv",
-                "engine": "TODO ADD ENGINE NAME"
+                "engine": "MappingWeaver"
             }
         },
         {
@@ -45,7 +45,7 @@
                 "number_of_properties": 20,
                 "value_size": 0,
                 "data_format": "csv",
-                "engine": "TODO ADD ENGINE NAME"
+                "engine": "MappingWeaver"
             }
         },
         {
@@ -60,7 +60,7 @@
                 "number_of_properties": 20,
                 "value_size": 0,
                 "data_format": "csv",
-                "engine": "TODO ADD ENGINE NAME"
+                "engine": "MappingWeaver"
             }
         }
     ]

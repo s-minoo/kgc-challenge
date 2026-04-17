@@ -12,7 +12,7 @@
                 "count": 10000, 
                 "list_length": 10, 
                 "data_format": "json",
-                "engine": "TODO ADD ENGINE NAME"
+                "engine": "MappingWeaver"
             }
         },
         {
@@ -24,7 +24,7 @@
                 "count": 100000, 
                 "list_length": 10, 
                 "data_format": "json",
-                "engine": "TODO ADD ENGINE NAME"
+                "engine": "MappingWeaver"
             }
         },
         {
@@ -36,7 +36,7 @@
                 "count": 1000000, 
                 "list_length": 10, 
                 "data_format": "json",
-                "engine": "TODO ADD ENGINE NAME"
+                "engine": "MappingWeaver"
             }
         },
         {
@@ -48,7 +48,7 @@
                 "count": 10000000, 
                 "list_length": 10, 
                 "data_format": "json",
-                "engine": "TODO ADD ENGINE NAME"
+                "engine": "MappingWeaver"
             }
         }
     ]
