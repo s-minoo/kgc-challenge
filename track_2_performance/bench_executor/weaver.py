@@ -24,7 +24,7 @@ D2RQ = Namespace('http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#')
 
 VERSION = '1.1.0'  # standalone mode with RDB support
 TIMEOUT = 6 * 3600  # 6 hours
-IMAGE = f'kgconstruct/mappingweaver-java:v{VERSION}'
+IMAGE = f'kg-construct/mappingweaver-java:v{VERSION}'
 
 
 class MappingWeaver(Container):
